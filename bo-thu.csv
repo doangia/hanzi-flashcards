@@ -1,0 +1,259 @@
+B	一	1.0:1	yi1	nhất	số một	one
+B	丨	2.0:1	ge3	cổn	sổ	bar
+B	丶	3.0:1	zhu3	chủ	chấm	point
+B	丿	4.0:1	pie3	phiệt	phẩy	comma
+B	乙	5.0:1	yi3	ất	cong	2nd stema
+B	亅	6.0:2	jue2	quyết	sổ móc	hook
+B	二	7.0:2	er4	nhị	số hai	two; twice
+B	亠	8.0:2	tou2	đầu	chấm đầu	lid
+B	人	9.0:2	ren2	nhân	người	man; person, people; mankind; someone else
+B	儿	10.0:2	er2	nhân	người	human
+B	入	11.0:2	ru4	nhập	vào	enter, come in(to), join
+B	八	12.0:2	ba1	bát	số tám	eight; all around, all sides
+B	冂	13.0:2	jiong1	quynh	trống rỗng	limits
+B	冖	14.0:2	mi4	mịch	che	cover
+B	冫	15.0:2	bing1	băng	giá	ice
+B	几	16.0:2	ji1	kỷ	ghế	seat
+B	凵	17.0:2	qu1	khảm	há miệng	concave
+B	刀	18.0:2	dao1	đao	dao	knife; old coin; measure
+B	力	19.0:2	li4	lực	sức	power, capability, influence
+B	勹	20.0:2	bao1	bao	túi	bag
+B	匕	21.0:2	bi3	chủy	thìa	spoon
+B	匚	22.0:2	fang1	phương	hộp	container
+B	匸	23.0:2	xi3	hễ (hay hệ)	che cất	box
+B	十	24.0:2	shi2	thập	số mười	ten, tenth; complete; perfect
+B	卜	25.0:2	bu3	bốc	bói	to divine
+B	卩	26.0:2	jie2	tiết	tin, mắt tre	internode
+B	厂	27.0:2	han4	hán	sườn núi	flank
+B	厶	28.0:2	si1	tư (hay khư)	gian, riêng	private
+B	又	29.0:2	you4	hựu	lại	and, also, again, in addition
+B	口	30.0:3	kou3	khẩu	miệng	mouth; open end; entrance, gate
+B	囗	31.0:3	wei2	vi	vòng	perimeter
+B	土	32.0:3	tu3	thổ	đất	soil, earth; items made of earth
+B	士	33.0:3	shi4	sĩ	trò	scholar, gentleman; soldier
+B	夂	34.0:3	chu3	truy	đến sau	to follow
+B	夊	35.0:3	sui1	suy (hay tuy)	 đi chậm	short step
+B	夕	36.0:3	xi1	tịch	tối	night
+B	大	37.0:3	da4 dai4 tai4	đại	to (to cụ thể)	big, great, vast, large, high
+B	女	38.0:3	nu:3	nữ	đàn bà, con gái	woman, girl; feminine; rad. 38
+B	子	39.0:3	zi3 zi5	tử	con	offspring, child; fruit, seed of
+B	宀	40.0:3	mian2	miên	mái nhà	roof
+B	寸	41.0:3	cun4	thốn	tấc	inch
+B	小	42.0:3	xiao3	tiểu	nhỏ	small, tiny, insignificant
+B	尢	43.0:3	wang1	uông	khom lưng	thin
+B	尸	44.0:3	shi1	thi	thây	corpse
+B	屮	45.0:3	che4	triệt	cỏ mới mọc	sapling
+B	山	46.0:3	shan1	sơn	núi	mountain, hill, peak
+B	巛	47.0:3	chuan1	xuyên	sông	river
+B	工	48.0:3	gong1	công	công, thợ	labor, work; worker, laborer
+B	己	49.0:3	ji3	kỷ	mình	self, oneself; personal, private
+B	巾	50.0:3	jin1	cân	khăn	cloth
+B	干	51.0:3	gan1	can	phạm	to nudge
+B	幺	52.0:3	yao1	yêu	ít	tiny
+B	广	53.0:3	an1	nghiễm (hay yểm)	mái nhà	house top
+B	廴	54.0:3	yin3	dẫn	bước dài	slow walk
+B	廾	55.0:3	gong4	củng	chấp tay	twenty
+B	弋	56.0:3	yi4	dặc (hay dực)	bắn	to take
+B	弓	57.0:3	gong1	cung	cây cung	bow
+B	彐	58.0:3	ji4	ký (hay kệ)	đầu con nhím	hedgehog top
+B	彡	59.0:3	shan1	sam	lông dài	hair
+B	彳	60.0:3	chi4	xích	bước	short steps
+B	心	61.0:4	xin1	tâm	lòng, tim	heart; mind, intelligence; soul
+B	戈	62.0:4	ge1	qua	cái mác	lance
+B	戶	63.0:4	hu4	hộ	cửa ngõ	family
+B	手	64.0:4	shou3	thủ	tay	hand
+B	支	65.0:4	zhi1	chi	cành	disperse, pay; support; branch
+B	攴	66.0:4	pu1	phốc (hay phộc)	đánh nhẹ	to tap
+B	文	67.0:4	wen2	văn	văn hóa, văn học	literature, culture, writing
+B	斗	68.0:4	dou3	đẩu	cái đấu	container
+B	斤	69.0:4	jin1	cân	cân, cái rìu	ax
+B	方	70.0:4	fang1 feng1 pang2 wang3	phương	vuông	square; rectangle; region, local
+B	无	71.0:4	wu2	vô	không	without
+B	日	72.0:4	ri4 mi4	nhật	mặt trời	sun; day; daytime
+B	曰	73.0:4	yue1	viết	rằng	to say
+B	月	74.0:4	yue4	nguyệt	mặt trăng	moon; month; radical no. 74
+B	木	75.0:4	mu4	mộc	cây	tree; wood, lumber; wooden
+B	欠	76.0:4	qian4	khiếm	thiếu	to owe
+B	止	77.0:4	zhi3	chỉ	dừng	stop, halt, desist; detain
+B	歹	78.0:4	dai1	đãi	xấu	vicious
+B	殳	79.0:4	shu1	thù	cây gậy	dart
+B	毋	80.0:4	wu2	vô	đừng	do not
+B	比	81.0:4	bi3 bi4 pi2 pi3	tỷ	so sánh	compare, liken; comparison; than
+B	毛	82.0:4	mao2 mao4	mao	lông	hair, fur, feathers; coarse
+B	氏	83.0:4	shi4	thị	họ	clan
+B	气	84.0:4	qi4	khí	hơi	air
+B	水	85.0:4	shui3	thủy	nước	water, liquid, lotion, juice
+B	火	86.0:4	huo3 huo1	hỏa	lửa	fire, flame; burn; anger, rage
+B	爪	87.0:4	zhua3	trảo	móng	claw
+B	父	88.0:4	fu4 fu3	phụ	cha	father; radical no. 88
+B	爻	89.0:4	yao2	hào	giao nhau	stroke
+B	爿	90.0:4	qiang2	tường	tấm ván	wall
+B	片	91.0:4	pian4 pian1 pan4	phiến	thẻ	slice, splinter, strip; rad. 91
+B	牙	92.0:4	ya2	nha	răng	tooth
+B	牛	93.0:4	niu2	ngưu	trâu	cow, ox, bull; radical no. 93
+B	犬	94.0:4	quan3	khuyển	chó	canine
+B	玄	95.0:5	xuan2	huyền	đen	mystic
+B	玉	96.0:5	yu4	ngọc	ngọc	precious stone
+B	瓜	97.0:5	gua1	qua	dưa	melon
+B	瓦	98.0:5	wa3	ngõa	ngói	pottery
+B	甘	99.0:5	gan1	cam	ngọt	sweet
+B	生	100.0:5	sheng1	sinh	sống, học sinh	life, living, lifetime; birth
+B	用	101.0:5	yong4	dụng	dùng	use, employ, apply, operate; use
+B	田	102.0:5	tian2	điền	ruộng	field, arable land, cultivated
+B	疋	103.0:5	pi3	sơ	đủ, cái chơn	roll of cloth
+B	疒	104.0:5	ne4	nạch (hay tật)	bịnh tật	sickness
+B	癶	105.0:5	bo1	bát	rời ra	to deviate
+B	白	106.0:5	bai2 bo2	bạch	trắng	white; pure, unblemished; bright
+B	皮	107.0:5	pi2	bì	da	skin, hide, fur, feather; outer
+B	皿	108.0:5	min3	mãnh	chén dĩa	bowl,ceramics
+B	目	109.0:5	mu4	mục	mắt	eye; look, see; division, topic
+B	矛	110.0:5	mao2	mâu	cái giáo	lance
+B	矢	111.0:5	shi3	thỉ	cây tên	arrow
+B	石	112.0:5	shi2 dan4	thạch	đá	stone, rock, mineral; rad. 112
+B	示	113.0:5	shi4 qi1 zhi4 shi2	thị (hay kỳ)	bảo, dạy	show, manifest; demonstrate
+B	禸	114.0:5	rou2	nhữu	dấu chân thú	trace
+B	禾	115.0:5	he2	hòa	lúa	rice plant
+B	穴	116.0:5	xue4	huyệt	hang	cave
+B	立	117.0:5	li4 wei4	lập	đứng	stand; let stand; establish, set
+B	竹	118.0:6	zhu2	trúc	tre	bamboo; flute; radical no. 118
+B	米	119.0:6	mi3	mễ	gạo	rice
+B	糸	120.0:6	mi4	mịch	tơ nhỏ	connection
+B	缶	121.0:6	fou3	phẫu hay (phữu)	bình sành	crock
+B	网	122.0:6	wang3	võng	lưới	net
+B	羊	123.0:6	yang2	dương	dê	goat/sheep
+B	羽	124.0:6	yu3	vũ	cánh	feather
+B	老	125.0:6	lao3	lão	già	old, aged; experienced
+B	而	126.0:6	er2	nhi	mà	and; and then; and yet; but
+B	耒	127.0:6	lei3	lỗi	cái cày	plough
+B	耳	128.0:6	er3	nhĩ	cái tai	ears
+B	聿	129.0:6	yu4	duật	cái bút	writing brush
+B	肉	130.0:6	rou4 ru4	nhục	thịt	flesh; meat; radical no. 130
+B	臣	131.0:6	cang2	thần	tôi	statesman
+B	自	132.0:6	zi4	tự	từ	self, private, personal; from
+B	至	133.0:6	zhi4 die2	chí	đến	reach, arrive; extremely, very
+B	臼	134.0:6	jiu4	cữu	cái cối	motar
+B	舌	135.0:6	she2	thiệt	lưỡi	tongue
+B	舛	136.0:6	chuan2	suyễn	ngang trái	chaotic
+B	舟	137.0:6	zhou1	chu	thuyền	boat
+B	艮	138.0:6	gen4	cấn	bền, vững	tough
+B	色	139.0:6	se4 shai3	sắc	màu	color, tint, hue, shade; form, body; beauty, desire for beauty
+B	艸	140.0:6	cao3	thảo	cỏ	grass
+B	虍	141.0:6	hu1	hô (hay hổ)	hùm	stripes
+B	虫	142.0:6	chong2	trùng	sâu trùng	insects
+B	血	143.0:6	xie3 xue4	huyết	máu	blood; radical number 143
+B	行	144.0:6	xing2 hang2 xing4 hang4 heng2	hành (hàng)	đi, tiệm	go; walk; move, travel;circulate
+B	衣	145.0:6	yi1	y	áo	clothing
+B	襾	146.0:6	ya4	á	che	lid
+B	見	147.0:7	jian4 xian4	kiến	thấy	see, observe, behold; percieve
+B	角	148.0:7	jiao3 jue2 gu3 lu4	giác	sừng	horn; angle, corner; point; dime
+B	言	149.0:7	yan2 yan4 yin2	ngôn	nói	words, speech; speak, say
+B	谷	150.0:7	gu3	cốc	hang	valley
+B	豆	151.0:7	dou4	đậu	hột đậu	beans/peas
+B	豕	152.0:7	shi3	thỉ	con heo	pig
+B	豸	153.0:7	zhi4	trĩ	loài bò sát	reptiles
+B	貝	154.0:7	bei4	bối	con sò	shells
+B	赤	155.0:7	ce4	xích	đỏ	red
+B	走	156.0:7	zou3	tẩu	chạy, đi	walk, go on foot; run; leave
+B	足	157.0:7	zu2 ju4	túc	chân, đủ	foot; attain, satisfy, enough
+B	身	158.0:7	shen1 yuan2 juan1	thân	thân mình	body; trunk, hull; rad. no. 158
+B	車	159.0:7	che1 ju1	xa	xe	cart, vehicle; carry in cart
+B	辛	160.0:7	bi4	tân	cay	piquant
+B	辰	161.0:7	chen2	thần	sớm	time
+B	辵	162.0:7	chuo4	xước	đi mau	to pace
+B	邑	163.0:7	yi4	ấp	một khu đất	county
+B	酉	164.0:7	you3	dậu	giờ dậu, no	10th ter. branch
+B	釆	165.0:7	bian4	biện	chia rẽ, phân xử	to gather
+B	里	166.0:7	li3	lý	làng, dặm	unit of distance; village; lane
+B	金	167.0:8	jin1 jin4	kim	vàng, kim loại	gold; metals in general; money
+B	長	168.0:8	chang2 zhang3 zhang4	trường	dài	long; length; excel in; leader
+B	門	169.0:8	men2	môn	cửa	gate, door, entrance, opening
+B	阜	170.0:8	fu4	phụ	gò, đống	small hill
+B	隶	171.0:8	li4	đãi	kịp, đuổi bắt	in time
+B	隹	172.0:8	zhui1	chuy	chim đuôi ngắn	bird
+B	雨	173.0:8	yu3 yu4	vũ	mưa	rain; rainy; radical no. 173
+B	青	174.0:8	qing1 jing1	thanh	xanh, trẻ	blue, green, black; young
+B	非	175.0:8	fei1 fei3	phi	trái, không phải	not, negative, non-; oppose
+B	面	176.0:9	mian4	diện	mặt	face; surface; plane; side, dime
+B	革	177.0:9	ge2	cách	da	leather
+B	韋	178.0:9	wei2	vi	da mềm	tanned leather
+B	韭	179.0:9	jiu3	cửu	rau hẹ	leeks
+B	音	180.0:9	yin1 yin4	âm	tiếng	sound, tone, pitch,pronunciation
+B	頁	181.0:9	ye4	hiệt	đầu	page
+B	風	182.0:9	feng1 feng3 feng4	phong	gió	wind; air; manners, atmosphere
+B	飛	183.0:9	fei1	phi	bay	fly; go quickly; dart; high
+B	食	184.0:9	shi2	thực	ăn	to eat
+B	首	185.0:9	shou3	thủ	đầu	head; first; leader, chief; poem
+B	香	186.0:9	xiang1	hương	hơi thơm	fragrant, sweet smelling,incense
+B	馬	187.0:10	ma3	mã	ngựa	horse; surname; radical no. 187
+B	骨	188.0:10	gu3	cốt	xương	skeleton
+B	高	189.0:10	gao1 gao4	cao	cao	high, tall; lofty, elevated
+B	髟	190.0:10	biao1	tiêu (hay biểu)	tóc dài sổ xuống	hair
+B	鬥	191.0:10	dou4	đấu	tranh	to struggle
+B	鬯	192.0:10	chang4	sưởng	rượu nếp	unobstructed
+B	鬲	193.0:10	ge2	cách (hay lịch)	nồi có chơn giạng ra	caldron
+B	鬼	194.0:10	gui3	quỷ	quỷ quái	ghost; spirit of dead; devil
+B	魚	195.0:11	yu2	ngư	cá	fish; surname; radical no. 195
+B	鳥	196.0:11	niao3 diao3 dao3 que4	điểu	chim	bird; radical no. 196
+B	鹵	197.0:11	lu3	lỗ	muối tự nhiên	saline soil
+B	鹿	198.0:11	lu4	lộc	hươu, nai	deer
+B	麥	199.0:11	mai4	mạch	lúc mạch	wheat
+B	麻	200.0:11	ma2 ma1	ma	cây gai	hemp, jute, flax; sesame
+B	黃	201.0:12	huang2	hoàng	vàng	yellow; surname
+B	黍	202.0:12	shu3	thử	lúa kê	millet
+B	黒	203.0:12	hei1	hắc	đen	black
+B	黹	204.0:12	zhi3	trĩ (hay chỉ)	may áo	embroidery
+B	黽	205.0:13	min3	mãnh	loại cóc	to strive
+B	鼎	206.0:13	ding3	đỉnh	cái đỉnh	tripot
+B	鼓	207.0:13	gu3	cổ	cái trống	drum
+B	鼠	208.0:13	shu3	thử	con chuột	mouse
+B	鼻	209.0:14	bi2	tỵ	cái mũi	nose
+B	齊	210.0:14	qi2	tề	chỉnh tề	uniform
+B	齒	211.0:15	chi3	xỉ	răng	tooth
+B	龍	212.0:16	long2 long3 mang2	long	rồng	dragon; symbolic of emperor
+B	龜	213.0:16	gui1	quy	rùa	turtle
+B	龠	214.0:17	huo4	dược	ống sáo có 3 lỗ	flute
+B	乀	4	fu2	phiệt	phẩy	comma
+B	乁	4	yi2	phiệt	phẩy	comma
+B	乚	5	yin3	ất	cong	2nd stema
+B	亻	9	ren2	nhơn	người	human
+B	刂	18	dao1	đao	dao	knife
+B	刁	18.0:2	diao1	đao	dao	knife
+B	␡2B	26	 	tiết	tin, mắt tre	internode
+B	孑	39	jie2	tử	con	male/female
+B	孒	39	jue2	tử	con	male/female
+B	尣	43	meng2	uông	khom lưng	thin
+B	川	47.0:3	chuan1	xuyên	sông	river
+B	彑	58	ji4	ký (hay kệ)	đầu con nhím	hedgehog top
+B	忄	61	xin1	tâm	lòng, tim	heart
+B	户	63	hu4	hộ	cửa ngõ	family
+B	戸	63	hu4	hộ	cửa ngõ	family
+B	扌	64	shou3 zi4 pang2	thủ	tay	hands
+B	攵	66	sui1	phốc (hay phộc)	đánh nhẹ	to tap
+B	氵	85	shui3	thủy	nước	water
+B	灬	86	huo3 biao1	hỏa	lửa	fire
+B	爫	87	lan4	trảo	móng	claw
+B	丬	90	qiang2	tường	tấm ván	wall
+B	牜	93	cheng1	ngưu	trâu, bò	buffalo
+B	犭	94	fan3	khuyển	chó	canine
+B	┡4C	96	 	ngọc	ngọc	precious stone
+B	☣36	103	 	sơ	đủ, cái chơn	roll of cloth
+B	␢21	109	 	mục	mắt	eye
+B	礻	113	shi4	thị	bảo, dạy	to indicate
+B	☢28	122	wang3	võng	lưới	net
+B	☢29	122	wang3	võng	lưới	net
+B	罓	122	gang1	võng	lưới	net
+B	罒	122	wang3	võng	lưới	net
+B	␣2C	123	 	dương	dê	goat/sheep
+B	耂	125	 	lão	già	old
+B	㇠8E	130	 	nhục	thịt	meat
+B	艹	140	cao3	thảo	cỏ	grass
+B	␡53	140	cao3	thảo	cỏ	grass
+B	衤	145	yi1	y	áo	clothing
+B	覀	146	xi1	á	che	lid
+B	赱	156	zou3	tẩu	chạy, đi	to walk
+B	辶	162	chuo4	xước	đi mau	to pace
+B	镸	168	chang2	trường	dài	long
+B	阝	170	fu4	phụ	gò, đống	small hill
+B	☮45	170	fu4	phụ	gò, đống	small hill
+B	靑	174	qing1	thanh	xanh	green/blue
+B	髙	189	gao1	cao	cao	tall
