@@ -1,0 +1,1242 @@
+B	一	1.0:1	yi1	nhất	số một	one
+B	丨	2.0:1	ge3	cổn	sổ	bar
+B	丶	3.0:1	zhu3	chủ	chấm	point
+B	丿	4.0:1	pie3	phiệt	phẩy	comma
+B	乙	5.0:1	yi3	ất	cong	2nd stema
+B	亅	6.0:2	jue2	quyết	sổ móc	hook
+B	二	7.0:2	er4	nhị	số hai	two; twice
+B	亠	8.0:2	tou2	đầu	chấm đầu	lid
+B	人	9.0:2	ren2	nhân	người	man; person, people; mankind; someone else
+B	儿	10.0:2	er2	nhân	người	human
+B	入	11.0:2	ru4	nhập	vào	enter, come in(to), join
+B	八	12.0:2	ba1	bát	số tám	eight; all around, all sides
+B	冂	13.0:2	jiong1	quynh	trống rỗng	limits
+B	冖	14.0:2	mi4	mịch	che	cover
+B	冫	15.0:2	bing1	băng	giá	ice
+B	几	16.0:2	ji1	kỷ	ghế	seat
+B	凵	17.0:2	qu1	khảm	há miệng	concave
+B	刀	18.0:2	dao1	đao	dao	knife; old coin; measure
+B	力	19.0:2	li4	lực	sức	power, capability, influence
+B	勹	20.0:2	bao1	bao	túi	bag
+B	匕	21.0:2	bi3	chủy	thìa	spoon
+B	匚	22.0:2	fang1	phương	hộp	container
+B	匸	23.0:2	xi3	hễ (hay hệ)	che cất	box
+B	十	24.0:2	shi2	thập	số mười	ten, tenth; complete; perfect
+B	卜	25.0:2	bu3	bốc	bói	to divine
+B	卩	26.0:2	jie2	tiết	tin, mắt tre	internode
+B	厂	27.0:2	han4	hán	sườn núi	flank
+B	厶	28.0:2	si1	tư (hay khư)	gian, riêng	private
+B	又	29.0:2	you4	hựu	lại	and, also, again, in addition
+B	口	30.0:3	kou3	khẩu	miệng	mouth; open end; entrance, gate
+B	囗	31.0:3	wei2	vi	vòng	perimeter
+B	土	32.0:3	tu3	thổ	đất	soil, earth; items made of earth
+B	士	33.0:3	shi4	sĩ	trò	scholar, gentleman; soldier
+B	夂	34.0:3	chu3	truy	đến sau	to follow
+B	夊	35.0:3	sui1	suy (hay tuy)	 đi chậm	short step
+B	夕	36.0:3	xi1	tịch	tối	night
+B	大	37.0:3	da4 dai4 tai4	đại	to (to cụ thể)	big, great, vast, large, high
+B	女	38.0:3	nu:3	nữ	đàn bà, con gái	woman, girl; feminine; rad. 38
+B	子	39.0:3	zi3 zi5	tử	con	offspring, child; fruit, seed of
+B	宀	40.0:3	mian2	miên	mái nhà	roof
+B	寸	41.0:3	cun4	thốn	tấc	inch
+B	小	42.0:3	xiao3	tiểu	nhỏ	small, tiny, insignificant
+B	尢	43.0:3	wang1	uông	khom lưng	thin
+B	尸	44.0:3	shi1	thi	thây	corpse
+B	屮	45.0:3	che4	triệt	cỏ mới mọc	sapling
+B	山	46.0:3	shan1	sơn	núi	mountain, hill, peak
+B	巛	47.0:3	chuan1	xuyên	sông	river
+B	工	48.0:3	gong1	công	công, thợ	labor, work; worker, laborer
+B	己	49.0:3	ji3	kỷ	mình	self, oneself; personal, private
+B	巾	50.0:3	jin1	cân	khăn	cloth
+B	干	51.0:3	gan1	can	phạm	to nudge
+B	幺	52.0:3	yao1	yêu	ít	tiny
+B	广	53.0:3	an1	nghiễm (hay yểm)	mái nhà	house top
+B	廴	54.0:3	yin3	dẫn	bước dài	slow walk
+B	廾	55.0:3	gong4	củng	chấp tay	twenty
+B	弋	56.0:3	yi4	dặc (hay dực)	bắn	to take
+B	弓	57.0:3	gong1	cung	cây cung	bow
+B	彐	58.0:3	ji4	ký (hay kệ)	đầu con nhím	hedgehog top
+B	彡	59.0:3	shan1	sam	lông dài	hair
+B	彳	60.0:3	chi4	xích	bước	short steps
+B	心	61.0:4	xin1	tâm	lòng, tim	heart; mind, intelligence; soul
+B	戈	62.0:4	ge1	qua	cái mác	lance
+B	戶	63.0:4	hu4	hộ	cửa ngõ	family
+B	手	64.0:4	shou3	thủ	tay	hand
+B	支	65.0:4	zhi1	chi	cành	disperse, pay; support; branch
+B	攴	66.0:4	pu1	phốc (hay phộc)	đánh nhẹ	to tap
+B	文	67.0:4	wen2	văn	văn hóa, văn học	literature, culture, writing
+B	斗	68.0:4	dou3	đẩu	cái đấu	container
+B	斤	69.0:4	jin1	cân	cân, cái rìu	ax
+B	方	70.0:4	fang1 feng1 pang2 wang3	phương	vuông	square; rectangle; region, local
+B	无	71.0:4	wu2	vô	không	without
+B	日	72.0:4	ri4 mi4	nhật	mặt trời	sun; day; daytime
+B	曰	73.0:4	yue1	viết	rằng	to say
+B	月	74.0:4	yue4	nguyệt	mặt trăng	moon; month; radical no. 74
+B	木	75.0:4	mu4	mộc	cây	tree; wood, lumber; wooden
+B	欠	76.0:4	qian4	khiếm	thiếu	to owe
+B	止	77.0:4	zhi3	chỉ	dừng	stop, halt, desist; detain
+B	歹	78.0:4	dai1	đãi	xấu	vicious
+B	殳	79.0:4	shu1	thù	cây gậy	dart
+B	毋	80.0:4	wu2	vô	đừng	do not
+B	比	81.0:4	bi3 bi4 pi2 pi3	tỷ	so sánh	compare, liken; comparison; than
+B	毛	82.0:4	mao2 mao4	mao	lông	hair, fur, feathers; coarse
+B	氏	83.0:4	shi4	thị	họ	clan
+B	气	84.0:4	qi4	khí	hơi	air
+B	水	85.0:4	shui3	thủy	nước	water, liquid, lotion, juice
+B	火	86.0:4	huo3 huo1	hỏa	lửa	fire, flame; burn; anger, rage
+B	爪	87.0:4	zhua3	trảo	móng	claw
+B	父	88.0:4	fu4 fu3	phụ	cha	father; radical no. 88
+B	爻	89.0:4	yao2	hào	giao nhau	stroke
+B	爿	90.0:4	qiang2	tường	tấm ván	wall
+B	片	91.0:4	pian4 pian1 pan4	phiến	thẻ	slice, splinter, strip; rad. 91
+B	牙	92.0:4	ya2	nha	răng	tooth
+B	牛	93.0:4	niu2	ngưu	trâu	cow, ox, bull; radical no. 93
+B	犬	94.0:4	quan3	khuyển	chó	canine
+B	玄	95.0:5	xuan2	huyền	đen	mystic
+B	玉	96.0:5	yu4	ngọc	ngọc	precious stone
+B	瓜	97.0:5	gua1	qua	dưa	melon
+B	瓦	98.0:5	wa3	ngõa	ngói	pottery
+B	甘	99.0:5	gan1	cam	ngọt	sweet
+B	生	100.0:5	sheng1	sinh	sống, học sinh	life, living, lifetime; birth
+B	用	101.0:5	yong4	dụng	dùng	use, employ, apply, operate; use
+B	田	102.0:5	tian2	điền	ruộng	field, arable land, cultivated
+B	疋	103.0:5	pi3	sơ	đủ, cái chơn	roll of cloth
+B	疒	104.0:5	ne4	nạch (hay tật)	bịnh tật	sickness
+B	癶	105.0:5	bo1	bát	rời ra	to deviate
+B	白	106.0:5	bai2 bo2	bạch	trắng	white; pure, unblemished; bright
+B	皮	107.0:5	pi2	bì	da	skin, hide, fur, feather; outer
+B	皿	108.0:5	min3	mãnh	chén dĩa	bowl,ceramics
+B	目	109.0:5	mu4	mục	mắt	eye; look, see; division, topic
+B	矛	110.0:5	mao2	mâu	cái giáo	lance
+B	矢	111.0:5	shi3	thỉ	cây tên	arrow
+B	石	112.0:5	shi2 dan4	thạch	đá	stone, rock, mineral; rad. 112
+B	示	113.0:5	shi4 qi1 zhi4 shi2	thị (hay kỳ)	bảo, dạy	show, manifest; demonstrate
+B	禸	114.0:5	rou2	nhữu	dấu chân thú	trace
+B	禾	115.0:5	he2	hòa	lúa	rice plant
+B	穴	116.0:5	xue4	huyệt	hang	cave
+B	立	117.0:5	li4 wei4	lập	đứng	stand; let stand; establish, set
+B	竹	118.0:6	zhu2	trúc	tre	bamboo; flute; radical no. 118
+B	米	119.0:6	mi3	mễ	gạo	rice
+B	糸	120.0:6	mi4	mịch	tơ nhỏ	connection
+B	缶	121.0:6	fou3	phẫu hay (phữu)	bình sành	crock
+B	网	122.0:6	wang3	võng	lưới	net
+B	羊	123.0:6	yang2	dương	dê	goat/sheep
+B	羽	124.0:6	yu3	vũ	cánh	feather
+B	老	125.0:6	lao3	lão	già	old, aged; experienced
+B	而	126.0:6	er2	nhi	mà	and; and then; and yet; but
+B	耒	127.0:6	lei3	lỗi	cái cày	plough
+B	耳	128.0:6	er3	nhĩ	cái tai	ears
+B	聿	129.0:6	yu4	duật	cái bút	writing brush
+B	肉	130.0:6	rou4 ru4	nhục	thịt	flesh; meat; radical no. 130
+B	臣	131.0:6	cang2	thần	tôi	statesman
+B	自	132.0:6	zi4	tự	từ	self, private, personal; from
+B	至	133.0:6	zhi4 die2	chí	đến	reach, arrive; extremely, very
+B	臼	134.0:6	jiu4	cữu	cái cối	motar
+B	舌	135.0:6	she2	thiệt	lưỡi	tongue
+B	舛	136.0:6	chuan2	suyễn	ngang trái	chaotic
+B	舟	137.0:6	zhou1	chu	thuyền	boat
+B	艮	138.0:6	gen4	cấn	bền, vững	tough
+B	色	139.0:6	se4 shai3	sắc	màu	color, tint, hue, shade; form, body; beauty, desire for beauty
+B	艸	140.0:6	cao3	thảo	cỏ	grass
+B	虍	141.0:6	hu1	hô (hay hổ)	hùm	stripes
+B	虫	142.0:6	chong2	trùng	sâu trùng	insects
+B	血	143.0:6	xie3 xue4	huyết	máu	blood; radical number 143
+B	行	144.0:6	xing2 hang2 xing4 hang4 heng2	hành (hàng)	đi, tiệm	go; walk; move, travel;circulate
+B	衣	145.0:6	yi1	y	áo	clothing
+B	襾	146.0:6	ya4	á	che	lid
+B	見	147.0:7	jian4 xian4	kiến	thấy	see, observe, behold; percieve
+B	角	148.0:7	jiao3 jue2 gu3 lu4	giác	sừng	horn; angle, corner; point; dime
+B	言	149.0:7	yan2 yan4 yin2	ngôn	nói	words, speech; speak, say
+B	谷	150.0:7	gu3	cốc	hang	valley
+B	豆	151.0:7	dou4	đậu	hột đậu	beans/peas
+B	豕	152.0:7	shi3	thỉ	con heo	pig
+B	豸	153.0:7	zhi4	trĩ	loài bò sát	reptiles
+B	貝	154.0:7	bei4	bối	con sò	shells
+B	赤	155.0:7	ce4	xích	đỏ	red
+B	走	156.0:7	zou3	tẩu	chạy, đi	walk, go on foot; run; leave
+B	足	157.0:7	zu2 ju4	túc	chân, đủ	foot; attain, satisfy, enough
+B	身	158.0:7	shen1 yuan2 juan1	thân	thân mình	body; trunk, hull; rad. no. 158
+B	車	159.0:7	che1 ju1	xa	xe	cart, vehicle; carry in cart
+B	辛	160.0:7	bi4	tân	cay	piquant
+B	辰	161.0:7	chen2	thần	sớm	time
+B	辵	162.0:7	chuo4	xước	đi mau	to pace
+B	邑	163.0:7	yi4	ấp	một khu đất	county
+B	酉	164.0:7	you3	dậu	giờ dậu, no	10th ter. branch
+B	釆	165.0:7	bian4	biện	chia rẽ, phân xử	to gather
+B	里	166.0:7	li3	lý	làng, dặm	unit of distance; village; lane
+B	金	167.0:8	jin1 jin4	kim	vàng, kim loại	gold; metals in general; money
+B	長	168.0:8	chang2 zhang3 zhang4	trường	dài	long; length; excel in; leader
+B	門	169.0:8	men2	môn	cửa	gate, door, entrance, opening
+B	阜	170.0:8	fu4	phụ	gò, đống	small hill
+B	隶	171.0:8	li4	đãi	kịp, đuổi bắt	in time
+B	隹	172.0:8	zhui1	chuy	chim đuôi ngắn	bird
+B	雨	173.0:8	yu3 yu4	vũ	mưa	rain; rainy; radical no. 173
+B	青	174.0:8	qing1 jing1	thanh	xanh, trẻ	blue, green, black; young
+B	非	175.0:8	fei1 fei3	phi	trái, không phải	not, negative, non-; oppose
+B	面	176.0:9	mian4	diện	mặt	face; surface; plane; side, dime
+B	革	177.0:9	ge2	cách	da	leather
+B	韋	178.0:9	wei2	vi	da mềm	tanned leather
+B	韭	179.0:9	jiu3	cửu	rau hẹ	leeks
+B	音	180.0:9	yin1 yin4	âm	tiếng	sound, tone, pitch,pronunciation
+B	頁	181.0:9	ye4	hiệt	đầu	page
+B	風	182.0:9	feng1 feng3 feng4	phong	gió	wind; air; manners, atmosphere
+B	飛	183.0:9	fei1	phi	bay	fly; go quickly; dart; high
+B	食	184.0:9	shi2	thực	ăn	to eat
+B	首	185.0:9	shou3	thủ	đầu	head; first; leader, chief; poem
+B	香	186.0:9	xiang1	hương	hơi thơm	fragrant, sweet smelling,incense
+B	馬	187.0:10	ma3	mã	ngựa	horse; surname; radical no. 187
+B	骨	188.0:10	gu3	cốt	xương	skeleton
+B	高	189.0:10	gao1 gao4	cao	cao	high, tall; lofty, elevated
+B	髟	190.0:10	biao1	tiêu (hay biểu)	tóc dài sổ xuống	hair
+B	鬥	191.0:10	dou4	đấu	tranh	to struggle
+B	鬯	192.0:10	chang4	sưởng	rượu nếp	unobstructed
+B	鬲	193.0:10	ge2	cách (hay lịch)	nồi có chơn giạng ra	caldron
+B	鬼	194.0:10	gui3	quỷ	quỷ quái	ghost; spirit of dead; devil
+B	魚	195.0:11	yu2	ngư	cá	fish; surname; radical no. 195
+B	鳥	196.0:11	niao3 diao3 dao3 que4	điểu	chim	bird; radical no. 196
+B	鹵	197.0:11	lu3	lỗ	muối tự nhiên	saline soil
+B	鹿	198.0:11	lu4	lộc	hươu, nai	deer
+B	麥	199.0:11	mai4	mạch	lúc mạch	wheat
+B	麻	200.0:11	ma2 ma1	ma	cây gai	hemp, jute, flax; sesame
+B	黃	201.0:12	huang2	hoàng	vàng	yellow; surname
+B	黍	202.0:12	shu3	thử	lúa kê	millet
+B	黒	203.0:12	hei1	hắc	đen	black
+B	黹	204.0:12	zhi3	trĩ (hay chỉ)	may áo	embroidery
+B	黽	205.0:13	min3	mãnh	loại cóc	to strive
+B	鼎	206.0:13	ding3	đỉnh	cái đỉnh	tripot
+B	鼓	207.0:13	gu3	cổ	cái trống	drum
+B	鼠	208.0:13	shu3	thử	con chuột	mouse
+B	鼻	209.0:14	bi2	tỵ	cái mũi	nose
+B	齊	210.0:14	qi2	tề	chỉnh tề	uniform
+B	齒	211.0:15	chi3	xỉ	răng	tooth
+B	龍	212.0:16	long2 long3 mang2	long	rồng	dragon; symbolic of emperor
+B	龜	213.0:16	gui1	quy	rùa	turtle
+B	龠	214.0:17	huo4	dược	ống sáo có 3 lỗ	flute
+B	乀	4	fu2	phiệt	phẩy	comma
+B	乁	4	yi2	phiệt	phẩy	comma
+B	乚	5	yin3	ất	cong	2nd stema
+B	亻	9	ren2	nhơn	người	human
+B	刂	18	dao1	đao	dao	knife
+B	刁	18.0:2	diao1	đao	dao	knife
+B	␡2B	26	 	tiết	tin, mắt tre	internode
+B	孑	39	jie2	tử	con	male/female
+B	孒	39	jue2	tử	con	male/female
+B	尣	43	meng2	uông	khom lưng	thin
+B	川	47.0:3	chuan1	xuyên	sông	river
+B	彑	58	ji4	ký (hay kệ)	đầu con nhím	hedgehog top
+B	忄	61	xin1	tâm	lòng, tim	heart
+B	户	63	hu4	hộ	cửa ngõ	family
+B	戸	63	hu4	hộ	cửa ngõ	family
+B	扌	64	shou3 zi4 pang2	thủ	tay	hands
+B	攵	66	sui1	phốc (hay phộc)	đánh nhẹ	to tap
+B	氵	85	shui3	thủy	nước	water
+B	灬	86	huo3 biao1	hỏa	lửa	fire
+B	爫	87	lan4	trảo	móng	claw
+B	丬	90	qiang2	tường	tấm ván	wall
+B	牜	93	cheng1	ngưu	trâu, bò	buffalo
+B	犭	94	fan3	khuyển	chó	canine
+B	┡4C	96	 	ngọc	ngọc	precious stone
+B	☣36	103	 	sơ	đủ, cái chơn	roll of cloth
+B	␢21	109	 	mục	mắt	eye
+B	礻	113	shi4	thị	bảo, dạy	to indicate
+B	☢28	122	wang3	võng	lưới	net
+B	☢29	122	wang3	võng	lưới	net
+B	罓	122	gang1	võng	lưới	net
+B	罒	122	wang3	võng	lưới	net
+B	␣2C	123	 	dương	dê	goat/sheep
+B	耂	125	 	lão	già	old
+B	㇠8E	130	 	nhục	thịt	meat
+B	艹	140	cao3	thảo	cỏ	grass
+B	␡53	140	cao3	thảo	cỏ	grass
+B	衤	145	yi1	y	áo	clothing
+B	覀	146	xi1	á	che	lid
+B	赱	156	zou3	tẩu	chạy, đi	to walk
+B	辶	162	chuo4	xước	đi mau	to pace
+B	镸	168	chang2	trường	dài	long
+B	阝	170	fu4	phụ	gò, đống	small hill
+B	☮45	170	fu4	phụ	gò, đống	small hill
+B	靑	174	qing1	thanh	xanh	green/blue
+B	髙	189	gao1	cao	cao	tall
+Z	的	106.3:8	de5 di2 di4	đích	của	possessive, adjectival suffix
+Z	是	72.5:9	shi4	thị	là, phải, đúng	indeed, yes, right; to be; demonstrative pronoun, this, that
+Z	不	1.3:4	bu4	bất	không	no, not; un-; negative prefix
+Z	我	62.3:7	wo3	ngã	Tôi, ta	I, me, my;  (Ngã môn: chúng tôi)
+Z	有	74.2:6	you3 you4	hữu	có	have, own, possess; exist
+Z	在	32.3:6	zai4	tại	ở, tại	be at, in, on; consist in, rest
+Z	了	6.1:2	le5 liao3	liễu	xong, kết thúc	to finish; particle of completed action; (Người con trai (tử) buông xuôi 2 tay, là cuộc đời đã kết liễu)
+Z	中	2.3:4	zhong1 zhong4	trung	ở giữa	central; center, middle; in the midst of; hit (target); attain
+Z	到	18.6:8	dao4	đáo	đến nơi; khắp đủ	go to, arrive, been to
+Z	要	146.3:9	yao4 yao1 yao3	yếu	thiết yếu	necessary, essential; necessity
+Z	以	9.3:5	yi3	dĩ	lấy, làm, dùng, dĩ đức báo oán	by means of; thereby, therefore; consider as; in order to
+Z	可	30.2:5	ke3 ke4	khả	có thể làm được	may, can, -able; possibly
+Z	這	162.7:11	zhe4 zhei4 yan4	giá	đây, cái này	this, the, here
+Z	個	9.8:10	ge4 ge3	cá	cái, quả	numerary adjunct, piece; single
+Z	你	9.5:7	ni3	nễ (nhĩ)	Kêu ngôi thứ hai	you, second person pronoun (Anh, chị, bạn, ông, bà, mày, v.v... Nễ môn: Các anh, các chị, ...)
+Z	會	73.9:13	hui4 kuai4 gui4	hội	gặp gỡ, hội họp	assemble, meet together; meeting
+Z	好	38.3:6	hao3 hao4	hiếu (hảo)	tốt, hay, ham thích	good, excellent, fine; well; (nữ + tử: Trai gái gặp nhau thì ham thích)
+Z	為	86.5:9	wei4 wei2	vi	làm	do, handle, govern, act; be
+Z	上	1.2:3	shang4	thượng	ở trên	top; superior, highest; go up, send up
+Z	來	9.6:8	lai2 lai4	lai	lại	come, coming; return, returning; (2 nhân + mộc 2 người lại gốc cây để hẹn hò)
+Z	學	39.13:16	xue2	học	học	learning, knowledge; school
+Z	就	43.9:12	jiu4	tựu	thành tựu, việc đã thành	just; come/go to, approach, near
+Z	交	8.4:6	jiao1	giao	giao du, giao thiệp, chỉ sự qua lại	mix; intersect; exchange, communicate; deliver
+Z	也	5.2:3	ye3	dã	vậy, cũng	also; classical final particle of strong affirmation or identity
+Z	能	130.6:10	neng2 nai4 tai2 tai4 nai2 xiong2	năng	tài năng, sức có thể làm nổi (năng ngôn bất năng hành)	be able, can, permitted, ability
+Z	如	38.3:6	ru2	như	giống hệt	if, supposing; as if; like, as; (nữ + khẩu: Quan niệm xưa bắt con gái mở miệng nói y như chồng)
+Z	時	72.6:10	shi2	thời	mùa, giờ, cơ hội	time, season; era, age, period
+Z	說	149.7:14	shuo1 shui4 yue4 tuo1	thuyết	nói	speak, say, talk; scold, upbraid
+Z	沒	85.4:7	mei2 mo4	một	không có, mất, hết	not, have not, none; drown, sink
+Z	他	9.3:5	ta1	tha	Ông ấy, khác	other, another; he, she, it
+Z	看	109.4:9	kan4 kan1	khán	xem	look, see; examine, scrutinize
+Z	那	163.4:7	na4 nei4 na1 na3 ne2 nei3 nuo2 nuo4	na	đó, cái đó	that, that one, those
+Z	問	30.8:11	wen4	vấn	hỏi	ask (about), inquire after
+Z	提	64.9:12	ti2 di1 di3 shi2	đề	nâng đỡ, cất nhắc (đề bạt)	hold in hand; lift in hand
+Z	下	1.2:3	xia4	hạ	dưới	under, underneath, below; down; inferior; bring down
+Z	過	162.9:13	guo4 guo5 guo1 huo4	quá	việc đã qua, quá khứ, lỗi lầm, vượt qua	pass, pass through, go across
+Z	請	149.8:15	qing3  qing4 qing1 qing2	thỉnh	mời	ask, request; invite; please
+Z	們	9.8:10	men5	môn	bọn, chúng	adjunct pronoun indicate plural; (nễ môn: các anh; ngã môn: chúng tôi; tha môn: bọn hắn)
+Z	天	37.1:4	tian1	thiên	trời	sky, heaven; god, celestial; (đại + nhất: Trời là đấng vĩ đại nhất)
+Z	所	63.4:8	suo3	sở	xứ sở, công sở	place, location;numerary adjunct
+Z	多	36.3:6	duo1	đa	nhiều	much, many; more than, over
+Z	麼	200.3:14	mo5 mo3 ma5 me5	ma	(thậm) ma: cái gì?	interrogative final particle
+Z	之	4.3:4	zhi1	chi	cái...của (Khổng tử chi ngôn=lời nói của Khổng Tử)	's (marks preceding phrase as modifier of following phrase); it, him her, them; go to
+Z	想	61.9:13	xiang3	tưởng	nghĩ tới	think, speculate, plan, consider
+Z	得	60.8:11	de2 de5 dei3	đắc	được (đắc nhân tâm), tự đắc (dương dương tự đắc)	obtain, get, gain, acquire
+Z	出	17.3:5	chu1	xuất	ra ngoài, tài năng xuất chúng, xuất khẩu thành chương	go out, send out; stand; produce
+Z	還	162.13:17	huan2 hai2 xuan2	hoàn	trở lại	still, yet, also, besides
+Z	電	173.5:13	dian4	điện	điện	electricity, electric; lightning
+Z	對	41.11:14	dui4	đối	đúng, phải, đối lại	correct, right; facing, opposed
+Z	都	163.9:11	du1 dou1	đô	đô (thị), toàn thể	metropolis, capital; all, the whole; elegant, refined
+Z	機	75.12:16	ji1	cơ	cơ quan, cơ giới	machine; moment, chance
+Z	後	60.6:9	hou4	hậu	sau	behind, rear, after; descendents
+Z	訊	149.3:10	xun4	tín 	thiệp báo tin	inquire; ask; examine; reproach
+Z	家	40.7:10	jia1	gia	nhà	house, home, residence; family; (miên + thỉ: Trong nhà, thường nuôi heo để sinh lợi)
+Z	站	117.5:10	zhan4 zhan1	trạm	đứng, dừng lại, trạm xe	stand up; a stand, station
+Z	去	28.3:5	qu4	khứ	đi, đã qua	go away, leave, depart
+Z	知	111.3:8	zhi1 zhi4	tri	biết, tri kỷ, tri thức, tri nhân tri diện bất tri tâm	know, perceive, comprehend
+Z	國	31.8:11	guo2	quốc	nước, quốc gia	nation, country, nation-state
+Z	很	60.6:9	hen3	hẩn (ngận)	lắm, rất	very, quite, much
+Z	成	62.3:6	cheng2	thành	hoàn thành, thành tựu, mã đáo công thành	completed, finished, fixed
+Z	信	9.7:9	xin4	tín	thư, tin	trust, believe; letter
+Z	同	30.3:6	tong2 tong4	đồng	cùng, hợp lại	same, similar; together with
+Z	何	9.5:7	he2 he4	hà	gì? sao?	what, why, where, which, how
+Z	章	117.6:11	zhang1 zhang4	chương	văn chương, điều ghi (ước pháp tam chương)	composition; chapter, section
+Z	道	162.9:13	dao4 dao3	đạo	con đường, đạo lý	path, road, street; method, way
+Z	發	105.7:12	fa1 fa4 bo1	phát	làm lớn lên (phát tài), bắn ra (bách phát bách trúng)	issue, dispatch, send out, emit
+Z	地	32.3:6	di4 de5	địa	đất	earth; soil, ground; region; place; adjunct used to form adverbial phrase
+Z	法	85.5:8	fa3	pháp	khuôn phép, nước Pháp	law, rules, regulations, statute
+Z	無	86.8:12	wu2 mo2	vô	không có (nam vô tửu như kỳ vô phong)	negative, no, not; lack, have no
+Z	然	86.8:12	ran2	nhiên	ưng cho, như thế, thiên nhiên, mặc nhiên	yes, certainly; pledge, promise
+Z	但	9.5:7	dan4	đãn	những, chẵng những, nhưng mà	only; but, however, yet, still
+Z	當	102.8:13	dang1 dang4	đương	đang, nhận	bear, accept, undertake; just
+Z	於	70.4:8	yu2 yu1 wu1	ư	tiếng dùng để giúp lời (Sinh ư Nam phương)	in, at, on; interjection alas!
+Z	嗎	30.10:13	ma5 ma2 ma3	mạ	chữ cuối để hỏi	final interrogative particle (Nễ hảo mạ?: Anh khoẻ không?)
+Z	本	75.1:5	ben3	bản	gốc	root, origin, source; basis; (mộc + nhất gạch ngang: để đánh dấu gốc rễ của cây)
+Z	年	51.3:6	nian2	niên	năm, tuổi	year; new-years; person's age
+Z	現	96.7:11	xian4	hiện	hiện ra, bây giờ	appear, manifest, become visible
+Z	前	18.7:9	qian2	tiền	trước, tiền bối, tiền trình	in front, forward; preceding
+Z	最	73.8:12	zui4	tối	chỉ sự cùng tận (tối đa, tối thiểu)	most, extremely, exceedingly
+Z	真	109.5:10	zhen1	chân	không dối trá, chân thật, chân tình, chân dung	real, actual, true, genuine
+Z	新	69.9:13	xin1	tân	mới	new, recent, fresh, modern
+Z	和	30.5:8	he2 huo4 huo2 he4	hòa	vừa phải, và	harmony, peace; peaceful, calm
+Z	因	31.3:6	yin1	nhân	lý do, nhân quả, nguyên nhân	cause, reason; by; because (of)
+Z	果	75.4:8	guo3 ke4 luo3 wo3	quả	trái cây	fruit; result; (mộc + điền: vẽ hình cái quả trên ngọn cây)
+Z	意	61.9:13	yi4	ý	ý chí, ý nghĩ	thought, idea, opinion; think
+Z	定	40.5:8	ding4	định	làm cho yên, định quốc an bang	decide, settle, fix
+Z	點	203.5:17	dian3 zhan1 duo4	điểm	nét chấm, điểm danh, điểm tâm	dot, speck, spot; point, degree
+Z	情	61.8:11	qing2	tình	tình yêu, nhân tình, tình nhân, lời trần tình	feeling, sentiment, emotion
+Z	其	12.6:8	qi2 ji1	kỳ	của ... (văn kỳ thanh bất kiến kỳ hình)	his, her, its, their; that
+Z	題	181.9:18	ti2 di4	đề	đề mục	forehead; title, headline; theme
+Z	事	6.7:8	shi4	sự	việc, phục vụ (trung thần bất sự nhị quân)	affair, matter, business; to serve; accident, incident
+Z	科	115.4:9	ke1 ke4	khoa	môn	section, department, science
+Z	些	7.5:8	xie1 suo4 sa1	ta	một ít (tá ngữ: nhất ta thủy = một ít nước)	little, few; rather, somewhat
+Z	清	85.8:11	qing1 qing4	thanh	trong sạch, tinh khiết, thanh nhã	clear, pure, clean; peaceful
+Z	三	1.2:3	san1 san4	tam	số ba	three
+Z	樣	75.11:15	yang4 xiang4	dạng	hình dáng, kiểu, mẫu	shape, form, pattern, style
+Z	此	77.2:6	ci3	thử	ấy, bên ấy, thế	this, these; in this case, then
+Z	吧	30.4:7	ba5 ba1	ba	chữ nhấn mạnh cuối câu: right? ok?	emphatic final particle
+Z	位	9.5:7	wei4	vị	chỗ ngồi (yên vị), xưng hô người (quý vị)	throne; position, post; rank, status; seat
+Z	作	9.5:7	zuo4 zuo1 zuo2	tác	làm	make; work; compose, write; act, perform
+Z	理	96.7:11	li3	lý	điều lý lẽ	reason, logic; manage
+Z	者	125.4:8	zhe3 zhu1	giả	người, tác giả	that which; he who; those who
+Z	經	120.7:13	jing1 jing4	kinh	kinh sách, sửa, qua	classic works; pass through
+Z	名	30.3:6	ming2	danh	tên	name, rank, title, position
+Z	什	9.2:4	shi2 shen2	thậm	thậm (ma): cái gì	what?, file of ten soldiers
+Z	謝	149.10:17	xie4	tạ	cảm ơn, từ tạ	thank; decline
+Z	正	77.1:5	zheng4 zheng1	chánh	chính, không xiên lệch, chánh nhân quân tử	right, proper, correct
+Z	開	169.4:12	kai1	khai	mở ra (khai môn, khai thị, khai trương hồng phát)	open; initiate, begin, start
+Z	話	149.6:13	hua4	thoại	lời nói	speech, talk, language; dialect
+Z	與	134.8:14	yu3 yu4 yu2	dữ	cùng với	and; with; to; for; give, grant
+Z	實	40.11:14	shi2	thực	thật	real, true, solid, honest
+Z	愛	61.9:13	ai4	ái	yêu	love, be fond of, like
+Z	再	13.4:6	zai4	tái	lập lại	again, twice, re-
+Z	華	140.8:12	hua2 hua1 hua4	hoa	rực rỡ, người Hoa	flowery; illustrious; Chinese
+Z	城	32.6:9	cheng2	thành	thành quách, thành trì	castle; city, town; municipality
+Z	動	19.9:11	dong4	động	bắt tay vào việc, động thủ, động công	move, happen; movement, action
+Z	或	62.4:8	huo4 yu4	hoặc	hoặc (or)	or, either, else; perhaps, maybe
+Z	應	61.13:17	ying4 ying1	ứng, ưng	thuận theo (ứng thiên mệnh), ưng thuận	should, ought to, must
+Z	種	115.9:14	zhong3 zhong4 chong2	chủng	loại	seed; race; offspring; to plant
+Z	教	66.7:11	jiao4 jiao1	giáo	dạy học	teach, class
+Z	分	18.2:4	fen1 fen4	phân	chia	divide; small unit of time etc.
+Z	像	9.12:14	xiang4	tượng	hình tượng	picture, image, figure; resemble
+Z	系	120.1:7	xi4 ji4	hệ	hệ thống	system; line, link, connection
+Z	次	76.2:6	ci4 zi1ci2	thứ	kế, thứ thiếp, số lần	order, sequence; next
+Z	已	49.0:3	yi3	kỷ	bản thân mình, người mình	already; finished; stop
+Z	明	72.4:8	ming2	minh	sáng	bright, light, brilliant; clear; (nhật + nguyệt: Mặt trăng và mặt trời gặp nhau thì nhất định phải sáng)
+Z	打	64.2:5	da3 da2	đả	đánh	strike, hit, beat; fight; attack
+Z	太	37.1:4	tai4	thái	lớn (trừu tượng)	very, too, much; big; extreme; (đại + chủ: Chuyện Lê Quý Đôn ở truồng)
+Z	路	157.6:13	lu4 luo4	lộ	đường	road, path, street; journey
+Z	起	156.3:10	qi3	khởi	bắt đầu, khởi nghĩa, cùng chung (nhất khởi tiến thoái)	rise, stand up; go up; begin
+Z	相	109.4:9	xiang1 xiang4	tương	cùng	mutual, reciprocal, each other
+Z	主	3.4:5	zhu3	chủ	chủ trì đại cuộc, chủ tớ, chủ trương	master, chief owner; host; lord
+Z	關	169.11:19	guan1	quan	quan hệ, cơ quan, liên quan	frontier pass; close; relation
+Z	間	169.4:12	jian1 jian4 jian3	gian	chính giữa (trung gian), nhân gian	interval, space; place, between
+Z	鳳	196.3:14	feng4	phụng, phượng	chim phượng (trống)	male phoenix; symbol of joy
+Z	外	36.2:5	wai4	ngoại	ngoài	out, outside, external; foreign
+Z	呢	30.5:8	ni2 ne5	ni	thì sao? (câu hỏi)	interrogative or emphatic final
+Z	覺	147.13:20	jue2 jiao4	giác	ngộ ra (giác ngộ), phát giác	wake up from sleep; be conscious
+Z	使	9.6:8	shi3 shi4	sử	sai khiến	cause, send on a mission, order; envoy, messenger, ambassador
+Z	該	149.6:13	gai1	cai	đáng làm, nên làm ...	should, ought to, need to
+Z	友	29.2:4	you3	hữu	bạn	friend, companion; fraternity
+Z	才	64.0:3	cai2	tài	tài năng	talent, ability; just, only
+Z	進	162.8:12	jin4	tiến	tiến lên	advance, make progress, enter
+Z	凰	16.9:11	huang2	hoàng	chim Hoàng (mái)	female phoenix
+Z	她	38.3:6	ta1	tha	Cô ấy, bà ấy	she, her
+Z	民	83.1:5	min2	dân	dân chúng, nhân dân	people, subjects, citizens
+Z	著	140.8:12	zhu4 zhuo2 chu2 zhao1 zhao2 zhe5	trứ	trứ danh, rõ ràng	manifest
+Z	各	30.3:6	ge4	các	mỗi, những, mỗi người mỗi vẽ	each, individually, every, all
+Z	全	11.4:6	quan2	toàn	trọn bộ, thành toàn	maintain, keep whole or intact
+Z	將	41.8:11	jiang1 jiang4 qiang1	tương, tướng	đem (tương tâm tỉ tâm), tướng soái	will, going to, future; general
+Z	少	42.1:4	shao3 shao4	thiểu	ít	few, less, inadeqate
+Z	兩	11.6:8	liang3 liang4	lưỡng	hai, lưỡng hổ giao tranh	two, both, pair, couple; ounce
+Z	加	19.3:5	jia1	gia	thêm vào, cộng vào, gia tăng	add to, increase, augment
+Z	回	31.3:6	hui2	hồi	trở về, hồi báo	return, turn around; a time
+Z	感	61.9:13	gan3	cảm	cảm ứng, cảm động, cảm tình	feel, perceive, emotion
+Z	式	56.3:6	shi4	thức	nghi thức, công thức	style, system, formula, rule
+Z	第	118.5:11	di4	đệ	thứ tự (đệ nhất), nhà ở (phủ đệ)	sequence, number; grade, degree
+Z	球	96.7:11	qiu2	cầu	vật hình tròn, địa cầu	ball, sphere, globe; round
+Z	性	61.5:8	xing4	tánh, tính	tánh tình, danh tánh, phái tính	nature, character, sex
+Z	程	115.7:12	cheng2	trình	khuôn phép, đường đi	journey, trip; schedule, agenda
+Z	把	64.4:7	ba3 ba4	ba	lấy ... ra, đem ... ra	hold, take; guard; regard as
+Z	被	145.5:11	bei4 pi1 bi4 pi4	bị	chịu, mắc phải	passive indicator "by"; bedding
+Z	公	12.2:4	gong1	công	công bằng, chung	fair, equitable; public; duke
+Z	論	149.8:15	lun4 lun2	luận	bình luận, thảo luận, Luận ngữ	debate; discuss; discourse
+Z	及	29.2:4	ji2	cập	với tới, cùng với	extend; reach; come up to; and
+Z	校	75.6:10	xiao4 jiao3 jiao4 xiao2	hiệu	trường, học hiệu (trường học), huy hiệu	school; military field officer
+Z	別	18.5:7	bie2	biệt	chia tay, cách biệt, khác biệt	separate, other; do not
+Z	體	188.13:23	ti3 ti1	thể	thân thể, thể suất tâm tình hạ thuộc	body; group, class, body, unit
+Z	重	166.2:9	zhong4 chong2 tong2	trọng	nặng	heavy, weighty; double
+Z	給	120.6:12	gei3 ji3 xia2	cấp	cho, cung cấp	give; by, for
+Z	聽	128.16:22	ting1 ting4	thính	nghe	hear, listen; understand; obey
+Z	做	9.9:11	zuo4	tố	làm, tổ chức, làm lễ	work, make; act
+Z	常	50.8:11	chang2	thường	lâu mãi, bình thường	common, normal, frequent,regular
+Z	您	61.7:11	nin2	nâm	quý ngài	honorific for "you"
+Z	裡	145.7:12	li3	lý	bên trong, trong, một, lõi	inside, interior, within
+Z	東	75.4:8	dong1	đông	hướng đông	east, eastern, eastward; (mộc + nhật: sáng sớm nhìn về hướng đông, thấy mặt trời lấp ló sau ngọn cây)
+Z	解	148.6:13	jie3 jie4 xie4	giải	cởi, tách ra, giải thích	loosen, unfasten, untie; explain
+Z	灣	85.22:25	wan1	loan	vịnh eo biển	bay, cove, inlet, bend of stream
+Z	等	118.6:12	deng3	đẳng	hạng, loại, bậc	rank, grade; wait; equal; "etc."
+Z	啦	30.8:11	la5 la1	lạp	tiếng thường dùng ở cuối câu để nhấn mạnh	final particle of assertion
+Z	部	163.8:11	bu4 pou3	bộ	tóm, nhóm lại	part, division, section
+Z	原	27.8:10	yuan2 yuan4	nguyên	đầu tiên, khởi thủy, bình nguyên	source, origin, beginning
+Z	美	123.3:9	mei3	mỹ	đẹp, xinh, duyên dáng	beautiful, pretty; pleasing
+Z	先	10.4:6	xian1	tiên	đầu tiên, trước 	first, former, previous
+Z	通	162.7:11	tong1 tong4	thông	thông suốt, am hiểu, trôi chảy	pass through, common,communicate
+Z	管	118.8:14	guan3	quản	ống, gánh vác	pipe, tube, duct; woodwind music
+Z	網	120.8:14	wang3	võng	lưới, chăng	net, web; network
+Z	區	23.9:11	qu1 ou1	khu	chia ra, phân ra, miền, vùng	area, district, region, ward
+Z	期	74.8:12	qi2 qi1 ji1	kỳ	hạn, kỳ hạn, mong, kỳ vọng, thời gian	period of time; date; time limit
+Z	錯	167.8:16	cuo4 cu4 xi1	thác	sai lầm, lầm lỗi	error, blunder, mistake, wrong
+Z	否	30.4:7	fou3 pi3	phủ	không, chẳng, phủ quyết, phủ nhận	not, no, negative; final particle
+Z	樂	75.11:15	le4 yue4 yao4 luo4	lạc, nhạc	vui vẻ, hoan lạc, lạc cảnh, âm nhạc, nhạc cụ	happy, glad; enjoyable; music
+Z	找	64.4:7	zhao3	hoa, trảo	bơi thuyền, bù vào chỗ thiếu, tìm kiếm	search, seek, look for; find
+Z	書	73.6:10	shu1	thư	sách	book, letter, document; writings
+Z	讓	149.17:24	rang4	nhượng, nhường	nhượng bộ, nhường nhịn	allow, permit, yield, concede
+Z	四	31.2:5	si4	tứ	số bốn	four
+Z	啊	30.8:11	a5	a	ah!	exclamatory particle
+Z	由	102.0:5	you2 yao1	do	bởi, vì nguyên nhân .. (HV- do ư ..)	cause, reason; from
+Z	選	162.12:16	xuan3 suan4 xuan4	tuyển	kén chọn, lựa chọn, tuyển cử	choose, select; elect; election
+Z	較	159.6:13	jiao4 jue2 xiao4	giao	so sánh (HV- tỷ giao)	compare; comparatively, more
+Z	數	66.11:15	shu4 shu3 cu4 shuo4	số, sổ	số, đếm, số học, số đông (HV- đại đa số)	number; several; count; fate
+Z	表	145.3:8	biao3	biểu	diễn đạt, tỏ ra, biểu chương, biểu diễn	show, express, manifest, display
+Z	內	11.2:4	nei4 na4	nội	bên trong	inside, interior; domestic
+Z	場	32.9:12	chang2 chang3	trường	sân, khoảnh đất trống, hí trường, lập trường	open space, field, market
+Z	它	40.2:5	ta1	tha	nó	it; other
+Z	從	60.8:11	cong2 zong4 zong1 cong1	tòng	theo	from, by, since, whence, through
+Z	快	61.4:7	kuai4	khoái	nhanh, vui thích, khoái lạc	rapid, quick, speedy, fast; soon
+Z	歡	76.18:22	huan1	hoan	vui vẻ, hoan hỷ	happy, pleased, glad; joy; enjoy
+Z	社	113.3:8	she4	xã	khu vực, xã hội, xã đoàn	god of the soil and altars to him; group of families; company, society
+Z	合	30.3:6	he2 ge3	hợp (hiệp)	góp lại	combine, unite, join; gather
+Z	望	74.7:11	wang4	vọng	mong, ngóng, hy vọng, vọng nguyệt tưởng quân	look at or forward; hope, expect
+Z	怎	61.5:9	zen3	chẩm	sao ? thế nào ?	what? why? how?
+Z	認	149.7:14	ren4	nhận	nhận ra, biết	recognize, know, understand
+Z	告	30.4:7	gao4	cáo	báo cho biết	tell, announce, inform; accuse; (khẩu + ngưu: Con bò dữ đi tới đâu cũng bị người ta dùng miệng la ó)
+Z	更	73.3:7	geng4 geng1	cánh, canh	càng, rất, lắm, đổi (cánh danh), năm canh bán dạ	more, still further, much more
+Z	幾	52.9:12	ji3 ji1	kỉ (ki)	mấy hử, nhiêu?	how many? how much? (a)few, some
+Z	考	125.0:6	kao3	khảo	già nua, khảo xét	examine, test; investigate
+Z	度	53.6:9	du4 duo2	độ	đo lường, chừng mực, độ nóng lạnh	degree, system; manner; consider
+Z	難	172.11:19	nan2 nan4 nuo2	nan	khó (thiên hạ vô nan sự, chỉ phạ hữu tâm nhân)	difficult, arduous, hard; unable
+Z	版	91.4:8	ban3	bản	bản in sách, tái bản, phó bản	printing blocks; edition
+Z	頭	181.7:16	tou2 tou5	đầu	cái đầu, người đứng đầu (đầu não)	head; top; chief, first; boss
+Z	喜	30.9:12	xi3	hỷ	vui vẻ, tin vui, mừng, hỷ tín	like, love, enjoy; joyful thing
+Z	許	149.4:11	xu3 hu3	hứa	nghe theo, chịu, bằng lòng, họ Hứa	allow, permit; promise; betroth
+Z	光	10.4:6	guang1	quang	ánh sáng, hết sạch	light, brilliant, shine; only
+Z	今	9.2:4	jin1	kim	bây giờ, hiện tại (vô cổ bất thành kim)	now, today, modern era
+Z	買	154.5:12	mai3	mãi	mua	buy, purchase; bribe, persuade
+Z	算	118.8:14	suan4	toán	đếm, tính toán, trù tính, bàn toán	count, calculate, figure; plan
+Z	弟	57.4:7	di4 ti4 ti4	đệ	đệ đệ: em	young brother; junior; i, me
+Z	若	140.5:9	ruo4 re3 re2 re4	nhược	như, giống như, ví bằng	if, supposing, assuming; similar
+Z	統	120.6:11	tong3	thống	đầu mối, gom lại một mối (HV- thống nhất)	govern, command, control; unite
+Z	記	149.3:10	ji4	ký	ghi chép, nhớ, dấu hiệu, ký giả	record; keep in mind, remember
+Z	代	9.3:5	dai4	đại	thế hệ, thay thế, thời đại, đại diện	replace, replacement (of person or generation); era, generation
+Z	號	141.7:13	hao4 hao2	hào	số, dấu hiệu	mark, sign; symbol; number
+Z	處	141.5:11	chu4 chu3	xứ, xử	nơi chốn, xứ sở, xử án, xử tử	place, locale; department
+Z	完	40.4:7	wan2	hoàn	xong, trọn vẹn (hoàn toàn), đầy đủ, hết	complete, finish, settle; whole
+Z	接	64.8:11	jie1	tiếp	ghép, giáp liền, tiếp đãi, tiếp cận	receive; continue; catch;connect
+Z	計	149.2:9	ji4	kế	mưu chước, lo trước, kế hoạch	plan, plot; strategem; scheme
+Z	字	39.3:6	zi4	tự	chữ	letter, character, word; (tử + miên: Người con trai ở dưới mái nhà thì đọc chữ)
+Z	師	50.7:10	shi1	sư	thầy	teacher, master, specialist; multitude, troops
+Z	並	1.7:8	bing4 bang4	tịnh	gồm, chung, tịnh hành (cùng đi)	equal to; side by side; also, what is more; both
+Z	政	66.4:9	zheng4 zheng1	chính, chánh	việc của quốc gia, khuôn phép làm việc	government, political affairs
+Z	玩	96.4:8	wan2 wan4	ngoạn	chơi, đùa giỡn	play with, joke, enjoy
+Z	張	57.8:11	zhang1 zhang4	trương	dương, phô trương, chủ trương, họ Trương	stretch, extend, expand; sheet
+Z	男	102.2:7	nan2	nam	đàn ông, con trai	male, man; son; baron; surname
+Z	誰	149.8:15	shui2 shei2	thùy	ai?	who? whom? whose? anyone?
+Z	每	80.3:7	mei3 mei4	mỗi	every, mỗi ngày	every, each
+Z	結	120.6:12	jie2 ji4 jie1	kết	buộc lại với nhau, kết cuộc, kết nghĩa	knot, tie; join, connect
+Z	且	1.4:5	qie3 ju1	thả	vã lại (lời nói mở đầu), cẩu thả	moreover, also (post-subject); about to, will soon (pre-verb)
+Z	星	72.5:9	xing1	tinh	ngôi sao, thứ (Tinh kỳ nhất = thứ Hai, Monday)	star, planet; any point of light
+Z	建	54.6:9	jian4	kiến	dựng, gây dựng, kiến nghị, kiến thiết	build, establish, erect, found
+Z	改	66.3:7	gai3	cải	sửa đổi, cải cách	change, alter; improve, remodel
+Z	連	162.7:11	lian2 lian3 lian4 lan4	liên	nối liền, liên lạc, liên kết, liên hoàn kế	join, connect; continuous; even
+Z	放	66.4:8	fang4 fang3	phóng	thả, buông ra, phóng sanh, tư tưởng khai phóng	put, release, free, liberate
+Z	哈	30.6:9	ha1 ha3 ha4	cáp	uống nước, cáp cáp (tiếng cười khanh khách)	sound of laughter
+Z	活	85.6:9	huo2 guo1	hoạt	sống, sinh động, hoạt bác	live, exist, survive; lively
+Z	研	112.6:9	yan2 yan4 xing2	nghiên	tìm đến nơi đến chốn, nghiên cứu, suy xét	grind, rub; study, research
+Z	直	109.3:8	zhi2	trực	thẳng, ngay thẳng, duỗi ra	straight, erect, vertical
+Z	設	149.4:11	she4	thiết	đặt ra, bày ra, thiết lập, trần thiết	build; establish; display ; particle of hypothesis, supposing
+Z	陳	170.8:11	chen2 zhen4	trần	bày tỏ (trần tình), lâu, họ Trần	exhibit, display; plead; surname
+Z	報	32.9:12	bao4	báo	báo chí, thông báo	report, tell, announce
+Z	轉	159.11:18	zhuan3 zhuan4	chuyển	xoay, chuyển cơ, chuyển động, chuyển hướng	shift, move, turn
+Z	黨	203.8:20	dang3  zhang3	đảng	nhiều, phe đảng, đoàn thể	political party, gang, faction
+Z	指	64.6:9	zhi3	chỉ	ngón tay, trỏ bảo	finger, toe; point, indicate
+Z	五	7.2:4	wu3	năm	số năm	five; surname
+Z	變	149.16:23	bian4	biến	thay đổi, biến đổi, biến chất, biến loạn	change, transform, alter; rebel
+Z	氣	84.6:10	qi4 xi4	khí	khí	air, gas, steam, vapor; spirit
+Z	西	146.0:6	xi1	tây	hướng tây, tây phương cực lạc	west(ern); westward, occident
+Z	試	149.6:13	shi4	thí	thử, thí dụ, thí nghiệm	test, try, experiment
+Z	希	50.4:7	xi1	hy	ít, mỏng, hy vọng	rare; hope, expect, strive for
+Z	神	113.5:10	shen2 shen1	thần	thần	spirit, god, supernatural being
+Z	取	29.6:8	qu1	thủ	lấy, dùng	take, receive, obtain; select
+Z	化	21.2:4	hua4 hua1	hóa	biến hóa, thay đổi, Hóa học, hóa thân	change, convert, reform; -ize
+Z	物	93.4:8	wu4	vật	đồ vật, động vật, thú vật, vật thể, sự vật, cảnh vật	thing, substance, creature
+Z	王	96.0:4	wang2 wang4 yu4	vương	vua, tước Vương, Vương giả chi đạo, họ Vương	king, ruler; royal; surname
+Z	任	9.4:6	ren4 ren2	nhậm, nhiệm	gánh vác, chịu đựng, nhiệm vụ, họ Nhậm	trust to, rely on, appoint; to bear, duty, office;  allow
+Z	林	75.4:8	lin2	lâm	rừng	forest, grove; surname; (2 mộc: đất có 2 cây thì đã thành rừng)
+Z	單	30.9:12	dan1 shan4 chan2	đơn	đơn lẽ	single, individual, only; lone
+Z	世	1.4:5	shi4	thế	đời, kiếp, thế giới, thế giao, thế gian, tái thế tình duyên	generation; world; era
+Z	受	29.6:8	shou4	thụ, thọ	chịu, chịu ơn (thụ ân, thọ. ân), thụ động	receive, accept, get; bear, stand
+Z	近	162.4:8	jin4 ji4	cận	gần, cận mặc giả hắc (gần mực thì đen)	near, close; approach; intimate
+Z	義	123.7:13	yi4	nghĩa	nhân nghĩa, nghĩa cử, nghĩa địa, nghĩa khí, kết nghĩa	right conduct, righteousness
+Z	死	78.2:6	si3	tử	chết, sanh ký tử quy	die; dead; death
+Z	便	9.7:9	bian4 pian2	tiện	tiện lợi, thuận tiện, phương tiện	convenience, ease; expedient
+Z	反	29.2:4	fan3 fan1	phản, phiên	đối nghịch lại, phản đối, phản loạn, phản nghịch	reverse, opposite, contrary, anti-
+Z	戰	62.12:16	zhan4	chiến	đánh nhau	war, fighting, battle
+Z	資	154.6:13	zi1 zi4	tư	của cải, tính tự nhiên (tư chất), tư bản	property; wealth; capital
+Z	空	116.3:8	kong1 kong4 kong3	không	trống không, hư không, không gian	empty, hollow, bare, deserted
+Z	隊	170.9:12	dui4 sui4 zhui4	đội	toán (quân ..), đội ngũ, đội trưởng, xếp hàng theo đội ngũ	team, group; army unit
+Z	跟	157.6:13	gen1	cân	gót chân, đi theo, cân bang (body guard, người theo ủng hộ)	heel;to follow, accompany; with
+Z	卻	26.7:9	que4	khước	không nhận (khước từ)	still, but; decline; retreat
+Z	北	21.3:5	bei3 bei4	bắc	hướng bắc	north; northern; northward
+Z	必	61.1:5	bi4	tất	ắt hẳn, quả nhiên, tất yếu	surely, most certainly; must
+Z	業	75.9:13	ye4	nghiệp	sự nghiệp, công nghiệp, nghiệp báo	profession, business, trade
+Z	功	19.3:5	gong1	công	sự khó nhọc, công lao, công trạng	achievement, merit, good result
+Z	寫	40.12:15	xie3	tả	viết, sao chép	write; draw, sketch; compose
+Z	影	59.12:15	ying3	ảnh	hình bóng, nhiếp ảnh, điện ảnh	shadow; image, reflection; photo
+Z	聲	128.11:17	sheng1	thanh	tiếng, danh dự, phong thanh (tiếng gió, tiếng đồn phong phan	sound, voice, noise; tone; music
+Z	平	51.2:5	ping2	bình	bằng, hòa bình	flat, level, even; peaceful
+Z	台	30.2:5	tai2 yi2 tai1	đài	trạm, đồn	platform; unit; term of address
+Z	臺	133.8:14	tai2 yi2 tai1	đài	cái đài cao, nước Đài Loan	tower, lookout; stage, platform
+Z	員	30.7:10	yuan2 yun4	viên	nhân viên, thành viên	member; personnel, staff member
+Z	討	149.3:10	tao3	thảo	đánh giết (thảo phạt), bàn bạc (thảo luận)	ask for, beg; demand; dun; marry
+Z	則	18.7:9	ze2	tắc	quy tắc, phép tắc, (cùng tắc biến, biến tắc thông)	rule, law, regulation; grades
+Z	容	40.7:10	rong2	dung	chứa (dung nạp), diện mạo (dung mạo), khoan dung	looks, appearance; figure, form
+Z	檔	75.13:17	dang3 dang4	đương	cái phản, gánh hàng	shelf; frame, crosspiece
+Z	向	30.3:6	xiang4	hướng	phương hướng, Quân hướng Tiêu Tương ngã hướng Tần	toward, direction, trend
+Z	妳	38.5:8	nai3 ni3	nễ	You (dùng cho phái nữ khi đứng trước là bộ Nữ)	you (f.)
+Z	市	50.2:5	shi4	thị	chợ, thành thị, thị trưởng	market, fair; city, town; trade
+Z	利	18.5:7	li4	lợi	lợi, ích lợi, lợi ích, lợi nhuận, lợi tức	gains, advantage, profit, merit
+Z	興	134.9:16	xing1 xing4	hưng, hứng	nổi lên, làm nên, hưng thịnh, hưng nghiệp, vui (cao hứng)	thrive, prosper, flourish
+Z	強	57.8:11	qiang2 qiang3 jiang4	cường	mạnh, cường dũng, cường hào ác bá, cường thân kiện thể	strong, powerful, energetic
+Z	安	40.3:6	an1	an	yên ổn	peaceful, tranquil, quiet; (miên + nữ: Người con gái ở dưới mái nhà thì được yên ổn)
+Z	央	37.2:5	yang1	ương	chính giữa, trung ương	center, conclude, run out; beg
+Z	特	93.6:10	te4	đặc	đặc biệt, đặc vụ	special, unique, distinguished
+Z	議	149.13:20	yi4	nghị	lời bàn bạc, nghị luận, nghị án, nghị hòa	consult, talk over, discuss
+Z	辦	160.9:16	ban4	biện	giảng giải, xét rõ, làm việc (biện sự), biện bác, biện bạch	manage, do, handle; deal with
+Z	價	9.13:15	jia4 jie5	giá	Giá trị, phẩm cách, giá cả	price, value
+Z	總	120.11:17	zong3 zong1	tổng	chung lại, tụ họp, đứng đầu, tổng thống, tổng hợp, tổng kết	collect; overall, altogether
+Z	傳	9.11:13	chuan2 zhuan4	truyền, truyện	trao, chuyển, truyền bá, truyền chân, sách truyện	summon; propagate, transmit
+Z	思	61.5:9	si1 si4 sai1	tư	nghĩ đến, nhớ, tư lự, tư nghị	think, consider, ponder; final particle
+Z	花	140.4:8	hua1	hoa	bông hoa	flower; blossoms
+Z	元	10.2:4	yuan2	nguyên	bắt đầu	first; dollar; origin; head; (nhân + nhị: Con người bắt đầu bằng 2 yếu tố âm dương)
+Z	叫	30.2:5	jiao4	khiếu	kêu	cry, shout; hail, greet, call
+Z	保	9.7:9	bao3	bảo	giữ gìn, săn sóc, bảo đảm, bảo vệ, bảo tồn	protect, safeguard, defend, care
+Z	份	9.4:6	fen4 bin1	phân	phần	portion, part; duty
+Z	求	85.2:7	qiu2	cầu	xin, yêu cầu, mong mỏi, cầu hôn, cầu khẩn	seek; demand, request; beseech
+Z	究	116.2:7	jiu4 jiu1	cứu	tra hỏi, nghiền ngẫm, nghiên cứu, cứu cánh	examine, investigate
+Z	呵	30.5:8	he1	ha	mắng, ha xích (mắng đuổi), ha ha (tiếng cười ha ha)	scold; laughing sound; yawn
+Z	件	9.4:6	jian4	kiện	sự kiện, việc	numerary adjunct for article; matter; (nhân + ngưu: Con người và con bò cùng đi cày là 1 sự kiện bình thường)
+Z	未	75.1:5	wei4	vị	chưa	not yet; (mộc + nhất gạch ngang ngắn ở trên: ý nói là cây còn nhỏ, chưa thành gỗ)
+Z	決	85.4:7	jue2	quyết	quyết định, quyết tâm, nhất quyết	decide, determine, judge
+Z	組	120.5:11	zu3 qu1	tổ	nối liền, xâu lại, tổ chức	class; section, department
+Z	萬	140.9:13	wan4	vạn	muôn, 10 ngàn, họ Vạn, vạn an, vạn chúng nhất tâm	ten thousand; innumerable
+Z	級	120.4:10	ji2	cấp	ngôi bậc, ngôi thứ, đệ nhất cấp	level, rank, class; grade
+Z	持	64.6:9	chi2	trì	kềm, cầm giữ, giúp đỡ, duy trì, trì giới (giữ gìn giới luật)	sustain, support; hold, grasp
+Z	笑	118.4:10	xiao4	tiếu	cười, Tam tiếu tình duyên :)	smile, laugh, giggle; snicker
+Z	投	64.4:7	tou2	đầu	ném vô, xông vào, nương dựa, đầu cơ, đầu cáo	throw, cast, fling, pitch; jump
+Z	哪	30.7:10	na3 nei3 na5 ne2 nuo2	ná	nào, thế nào?	which? where? how?
+Z	室	40.6:9	shi4	thất	nhà, vợ, phòng	room, home, house, chamber
+Z	曾	73.8:12	ceng2 zeng1	tăng, tằng	thêm, từng trải, họ Tăng, tằng tổ (ông cố)	already; sign of past
+Z	喔	30.9:12	wo1 01	ác	tiếng gà gáy ó o :)	descriptive of crying or of crow
+Z	標	75.11:15	biao1	tiêu	cây nêu, ngọn cây, tiêu biểu, tiêu chuẩn, tiêu đề	mark, symbol, label, sign; stand
+Z	流	85.6:9	liu2	lưu	dòng nước, chảy đi, trôi đi, lưu lạc, lưu manh, lưu vong	flow, circulate, drift; class
+Z	獨	94.13:16	du2	độc	riêng, một mình, độc nhất, độc mộc bất thành lâm	alone, single, solitary, only
+Z	貓	153.9:16	mao1	miêu	con mèo	cat
+Z	卡	25.3:5	qia3 ka3	tạp	chỗ thu thuế hàng hóa, chỗ trọng yếu có quân trú đóng	card, punch card; calorie
+Z	需	173.6:14	xu1 nuo4 ruan3 ru2	nhu	cần dùng, nhu cầu, nhu yếu	need, require, must
+Z	兄	10.3:5	xiong1	huynh	người anh	elder brother; (nhân + khẩu: Người anh thường dùng miệng để khuyên nhủ 2 em)
+Z	共	12.4:6	gong4 gong1	cộng	chung, cùng nhau, cộng đồng, cộng tác, công cộng	together with, all, total; share
+Z	語	149.7:14	yu3 yu4	ngữ	tiếng nói, lời nói	language, words; saying, express
+Z	海	85.7:10	hai3	hải	biển. bể, hải cảng, hải quân	sea, ocean; maritime
+Z	阿	170.5:8	a1 a4 a5 e1 e3 a3	a	hùa theo, gò to	prefix to name; transliteration
+Z	線	120.9:15	xian4	tuyến	dây, sợi chỉ, manh mối	thread, line, wire; clue
+Z	參	28.9:11	can1 san1 shen1 den1 cen1 san3	tham, sâm	xen vào, dự vào, tham mưu, tham khảo, sâm Hoa Kỳ	take part in, intervene
+Z	般	137.4:10	ban1 bo1 pan2 ban3	ban, bàn	dời đi, dọn đi, giống, loại, như nhau	sort, manner, kind, category
+Z	命	30.5:8	ming4	mạng, mệnh	tánh mạng, mệnh lệnh	life; destiny, fate, luck; order
+Z	視	147.4:11	shi4	thị	nhìn, thị lực	look at, inspect, observe, see
+Z	觀	147.18:25	guan1 guan4	quan	xem, quan sát, tham quan	see, observe, view; appearance
+Z	聯	128.11:17	lian2	liên	liên đới, liên lạc	connect, join; associate, ally
+Z	腦	130.9:13	nao3 nao4	não	óc	brain
+Z	朋	74.4:8	peng2	bằng	bạn bè	friend, pal, acquaintance; (2 nguyệt: Bạn bè thường gặp nhau trong 2 đêm trăng sáng để nói chuyện)
+Z	格	75.6:10	ge2 ge1	cách	tính cách	pattern, standard, form; style
+Z	兒	10.6:8	er2 er5	nhi	trẻ con	son, child, oneself; final part
+Z	修	9.8:10	xiu1	tu	tu thân	study; repair; cultivate
+Z	料	68.6:10	liao4 liao2	liệu	chất liệu	consider, conjecture; materials, ingredients
+Z	錢	167.8:16	qian2 jian3	tiền	tiền	money, currency, coins
+Z	失	37.2:5	shi1	thất	mất đi, thất thoát, thất ý	lose; make mistake, neglect
+Z	吃	30.3:6	chi1 ji1	thực	ăn	eat; drink; suffer, endure, bear
+Z	住	9.5:7	zhu4	trụ (trú)	ở	reside, live at, dwell, lodge; stop
+Z	即	26.5:7	ji2	tức	tới, gần, tức khắc, sắc tức thị không	promptly, quickly, immediately
+Z	另	30.2:5	ling4	lánh	riêng	another, separate, other
+Z	錄	167.8:16	lu4	lục	kỷ lục, ghi lại	copy, write down, record
+Z	專	41.8:11	zhuan1	chuyên	chuyên môn	monopolize, take sole possession
+Z	象	152.5:12	xiang4	tượng	con voi	elephant; ivory; figure, image
+Z	換	64.9:12	huan4	hoán	đổi	change, exchange; substitute
+Z	基	32.8:11	ji1	cơ	căn bản	foundation, base
+Z	板	75.4:8	ban3	bản	tấm ván mỏng, bản in sách	plank, board; iron or tin plate
+Z	拿	64.6:10	na2	nã	cầm	take, hold, grasp; bring; with
+Z	遠	162.10:14	yuan3 yuan4	viễn	xa	distant, remote, far; profound
+Z	速	162.7:11	su4	thúc	nhanh nhẹn	quick, prompt, speedy
+Z	形	59.4:7	xing2	hình 	hình thể, hình dạng, hành hình	form, shape, appearance
+Z	孩	39.6:9	hai2	hài	trẻ con	baby, child; children
+Z	備	9.10:12	bei4	bị	chuẩn bị, giới bị	prepare, ready, perfect
+Z	歌	76.10:14	ge1	ca	ca hát, bài ca	song, lyrics; sing, chant; praise
+Z	幫	50.14:17	bang1	bang	giúp đỡ, bang phái	help, assist; defend; shoe upper
+Z	確	112.10:15	que4	xác	bền, đích xác, xác định. xác thực	sure, certain; real, true
+Z	候	9.8:10	hou4	hầu	tước Hầu, hẹp, Họ Hầu, lúc (thì hầu)	wait; expect; visit; greet
+Z	除	170.7:10	chu2 zhu4 shu1	trừ	trừ bỏ, bớt đi, trừ tịch, trừ gian diệt ác	eliminate, remove, except
+Z	界	102.4:9	jie4	giới	biên giới, ranh giới, giới hạn	boundary, limit; domain; society
+Z	裝	145.7:13	zhuang1	trang	quần áo, y trang, trang sức, trang hoàng	dress, clothes; decorate; fill
+Z	類	181.10:19	lei4 li4	loại	loài, giống, chủng loại, đại khái	class, group, kind, category
+Z	講	149.10:17	jiang3	giảng	cắt nghĩa, giảng giải, giải thích, giảng đường	explain; discuss; talk
+Z	器	30.13:16	qi4	khí	đồ dùng, tài năng, độ lượng (khí lượng)	receptacle, vessel; instrument
+Z	南	24.7:9	nan2 na1	nam	hướng nam	south; southern part; southward
+Z	案	75.6:10	an4	án	cái bàn, cái mâm, lời bình phẩm về học thuật (Công án thiền)	table, bench; legal case
+Z	畫	102.7:12	hua4	họa	vẽ	delineate, painting, picture, drawing; draw
+Z	英	140.5:9	ying1 yang1	anh	tinh túy, nước Anh	petal, flower, leaf; brave, hero
+Z	訴	149.5:12	su4	tố	mách, gièm chê	accuse; sue; inform; narrate
+Z	帶	50.8:11	dai4	đái	đeo, mang,	belt, girdle, band, strap, zone
+Z	差	48.7:10	chai1	sai	sai biệt, sai khiến, sai nha, khác, dỡ	differ; nearly, almost
+Z	乎	4.4:5	hu1 hu2 hu1	hồ	vậy ôi, tán thán	interrogative or exclamatory final particle
+Z	量	166.5:12	liang4 liang2	lượng, lường	sức chứa, đo lường, độ lượng, tính toán, cân nhắc, mức độ	measure, quantity, capacity
+Z	久	4.2:3	jiu3	cửu	lâu dài	long time (ago); time passage, grow late; (phiệt + nhân: Người già sống lâu thì lưng còng, tóc bạc)
+Z	掉	64.8:11	diao4	điệu, điếu	day (đầu bỏ đi), đánh mất, điệu hoán (tráo đổi)	turn, move; shake, wag;drop down
+Z	似	9.5:7	si4 shi4	tự, tợ	giống như, tựa như	resemble, similar to; as if, seem
+Z	整	66.11:16	zheng3	chỉnh	nguyên thể, chỉnh tề, chỉnh lý, sửa sang cho ngay ngắn	orderly, neat, tidy; whole
+Z	引	57.1:4	yin3	dẫn	dẫn dắt, kéo dài, đưa ra (làm gương, làm bằng chứng)	pull, draw out, attract; stretch
+Z	班	96.6:10	ban1	ban	phát, bày giải, đơn vị	class, group, grade; squad; job
+Z	迷	162.6:10	mi2 mei4 mi4	mê	mê hoặc, lầm, mê mẫn, mờ ám, mê tín, mê lộ (lạc đường)	bewitch, charm, infatuate
+Z	圖	31.11:14	tu2	đồ	bản đồ, sơ đồ	diagram; chart, map, picture
+Z	制	18.6:8	zhi4	chế	kềm chế, phép tắc, chế độ, chế phục, thể chế	system; establish; overpower
+Z	費	154.5:12	fei4 bi4	phí	xài, hao tổn, phí tổn, phí tâm, họ Phí	expenses, expenditures, fee
+Z	賽	154.10:17	sai4	sai, trại	thi, đua, đấu, thắng, hơn	compete, contend; contest, race
+Z	奇	37.5:8	qi2 ji1	kỳ	lạ, hiếm có	strange, unusual, uncanny,occult
+Z	識	149.12:19	shi4 shi2 zhi4	thức	hiểu biết	recognize, understand, know
+Z	型	32.6:9	xing2	hình	khuôn bằng đất, khuôn phép, tạo hình	pattern, model, type; law; mold
+Z	超	156.5:12	chao1 chao3 chao4 tiao4	siêu	vượt lên cao, siêu nhân, siêu cấp, siêu thị, siêu bạt	jump over, leap over; surpass
+Z	邊	162.15:19	bian1	biên	bên, biên giới, biên cảnh, biên phòng,	edge, margin, side, border
+Z	耶	128.3:9	ye2 ye1 xie2	da	vậy ư! (dùng làm trợ từ chỉ sự ngờ), Da Tô giáo (đạo Thiên Chúa)	used in transliteration
+Z	品	30.6:9	pin3	phẩm	khen chê, giá trị	article, product, commodity; (3 chữ khẩu: Ba cái miệng xúm lại bình phẩm một vấn đề)
+Z	雖	172.9:17	sui1	tuy	dẫu, dù	although, even if
+Z	始	38.5:8	shi3	thỉ, thủy	bắt đầu, lúc đầu, hữu thỉ hữu chung, thỉ tổ nhân loại	begin, start; then, only then
+Z	運	162.9:13	yun4	vận	chở, vận chuyển, vận mệnh, vận dụng, hạnh vận	luck, fortune; ship, transport
+Z	李	75.3:7	li3	lý	cây lý, họ Lý	plum; judge; surname
+Z	務	19.9:11	wu4	vụ	việc, công vụ, vụ lợi, phục vụ	affairs, business; must, should
+Z	權	75.18:22	quan2	quyền	quyền hành, quyền lực, quyền biến, quyền lợi, quyền nghi	power, right, authority
+Z	驗	187.13:23	yan4	nghiệm	nghiệm xem	test, examine, inspect; verify
+Z	故	66.5:9	gu4 gu3	cố	cũ, gốc, cớ	ancient, old; reason, because
+Z	六	12.2:4	liu4 lu4	lục	số sáu	number six
+Z	讀	149.15:22	du2 dou4	độc	đọc (sách, báo), độc giả (người đọc sách báo)	read, study; pronounce
+Z	怪	61.5:8	guai4	quái	lạ lùng, quái gở, yêu quái, quái dị	strange, unusual, peculiar
+Z	滿	85.11:14	man3 men4	mãn	đầy đủ, tự mãn, đến kỳ hạn, mỹ mãn, mãn nguyện	fill; full, satisfied
+Z	服	74.4:8	fu2 fu4 bi4	phục	y phục, quần áo, phục tòng, phục vụ	clothes; wear, dress
+Z	夢	36.11:14	meng4 meng2	mộng	giấc mộng, mơ tưởng	dream; visionary; wishful
+Z	收	66.2:6	shou1	thu, thâu	bắt, lấy, tom góp, thu binh, thu thuế, thu dụng, thu hoạch	gather together, collect;harvest
+Z	眼	109.6:11	yan3 wen3	nhãn	con mắt, quả báo nhãn tiền, nhãn quan	eye; eyelet, hole, opening
+Z	造	162.7:11	zao4 cao4 cao1	tạo	chế tạo, làm ra, xây đắp, tạo hóa, tạo phản	construct, build, begin; prepare
+Z	念	61.4:8	nian4	niệm	nhớ, tưởng nhớ, hoài niệm, niệm cựu, niệm kinh	think of, recall, study
+Z	留	102.5:10	liu2 liu3  liu4	lưu	giữ lại	stop, halt; stay, detain, keep
+Z	課	149.8:15	ke4	khóa	lớp, việc học, thời khoá biểu, thượng khóa (vô lớp học)	lesson; course; classwork
+Z	軍	159.2:9	jun1	quân	quân lính, việc binh, quân trang, quân cụ, quân bị	army, military; soldiers, troops
+Z	破	112.5:10	po4	phá	làm hư, làm bể nát, phá án, phá hoại, phá diệt (hủy diệt)	break, ruin, destroy; rout
+Z	精	119.8:14	jing1 qing2 jing4	tinh	tinh túy	essence; semen; spirit
+Z	半	24.3:5	ban4	bán	phân nửa, bán cân bát lượng (nửa cân 8 lạng)	half
+Z	約	120.3:9	yue1 yao1 yao4 di4	ước	buộc, bó buộc, hẹn ước, ước pháp, ước định	treaty, agreement, covenant
+Z	願	181.10:19	yuan4	nguyện	cầu, xin, mong mỏi, nguyện vọng, ý nguyện	desire, want; wish; ambition
+Z	令	9.3:5	ling4 ling2 ling3	lệnh, lịnh	ra lệnh, mệnh lệnh, lệnh ái (tiếng tôn xưng con gái người ta)	command, order; "commandant", magistrate; allow, cause
+Z	底	53.5:8	di3 de5	để	đáy, hải để (đáy biển)	bottom, underneath, underside
+Z	答	118.6:12	da2 da1	đáp	trả lời, vấn đáp, đáp ứng	answer, reply; return; assent to
+Z	演	85.11:14	yan3 yan4	diễn	phô diễn, diễn thuyết, diễn giảng, diễn viên	perform, put on; exercise
+Z	達	162.9:13	da2 ta4 ti4	đạt	thông suốt, hiểu thất, đến nơi, thành đạt, hiển đạt, đạt lý	arrive at, reach; intelligent
+Z	雄	172.4:12	xiong2	hùng	trống, đực, mạnh mẽ, hùng biện, hùng tráng, hùng cường	male of species; hero; manly
+Z	深	85.8:11	shen1	thâm	sâu, kín đáo, thâm nghiêm, thâm sâu	deep; depth; far; very, extreme
+Z	票	113.6:11	piao4 piao1	phiếu	vé, tem	slip of paper or bamboo; ticket
+Z	早	72.2:6	zao3	tảo	sáng sớm, trước	early; soon; morning
+Z	院	170.7:10	yuan4	viện	viện	courtyard, yard, court; school
+Z	夠	36.8:11	gou4	cấu	đủ, với tới, đạt được	enough, adequate
+Z	曲	73.2:6	qu3 qu1	khúc	cong, không ngay thẳng	crooked, bent; wrong, false; (viết + nhị dọc: Nói đến 2 lần là không ngay thẳng)
+Z	假	9.9:11	jia3 jia4 xia2	giả	giả mạo, giả tạo, giả thiết, chân giả (thật, không thật)	falsehood, deception; vacation
+Z	談	149.8:15	tan2	đàm	trò chuyện, đàm luận, đàm thoại	talk; conversation; surname
+Z	術	144.5:11	shu4	thuật	cách, mỹ thuật, học thuật	art, skill, special feat; method
+Z	棒	75.8:12	bang4	bổng	cây gậy	stick, club, truncheon; hit
+Z	賣	154.8:15	mai4	mại	bán, mãi mại (mua, bán)	sell; betray; show off
+Z	黑	203.0:12	hei1 he4	hắc	màu đen, hắc ám	black; dark; evil, sinister
+Z	百	106.1:6	bai3 bo2 mo4	bách	một trăm, nhiều	one hundred; numerous, many
+Z	勝	19.10:12	sheng4 sheng1	thắng	được	victory; excel, be better than
+Z	推	64.8:11	tui1	suy	xô đẩy, suy đoán, suy gẩm	push, expel; push forward
+Z	存	39.3:6	cun2	tồn	giữ lại, bảo tồn, tồn trử, tồn vong ...	exist, live, be; survive; remain
+Z	準	85.10:13	zhun3	chuẩn	mực thước, tiêu chuẩn, chuẩn xác (chính xác), chuẩn bị	rule, guideline, standard
+Z	往	60.5:8	wang3 wang4	vãng	đi, qua, đã qua, chết, vãng lai, dĩ vãng	go, depart; past, formerly
+Z	碟	112.9:14	die2 she2	điệp	cái dĩa	small dish, plate
+Z	易	72.4:8	yi4	dị, dịch	dễ, sơ lược, thay đổi, giản dị, dịch dung, dung dị (dễ)	change; easy
+Z	況	85.5:8	kuang4	huống	tình hình, so sánh	condition, situation;furthermore
+Z	晚	72.7:11	wan3	vãn	buổi chiều, muộn màng, vãn bối, vãn niên	night, evening; late
+Z	離	172.11:19	li2 li4 li3  chi1 gu3	ly	phân tán, chia ly, ly tán, ly gián	leave, depart; go away; separate
+Z	治	85.5:8	zhi4 chi2 yi2	trị	sửa chữa, trừng trị, coi sóc, trị an, trị liệu, trị gia	govern, regulate, administer
+Z	導	41.12:16	dao3 dao4	đạo	chỉ dạy, dẫn dắt, chỉ đạo, hướng đạo	direct, guide, lead, conduct
+Z	七	1.1:2	qi1	thất	số bảy	seven
+Z	段	79.5:9	duan4	đoạn, đoàn	một khúc, một đoạn, họ Đoàn	section, piece, division
+Z	團	31.11:14	tuan2	đoàn	hình tròn, 1 số đông, tụ tập, đoàn kết, đoàn viên	sphere, ball, circle; mass, lump
+Z	調	149.8:15	diao4 tiao4 tiao2 zhou1	điệu, điều	nhịp, dời đi, điều hòa, điều chỉnh, điều chỉnh	transfer, move, change; tune
+Z	證	149.12:19	zheng4	chứng	nhận thật, bằng chứng, chứng minh, chứng nhận	proof, evidence; testify, verify
+Z	列	18.4:6	lie4	liệt	bày ra, số nhiều, liệt kê, liệt quốc	line; arrange in order, classify
+Z	傷	9.11:13	shang1	thương	đau đớn, bị thương, thương tâm, thương binh	wound, injury; fall ill from
+Z	永	85.1:5	yong3	vĩnh	lâu dài, vĩnh viễn, vĩnh biệt, vĩnh cửu	long, perpetual, eternal,forever
+Z	剛	18.8:10	gang1	cang, cương	cứng, cang cường, cương liệt	hard, tough, rigid, strong
+Z	排	64.8:11	pai2 pai3 bei4	bài	bác bỏ, chê bai, bày trừ, bài bác, sắp hàng	row, rank, line
+Z	哥	30.7:10	ge1	ca	ca ca: Anh	elder brother
+Z	德	60.12:15	de2	đức	đức hạnh, đức năng thắng số	ethics, morality, virtue
+Z	九	5.1:2	jiu3	cửu	số chín	nine
+Z	甚	99.4:9	shen2 shi2 shen4	thậm	very, rất, câu hỏi	great extent; considerably
+Z	殺	79.7:11	sha1 sa4 shai4 she4	sát	giết, sát nhân	kill, slaughter, murder; hurt; to pare off, reduce, clip
+Z	照	86.9:13	zhao4	chiêu, chiếu	soi sáng, chiếu rọi, y theo, đối chiếu	shine, illumine, reflect
+Z	軟	159.4:11	ruan3	nhuyễn	vật mềm, hành lý	soft, flexible, pliable; weak
+Z	包	20.3:5	bao1	bao	gói, họ Bao	wrap, pack, bundle; package
+Z	怕	61.5:8	pa4	phạ	sợ hãi, e rằng, khéo, có lẽ, ngại	fear, be afraid of; apprehensive
+Z	條	75.7:11	tiao2	điều	điều lệ	clause, condition;string, stripe
+Z	夜	36.5:8	ye4	dạ	đêm	night, dark; in night; by night
+Z	商	30.8:11	shang1	thương	đắn đo, buôn	commerce, business, trade
+Z	概	75.9:13	gai4 gui4 jie2	khái	khái quát, đại khái	generally, approximately
+Z	根	75.6:10	gen1	căn	gốc, rễ, cội nguồn	root, base(d on); foundation
+Z	供	9.6:8	gong1 gong4	cung	dâng, nạp, cung cấp, cung phụng	supply, provide for; offer in worship
+Z	絕	120.6:12	jue2	tuyệt	cắt đứt, dứt, cực kỳ, tuyệt kỹ, tuyệt diệu, tuyệt tình	cut, sever, break off, terminate
+Z	千	24.1:3	qian1	thiên	ngàn	thousand; many, numerous; very
+Z	客	40.6:9	ke4	khách	khách	guest, traveller; customer
+Z	切	18.2:4	qie1 qie4 qi4	thiết	cần thiết	cut, mince, slice, carve
+Z	集	172.4:12	ji2	tập	nhóm, hợp lại, nhiều bài thơ, văn gom lạị tụ tập	assemble, collect together
+Z	稱	115.9:14	cheng1 cheng4 chen4	xưng	xưng hiệu, danh xưng	call; name, brand; address; say
+Z	據	64.13:16	ju4	cứ	căn cứ, dựa theo	occupy, take possession of; base
+Z	落	140.9:13	luo4 la4 lao4 luo1	lạc	sa xuống, lưu lạc, lạc nhạn	fall, drop; net income, surplus
+Z	越	156.5:12	yue4 huo2	việt	vượt qua, càng, nước Việt	exceed, go beyond; the more ...
+Z	竟	117.6:11	jing4	cánh	cuối cùng sẽ	finally, after all, at last
+Z	盡	108.9:14	jin4 jin3	tận	tận cùng, hết, khổ tận cam lai	exhaust, use up; deplete
+Z	待	60.6:9	dai4 dai1	trì	chờ đợi, duy trì	treat, entertain, receive; wait
+Z	聞	128.8:14	wen2 wen4	văn	nghe, văn kỳ thanh bất kiến kỳ hình, kiến văn uyên bác	hear; smell; make known; news
+Z	園	31.10:13	yuan2	viên	vườn, lạc viên	garden; park, orchard
+Z	忘	61.3:7	wang4 wang2	vong	quên, mất, vong ân, vong quốc,	forget; neglect; miss, omit
+Z	值	9.8:10	zhi2 zhi4	trực	thẳng	price
+Z	產	100.6:11	chan3	sản	tài sản	give birth, bring forth, produce
+Z	消	85.7:10	xiao1	tiêu	tiêu thụ	vanish, die out; melt away
+Z	雙	172.10:18	shuang1	song	đôi, cặp, song thân	set of two, pair, couple; both
+Z	紅	120.3:9	hong2 gong1 jiang4	hồng	màu đỏ, hồng nhan	red, vermillion; blush, flush
+Z	座	53.7:10	zuo4	tọa	chỗ ngồi, an tọa	seat; stand, base
+Z	展	44.7:10	zhan3	triễn	triễn khai, phát triễn	open, unfold; stretch, extend
+Z	育	130.4:7	yu4 yo1	dục	dưỡng dục, dục anh	produce, give birth to; educate
+Z	跑	157.5:12	pao3 pao2 bo2	bào	chạy, nhảy, trốn thoát, đi	run, flee, leave in hurry
+Z	附	170.5:8	fu4 pou3 bu4 fu1	phụ	nhập vô, phụ đề	adhere to, append; rely on      near to
+Z	嘛	30.11:14	ma5 ma5	ma	đay, gai, vừng, tê cóng, ma túy, Lạt Ma	final exclamatory particle
+Z	執	32.8:11	zhi2	chấp	khăng khăng, cố chấp, chấp hành	hold in hand; keep; carry out
+Z	唱	30.8:11	chang4	xướng	hát, khởi xướng, phu xướng phụ tùy	sing, chant, call; ditty, song
+Z	技	64.4:7	ji4	kỷ	nghề, kỷ thuật	skill, ability, talent, ingenuity
+Z	某	75.5:9	mou3	mỗ	ta, người nào đó	certain thing or person
+Z	硬	112.7:12	ying4 geng3	ngạnh	cứng rắn, ương ngạnh	hard, firm, strong; obstinate
+Z	斯	69.8:12	si1	tư	đó, ấy này, xé ra, tư văn (chỉ dáng vẻ thư sinh)	this, thus, such; to lop off; emphatic particle
+Z	雲	173.4:12	yun2	vân	mây	clouds; yunnan province
+Z	遊	162.9:13	you2	du	lãng du, du ngoạn, du lịch	wander, roam, travel
+Z	息	61.6:10	xi1	tức	nghỉ ngơi, ngưng, hưu tức	rest, put stop to, end, cease
+Z	助	19.5:7	zhu4	trợ	giúp, tương trợ	help, aid, assist
+Z	須	181.3:12	xu1	tu	cần, tất tu (cần thiết)	must, have to, necessary; moment; whiskers
+Z	苦	140.5:9	ku3 gu3	khổ	khổ, khó nhọc	bitter; hardship, suffering
+Z	介	9.2:4	jie4	giới	người đứng giữa người đứng giữa	forerunner, herald, harbinger; to lie between; sea shell; to wear armor; (Hình người đứng giữa làm mai mối cho 2 kẻ xa lạ)
+Z	效	66.6:10	xiao4	hiệu	hiệu quả, mô phỏng	result, effect; effectiveness
+Z	質	154.8:15	zhi2  zhi4	chất	tính chất, chất lượng	matter, material, substance
+Z	例	9.6:8	li4	lệ	thí dụ	precedent, example; regulation
+Z	唉	30.7:10	ai1 ai4	ai	chao ôi! (lời than thở về sự đáng ghét)	alas
+Z	職	128.12:18	zhi2 zhi4 te4	chức	chức phận	duty, profession; office, post
+Z	復	60.9:12	fu4 fu4 fou4	phục	phục hợp, quang phục, phục hoàn	return; repeat; repeatedly
+Z	輸	159.9:16	shu1 shu4	du, thâu	thua, chuyển vận, du nhập, thâu doanh (thua được)	transport, carry, haul
+Z	節	118.7:13	jie2 jie1	tiết	thời tiết, tiết kiệm	knot, node, joint; section
+Z	規	147.4:11	gui1 kui1 xu4 gui4	quy	quy tắc, phạm quy	rules, regulations, customs, law
+Z	注	85.5:8	zhu4 zhou4	chú	chú ý, chú trọng	concentrate, focus, direct
+Z	畢	102.6:11	bi4	tất	hoàn tất	end, finish, conclude; completed
+Z	查	75.5:9	cha2 zha1	tra	tra xét, tra cứu, điều tra	investigate, examine, seek into
+Z	熱	86.11:15	re4	nhiệt	nóng	hot; heat; fever; restless; zeal
+Z	油	85.5:8	you2 you4	du	dầu, hỏa du (dầu lửa), quét sơn, khôn khéo	oil, fat, grease, lard; paints
+Z	館	184.8:16	guan3	quán	quán trọ, cơ quan	public building
+Z	態	61.10:14	tai4	thái	trạng thái, thể thái	manner, bearing, attitude
+Z	停	9.9:11	ting2	đình	ngưng lại	stop, suspend, delay; suitable
+Z	福	113.9:14	fu2 fu4	phúc	tốt lành	happiness, good fortune,blessing
+Z	救	66.7:11	jiu4	cứu	cứu, cấp cứu, cứu nhân	save, rescue, relieve; help, aid
+Z	倒	9.8:10	dao3 dao4	đảo	ngược lại	fall over; lie down; take turns
+Z	親	147.9:16	qin1 qing4 xin1	thân	thân tình, thân tín	relatives, parents; intimate
+Z	害	40.7:10	hai4 he2	hại	hại, phá hoại	injure, harm; destroy, kill
+Z	亂	5.12:13	luan4	loạn	lộn xộn, khg yên ổn, loạn đảng	confusion, state of chaos; create chaos, revolt
+Z	古	30.2:5	gu3	cổ	cũ, xưa	old, classic, ancient; (khẩu + thập: Chuyện kể qua mười cái miệng thì đã là chuyện xưa)
+Z	步	77.3:7	bu4	bộ	bước, tản bộ, bình bộ thanh vân	step, pace; walk, stroll
+Z	寶	40.17:20	bao3	bảo, bửu	quý trọng, bảo bối, bảo vật	treasure, jewel; precious, rare
+Z	擊	64.13:17	ji2 ji1	kích	tập kích, du kích	strike, hit, beat; attack, fight
+Z	舉	134.10:17	ju3	cử	đưa lên, đưa ra, đơn cử, tuyển cử	raise, lift up; recommend
+Z	終	120.5:11	zhong1	chung	cuối cùng, tòng nhất vi chung	end; finally, in the end
+Z	嗯	30.10:13	ng4 ng2 ng3	ân	này, hở, hử, sao?	final particle
+Z	印	26.4:6	yin4	ấn	in, rặp khuôn, dấu ấn, ấn bản	print, seal, stamp, chop, mark
+Z	限	170.6:9	xian4 wen3	hạn	hạn kỳ	boundary, limit, line
+Z	依	9.6:8	yi1 yi3	y	dựa theo, y theo	rely on, be set in; consent, obey a wish
+Z	斷	69.14:18	duan4	đoạn	cắt đứt, đoạn duyên, đoạn tuyệt	sever, cut off; interrupt
+Z	輕	159.7:14	qing1 qing4	khinh	nhẹ, khinh trọng	light; easy, simple; gentle
+Z	環	96.13:17	huan2 huan4	hoàn	vòng tròn, tuần hoàn, hoàn vũ	jade ring or bracelet; ring
+Z	簡	118.12:18	jian3	giản	giản dị, đơn giản, giản thể	simple, terse, succinct; letter
+Z	趣	156.8:15	qu4 cu4 qu1 cou3 zou1	thú	hứng thú, vui	what attracts one's attention
+Z	志	61.3:7	zhi4	chí	chí hướng, hữu chí cánh thành	purpose, will, determination
+Z	響	180.11:21	xiang3	hưỡng	âm hưỡng	make sound, make noise; sound
+Z	隨	170.13:16	sui2	tùy	tùy theo, tùy ý	follow, listen to, submit; to accompany; subsequently, then
+Z	練	120.9:15	lian4	luyện	luyện tập, huấn luyện	practice, drill, exercise, train
+Z	續	120.15:21	xu4	tục	nối theo, tiếp tục, tục huyền	continue, carry on; succeed
+Z	篇	118.9:15	pian1	thiên	phần, bài, trang, tờ rời	chapter, section, essay, article
+Z	司	30.2:5	si1	ti	chủ	take charge of, control, manage; officer
+Z	局	44.4:7	ju2	cục	bộ phận, cục diện	bureau, office; circumstance
+Z	送	162.6:10	song4	tống	tặng, đưa, tống biệt, tặng tống	see off, send off;dispatch, give
+Z	極	75.9:13	ji2	cực	tột độ, tận cùng, cực độ, Thái Cực đạo	extreme, utmost, furthest, final
+Z	省	109.4:9	sheng3 xian3 xing3	tỉnh	tỉnh lỵ, suy xét lại, phản tỉnh	province; save, economize
+Z	源	85.10:13	yuan2	nguyên	bình nguyên, thảo nguyên	spring; source, head; surname
+Z	陽	170.9:12	yang2	dương	thái dương, âm dương	"male" principle; light; sun
+Z	幹	51.10:13	gan4 han2	cán	làm, tài cán, cán sự	trunk of tree or of human body
+Z	習	124.5:11	xi2	tập	làm cho quen	practice; flapping wings
+Z	羅	122.14:19	luo2 luo1 luo5	la	lưới, giăng lưới, tìm kiếm, bày ra, la bàn, la liệt	net for catching birds; gauze
+Z	武	77.4:8	wu3	võ	võ lực, võ đoán, văn võ song toàn	military; martial, warlike
+Z	免	10.5:7	mian3	miễn	khỏi, miễn dịch	spare; excuse from; evade
+Z	疑	103.9:14	yi2 ni3 ning2	nghi	ngờ, chưa tin	doubt, question, suspect
+Z	拉	64.5:8	la1 la2 la3 la4	la	lôi kéo	pull, drag; seize, hold;lengthen
+Z	克	10.5:7	ke4	khắc	đảm đang, gánh vác, háo thắng	gram; overcome; transliteration
+Z	仍	9.2:4	reng2	nhưng	dựa vài, chiếu theo	yet, still, as ever; again; keep Ếing, continuing
+Z	樓	75.11:15	lou2 l�2	lâu	lầu đài, Hồng Lâu mộng	building of two or more stories
+Z	佛	9.5:7	fo2 fu2	phật	chỉ đấng tu hành giác ngộ, Phật Thích Ca, phật học	buddha (contraction of MC bhiêtdha )
+Z	低	9.5:7	di1	đê	thấp, cúi xuống, cao đê (cao thấp), đê đầu tư cố hương	low; to lower, hang, bend, bow
+Z	廣	53.12:15	guang3	quảng	rộng rãi, quảng bá, tiếng Quảng Đông	broad, wide, extensive
+Z	煩	86.9:13	fan2	phiền	phiền não, phiền muộn	bother, vex, trouble;troublesome
+Z	顯	181.14:23	xian3	hiển	hiện ra, hiển thiện, hiển thánh	manifest, display; evident,clear
+Z	碼	112.10:15	ma3	mã	mã hiệu, mã số	number, numerals; yard; symbol
+Z	率	95.6:11	l�shuai4 l�e4	suất	dẫn, theo, coi thường	to lead; ratio; rate; limit
+Z	聖	128.7:13	sheng4	thánh	thánh nhân, tài giỏi, cao siêu, chỉ vua	holy, sacred; sage
+Z	壞	32.16:19	huai4	hoại	xấu, phá hoại	bad, spoil(ed), ruin, destroy
+Z	初	18.5:7	chu1	sơ	thuở ban đầu, ban sơ, sơ sinh	beginning, initial, primary
+Z	具	12.6:8	ju4	cụ	công cụ, văn cụ	tool, implement; draw up, write
+Z	預	181.4:13	yu4	dự	đoán, sẽ đến, dự bị, dự báo	prepare, arrange; in advance
+Z	呀	30.4:7	ya1 ya5	nha	trợ từ chỉ sự bất ngờ. Hài nhi nha: con ạ!	particle used express surprise
+Z	眾	109.6:11	zhong4	chúng	số đông, đại chúng	masses, people, multitude, crowd
+Z	責	154.4:11	ze2 zhai4	trách	khiển trách, trách móc, rầy la	one's responsibility, one's duty
+Z	爭	87.4:8	zheng1 zheng4	tranh	tranh đấu, tranh hùng	dispute, fight, contend, strive
+Z	兵	12.5:7	bing1	binh	binh sĩ	soldier, troops
+Z	智	72.8:12	zhi4 zhi1	trí	trí mưu	wisdom, knowledge, intelligence
+Z	誤	149.7:14	wu4	ngộ	hiểu lầm, ngộ nhận	err, make mistake; interfere
+Z	境	32.11:14	jing4	cảnh	tình trạng, cảnh giới, hoàn cảnh	boundery, frontier; area, region
+Z	順	181.3:12	shun4	thuận	tuân theo, thuận hòa, hiếu thuận	obey, submit to, go along with
+Z	野	166.4:11	ye3	dã	hoang dã	open country, field; wilderness
+Z	楚	75.9:13	chu3	sở	khóm cây nhỏ, bụi gai, bóng choáng, khổ sở, nước Sở	name of feudal state; clear
+Z	貴	154.5:12	gui4	quý	đắt, sang	expensive, costly, valuable
+Z	負	154.2:9	fu4	phụ	cô phụ, phụ ân	load, burden; carry, bear
+Z	壓	32.14:17	ya1 ya4	áp	áp chế	press; oppress; crush; pressure
+Z	史	30.2:5	shi3	sử	lịch sử	history, chronicle, annals
+Z	適	162.11:15	shi4 di2 ti4 zhe2	thích	thích hợp	match, comfortable; just
+Z	係	9.7:9	xi4	hệ	quan hệ, hệ lụy	bind, tie up; involve, relation
+Z	測	85.9:12	ce4	trắc	trắc nghiệm	measure, estimate, conjecture
+Z	懷	61.16:19	huai2	hoài	hoài cổ	bosom, breast; carry in bosom
+Z	迎	162.4:8	ying2 ying4	nghênh	đón	receive, welcome, greet
+Z	配	164.3:10	pei4	phối	phối ngẫu, phân phối	match, pair; equal; blend
+Z	魔	194.11:21	mo2	ma	ma, quỷ, sức lôi cuốn	demon, evil spirits; magic power
+Z	慢	61.11:14	man4	mạn	chậm	slow(ly), leisurely, sluggish
+Z	哇	30.6:9	wa1 wa5	oa	ói ra, thổ ra, khóc oa oa	vomit; cry of an infant
+Z	懂	61.13:16	dong3	dổng	biết, hiểu	understand, comprehend
+Z	嗚	30.10:13	wu1	ô	tiếng than	sound of crying, sobbing
+Z	亦	8.4:6	yi4	diệc	cũng, cũng là	also, too; likewise
+Z	味	30.5:8	wei4	vị	mùi, vị	taste, smell, odor; delicacy
+Z	評	149.5:12	ping2	bình	bình luận, phê bình	appraise, criticize, evaluate
+Z	舞	136.8:14	wu3	vũ	vũ trường, vũ công	dance, posture, prance; brandish
+Z	細	120.5:11	xi4	tế	nhỏ, mịn	fine, tiny; slender, thin
+Z	醫	164.11:18	yi1	y	chữa bệnh, thầy thuốc	cure, heal; doctor, medical
+Z	帝	50.6:9	di4	đế	hoàng đế	supreme ruler, emperor; god
+Z	屬	44.18:21	shu3 zhu3	thuộc	thuộc về	class, category, type; belong to
+Z	句	30.2:5	ju4 gou1	cú	câu, cú pháp	sentence
+Z	戀	61.19:23	lian4	luyến	luyến ái	love; long for, yearn for; love
+Z	敗	66.7:11	bai4	bại	thua	be defeated, decline, fail
+Z	宜	40.5:8	yi2	nghi	nên	suitable, right, fitting, proper
+Z	楊	75.9:13	yang2	dương	họ Dương	willow, poplar, aspen; surname
+Z	甲	102.0:5	jia3	giáp	đứng đầu	armor, shell; fingernails; first
+Z	追	162.6:10	zhui1 dui1 tui1	truy	rượt theo	pursue, chase after; expel
+Z	灌	85.18:21	guan4 huan4	quán	tưới, dẫn nước, rót vào, ùa vào	pour; water; irrigate, flood
+Z	春	72.5:9	chun1 chun3	xuân	mùa xuân	spring; wanton;(nhật + tam + nhân: Ngày xuân, 3 người cùng đi dạo)
+Z	左	48.2:5	zuo3	tả	trái, họ Tả	left; east; unorthodox, improper
+Z	敢	66.8:12	gan3	cảm	bạo dạn, dám làm	dare, venture; be bold, be brave
+Z	靈	173.16:24	ling2 ling4	linh	linh hồn	spirit, soul; spiritual world
+Z	狂	94.4:7	kuang2 jue2	cuồng	điên rồ, cuồng, mãnh liệt, dữ dội	insane, mad; violent; wild
+Z	際	170.11:14	ji4	tế	quốc tế	border, boundary, juncture
+Z	群	123.7:13	qun2	quần	hợp quần	group, crowd, multitude, mob
+Z	族	70.7:11	zu2 zou4 cou4	tộc	gia tộc	family clan, ethnic group, tribe
+Z	騎	187.8:18	qi2 ji4	kỵ	cưỡi, kỵ binh	ride horseback; mount; cavalry
+Z	項	181.3:12	xiang4	hạn	mục, thứ	neck, nape of neck; sum; funds
+Z	戲	62.13:17	xi4 xi1	hí	chọc ghẹo, xuất hát, hí trường	theatrical play, show
+Z	遇	162.9:13	yu4	ngộ	gặp nhằm, tao ngộ	meet, come across, encounter
+Z	狗	94.5:8	gou3	cẩu	chó	dog, canis familiaris
+Z	佳	9.6:8	jia5	giai	người đẹp, giai lệ	good, auspicious; beautiful; delightful
+Z	博	24.10:12	bo2	bác	uyên bác	gamble, play games; wide, broad
+Z	右	30.2:5	you4	hữu	bên phải	right; west; right-wing
+Z	痛	104.7:12	tong4	thống	thống khổ, thống khoái	pain, ache; sorry, sad; bitter
+Z	營	86.13:17	ying2 cuo1	dinh, doanh	doanh trại, kinh doanh	encampment, barracks; manage
+Z	妹	38.5:8	mei4	muội	em gái	younger sister
+Z	康	53.8:11	kang1	khang	khỏe mạnh, an khang	peaceful, quiet; happy, healthy
+Z	善	30.9:12	shan4	thiện	hiền, thiện ác, lành, khéo	good, virtuous, charitable, kind
+Z	徵	60.12:15	zheng1 zhi3	trưng	trưng cầu dân ý, đặc trưng	summon, recruit; musical note
+Z	歷	77.12:16	li4	lịch	trải qua	take place, past, history
+Z	官	40.5:8	guan1	quan	quan	official, public servant
+Z	爾	89.10:14	er3	nhĩ	mày, ngươi; vậy, tiếng dứt câu	you; that, those; final particle
+Z	按	64.6:9	an4	an	an bày, dựa theo (.. kế hoạch, v.v)	put hand on,press down with hand
+Z	編	120.9:15	bian1 bian4 bian3	Biên	đan, bện, tết lại, sắp đặt, biên tập	knit, weave; arrange; compile
+Z	病	104.5:10	bing4	bịnh, bệnh	bịnh hoạn	illness, sickness, disease
+Z	護	149.14:21	hu4	hộ	bao che, bảo hộ	protect, guard, defend, shelter
+Z	補	145.7:12	bu3	bổ	bổ dưỡng, vá, thêm, bổ ích	mend, patch, fix, repair, restore
+Z	擇	64.13:16	ze2 zhai2	trạch	chọn lựa, phân biệt, trạch cát (chọn ngày tốt)	select, choose, pick out
+Z	抓	64.4:7	zhua1 zhao1	trảo	giơ tay ra chụp bắt, nha trảo	scratch; clutch, seize, grab
+Z	歲	77.9:13	sui4	tuế	tuổi, năm	year; age; harvest
+Z	隻	172.2:10	zhi1	chích	chiếc, nhất chích = 1 cái, 1 con	single, one of pair, lone
+Z	領	181.5:14	ling3	lãnh	nhận, tâm lãnh, lãnh thưởng	neck; collar; lead, guide
+Z	尋	41.9:12	xun2 xin2	tầm	tìm kiếm, vạn lý tầm phu	seek, search, look for; ancient
+Z	溫	85.10:13	wen1	ôn	ấm, ôn nhu, ôn hòa từ ái	lukewarm, warm; tepid, mild
+Z	養	184.6:15	yang3 yang4	dưỡng	nuôi dưỡng, dưỡng dục, dưỡng phụ	raise, rear, bring up; support
+Z	守	40.3:6	shou3 shou4	thủ	giữ lại, thủ tiết, công thủ	defend, protect, guard, conserve
+Z	君	30.4:7	jun1	quân	vua, chỉ người đàn ông	sovereign, monarch, ruler, chief
+Z	居	44.5:8	ju1 ji1	cư	ở, an cư lạc nghiệp	live, dwell, reside, sit
+Z	謂	149.9:16	wei4	vị	nói, gọi là, vị ngữ	say, tell; call, name; be called
+Z	異	102.7:11	yi4	dị	khác biệt, đồng âm dị nghĩa, quái dị	different, unusual, strange
+Z	優	9.15:17	you1	ưu	hơn	superior, excellent; actor
+Z	跳	157.6:13	tiao4 tiao2 tao2 diao4	khiêu	nhảy, vượt	jump, leap, vault, bounce; dance
+Z	拜	64.5:9	bai4	bái	lạy	do obeisance, bow, kowtow
+Z	爛	86.17:21	lan4	lạn	nát bấy, thối, rữa, rách nát, vụn, nhừ, lộn xộn	rotten, spoiled, decayed
+Z	封	41.6:9	feng1	phong	phong tước	letter, envelope; feudal
+Z	惡	61.8:12	e4 wu4 wu1	ác	ác độc, xấu	evil, wicked, bad, foul
+Z	良	138.1:7	liang2 liang3	lương	tốt, lương thiện, lương tâm	good, virtuous, respectable
+Z	模	75.11:15	mo2 mu2	mô	mô phạm, mô phỏng	model, standard, pattern; copy
+Z	狀	94.4:8	zhuang4	trạng	trạng thái, tình trạng	form; appearance; shape;official
+Z	浪	85.7:10	lang4 lang2	lãng	đợt sóng, hải lãng (sóng biển)	wave; wasteful, reckless
+Z	聊	128.5:11	liao2 liu2	liêu	tạm, một chút, dựa vào, chuyện phiếm	somewhat, slightly, at least
+Z	增	32.12:15	zeng1	tăng	thêm vô, tăng trưởng	increase, add to, augment
+Z	核	75.6:10	he2 hu2	hạch	hột, hạch, xem xét kỹ, hạt nhân	seed, kernel, core, nut; atom
+Z	激	85.13:16	ji1 jiao4 jiao1	kích	kích động, khích tướng	arouse, excite, incite; quickly
+Z	維	120.8:14	wei2 yi2	duy	duy nhất, duy tân, tiếp nối, giữ gìn, bảo toàn	maintain, preserve, safeguard
+Z	陸	170.8:11	lu4 liu4	lục	đất liền, lục quân, đại lục	land, continental; army
+Z	吳	30.4:7	wu2	ngô	họ Ngô, nước Ngô	one of warring states; surname
+Z	忙	61.3:6	mang2	mang	bận	busy, pressed for time; hustling
+Z	詞	149.5:12	ci2	từ	từ, từ ngữ	words; phrase, expression
+Z	劇	18.13:15	ju4	cứ	căn cứ, dựa theo, cứ điểm	theatrical plays, opera, drama
+Z	宿	40.8:11	su4 xiu3 xiu4	túc	đỗ lại	stop, rest, lodge, stay overnight; constellation
+Z	急	61.5:9	ji2	cấp	gấp, khẩn cấp	quick, quickly; urgent, pressing
+Z	啥	30.8:11	sha4	xá	gì nào? cái gì?	what?
+Z	抱	64.5:8	bao4	bão	ôm, ôm ấp, hoài bão	embrace, hold in arms, enfold
+Z	靜	174.8:16	jing4	tịnh	yên ả, yên tịnh	quiet, still, motionless; gentle
+Z	攻	66.3:7	gong1	công	công phá, công thủ	attack, assault; criticize
+Z	亞	7.6:8	ya4 ya1	á	hạng hai, châu á	asia; second
+Z	江	85.3:6	jiang1	giang	sông lớn	large river; yangzi; surname
+Z	致	133.3:10	zhi4 zhui4	chí	tới	send, deliver, present; cause
+Z	陣	170.7:10	zhen4	trận	mặt trận, một quãng thời gian	column, row or file of troops
+Z	嚴	30.17:20	yan2	nghiêm	nghiêm nghị, nghiêm trang, có oai nghi khiến người sợ	strict, rigorous, rigid; stern
+Z	宗	40.5:8	zong1	tôn, tông	dòng họ, giáo phái, tôn phái, tổ tông	lineage, ancestry; ancestor, clan
+Z	警	149.13:20	jing3	cảnh	cảnh sát, cảnh cáo	guard, watch; alert, alarm
+Z	壘	32.15:18	lei3 lei4 lei2 l�4	lũy	thành đắp bằng đất, thành lũy	rampart, military wall
+Z	夫	37.1:4	fu1 fu2	phu	đàn ông, chồng	man, male adult, husband; those
+Z	密	40.8:11	mi4	mật	bí mật, mật lệnh	dense, thick, close; intimate
+Z	睡	109.8:14	shui4	thụy	ngủ	sleep, doze
+Z	午	24.2:4	wu3	ngọ	buổi trưa, giờ Ngọ, hạ ngọ (buổi chiều)	noon; seventh terrestrial branch
+Z	店	53.5:8	dian4	điếm	cửa tiệm	shop, store; inn, hotel; (Vẽ hình ông chủ đứng sau bàn dưới mái nhà, giơ tay mời vào)
+Z	勢	19.11:13	shi4	thế	quyền thế, thế lực	power, force; tendency
+Z	悲	61.8:12	bei1	bi	buồn bã, bi phẩn, từ bi, bi quan	sorrow, grief; sorry, sad
+Z	蘭	140.17:21	lan2	lan	Hoa Lan, cỏ thơm	orchid; elegant, graceful
+Z	幕	50.11:14	mu4	mộ	màn	curtain, screen, tent
+Z	緣	120.9:15	yuan2 yuan4	duyên	duyên nợ	hem, margin; reason, cause; karma, fate
+Z	週	162.8:12	zhou1	châu, chu	1 tuần, chu đáo, chu toàn	week; turn, cycle; anniversary
+Z	廠	53.12:15	chang3	xưởng	cơ xưởng, hãng xưởng	factory, plant, workshop, mill
+Z	簽	118.13:19	qian1	thiêm	đều, toànbộ, ký tên, thăm, thẻ, dấu hiệu, tăm, mức	sign, endorse; slip of paper
+Z	坐	32.4:7	zuo4	tọa	ngồi	sit; seat; ride, travel by
+Z	爽	89.7:11	shuang3  shuang1	sảng	hào sảng, sảng khoái	happy, cheerful; refreshing
+Z	控	64.8:11	kong4 qiang1	khống	khống chế, vu khống	accuse, charge; control
+Z	微	60.10:13	wei1 wei2	vi	nhỏ li li, kính hiển vi	small, prefix micro-, trifling
+Z	登	105.7:12	deng1 de2	đăng	đi lên cao, đăng đài	rise, mount, board, climb
+Z	翻	124.12:18	fan1	phiên	lật đổ, phiên dịch	flip over, upset, capsize
+Z	普	72.8:12	pu3	phổ	phổ biến, phổ thông	universal, general, widespread
+Z	蠻	142.19:25	man2	man	dã man, bạo ngược, mọi rợ, rất	barbarians; barbarous, savage
+Z	冷	15.5:7	leng3	lãnh	lạnh, lãnh cung, nhân tình noãn lãn (tình đời ấm lạnh)	cold, cool; lonely
+Z	威	38.6:9	wei1	uy	oai, dáng tôn nghiêm	pomp, power; powerful; dominate
+Z	毒	80.4:9	du2 dai4	độc	độc, ác độc, độc dược	poison, venom; poisonous
+Z	俊	9.7:9	jun4	tuấn	đẹp, tuấn tú	talented, capable; handsome
+Z	絡	120.6:12	luo4 lao4	lạc	lung lạc	enmesh, wrap around; web, net
+Z	輯	159.9:16	ji2	viên	biên tập viên	gather up, collect; edit,compile
+Z	母	80.1:5	mu3 mu2 wu3 wu2	mẫu	mẹ, mẫu hệ, mẫu tử	mother; female elders; female
+Z	創	18.10:12	chuang4 chuang1	sáng	sáng tạo	establish, create; knife cut
+Z	堂	32.8:11	tang2	đường	phòng lớn nhất trong nhà, nhà khách	hall; government office
+Z	趙	156.7:14	zhao4 tiao3 diao4	triệu	họ Triệu	surname; ancient state
+Z	套	37.7:10	tao4	sáo	bao ngoài, chụp lồng	case, cover, wrapper, envelope
+Z	舊	134.12:18	jiu4	cựu	cũ, cựu giao (người quen cũ)	old, ancient; former, past
+Z	雜	172.10:18	za2	tạp	lẫn lộn	mixed, blended; mix, mingle
+Z	周	30.5:8	zhou1	châu, chu	chu đáo, chu toàn, họ Châu, họ Chu	zhou dynasty; circumference
+Z	述	162.5:9	shu4	thuật	nói rõ, trần thuật	narrate, state, express
+Z	恐	61.6:10	kong3	khủng	sợ, hoảng hốt, khủng hoảng, khủng bố	fear; fearful, apprehensive
+Z	幸	51.5:8	xing4 han2	hạnh	may, hạnh phúc	luck(ily), favor, fortunately
+Z	亮	8.7:9	liang4	lượng	sáng, thanh cao	bright, brilliant, radiant, light
+Z	麗	198.8:19	li4 li2	lệ	xinh đẹp, diễm lệ, mỹ lệ	beautiful, magnificent, elegant
+Z	巴	49.1:4	ba1	ba	mong, ngóng, ba-sĩ (xe buýt)	greatly desire, anxiously hope
+Z	禮	113.13:18	li3	lễ	lễ nghĩa, lễ nghi	social custom; manners; courtesy
+Z	酒	164.3:10	jiu3	tửu	rượu	wine, spirits, liquor, alcoholic
+Z	仁	9.2:4	ren2	nhân	đạo lý làm người	humaneness, benevolence, kindness
+Z	餐	184.7:16	can1 sun4	xan	bữa ăn	eat, dine; meal; food
+Z	牌	91.8:12	pai2	bài	cái biển, nhãn hiệu, cỗ bài, bài	signboard, placard
+Z	突	116.4:9	tu2 tu1	đột	bất chợt, đột phát, đột nhiên	suddenly, abruptly, unexpectedly
+Z	腳	130.9:13	jiao3 jue2	cước	chân, thiết cước quyền :)	foot; base, leg, foundation
+Z	劍	18.13:15	jian4	kiếm	gươm, kiếm, vật sắc bén	sword, dagger, saber
+Z	招	64.5:8	zhao1 qiao2 shao2	chiêu	chiêu mộ, chiêu dụ	beckon, summon; recruit, levy
+Z	吉	30.3:6	ji2	cát	tốt lành	lucky, propitious, good; (khẩu + sĩ: Lời thoát ra từ miệng người có học thường là lời tốt lành)
+Z	仔	9.3:5	zi3 zai3	tử, tể	gánh vác, kỹ lưỡng (tử tế), chỉ con trai nhỏ (Cantonese)	small thing, child; young animal
+Z	典	12.6:8	dian3	điển	sự cũ, phép tắc	law, canon; documentation; class
+Z	搞	64.10:13	gao3	cảo	bản cảo	to clear, clarify
+Z	房	63.4:8	fang2 pang2	phòng	buồng, phòng ốc, gian phòng	house, building; room
+Z	素	120.4:10	su4	tố	màu vốn có, chay, màu trắng	white (silk); plain; vegetarian; formerly; normally
+Z	防	170.4:7	fang2	phòng	đề phòng	defend; prevent; embankment
+Z	授	64.8:11	shou4	thụ	trao cho, giảng dạy	give to, transmit; confer
+Z	充	10.3:5	chong1	sung	gọp vô, bổ sung, sung quân, sung sức	fill, be full, supply
+Z	草	140.6:10	cao3 zao4	thảo	cỏ	grass, straw, thatch, herbs
+Z	暴	72.11:15	bao4 pu4 bo2	bạo	bạo lực, tàn bạo	violent, brutal, tyrannical
+Z	慮	61.11:15	l�	lự	lo lắng, tư lự	be concerned, worry about
+Z	紹	120.5:11	shao4 chao1	thiệu	nối liền	continue, carry on; hand down; to join
+Z	背	130.5:9	bei4 bei1	bối	phía lưng, phản bội, bội nghĩa	back; back side; behind; betray
+Z	劉	18.13:15	liu2	lưu	giết, giãi bày, họ Lưu	surname; kill, destroy
+Z	委	38.5:8	wei3 wei1	ủy	ủy thác, ủy nhiệm, ủy ban	appoint, send, commission
+Z	府	53.5:8	fu3	phủ	phủ quan, tri phủ	prefecture; prefect; government
+Z	景	72.8:12	jing3 ying3	cảnh	cảnh trí, dàn cảnh	scenery, view; conditions
+Z	憶	61.13:16	yi4	ức	100 triệu (cũ là 10 vạn)	remember, reflect upon; memory
+Z	尤	43.1:4	you2	vưu	đặc biệt, xuất sắc, nhất là	especially, particularly
+Z	諸	149.9:15	zhu1 chu2	chư	chưng, mọi, chư vị	several, various;
+Z	缺	121.4:10	que1	khuyết	thiếu, hỏng, vắng, chỗ trống	be short of, lack; gap, deficit
+Z	援	64.9:12	yuan2	viện	bám víu, viện ra, dẫn ra, viện trợ	aid, assist; lead; cite
+Z	漫	85.11:14	man4 man2	mạn, man	tràn ra, tự do, tản mạn	overflow of water; spreading
+Z	琴	96.8:12	qin2	cầm	đàn	chinese lute or guitar
+Z	罵	122.10:15	ma4	mạ	chửi, mắng, trách	accuse, blame, curse, scold
+Z	純	120.4:10	chun2 quan2 tun2 zhun1 zhun3 zi1	thuần	tinh khiết, không pha tạp, điêu luyện	pure, clean, simple
+Z	尚	42.5:8	shang4 chang2	thượng	tôn sùng, chú trọng, còn	still, yet; even; fairly, rather
+Z	藝	140.15:19	yi4	nghệ	kỹ năng, kỹ thuật, nghề, nghệ thuật	art; talent, ability; craft
+Z	惜	61.8:11	xi1	tích	tiếc, luyến tiếc	pity, regret, rue, begrudge
+Z	置	122.8:13	zhi4	trí	gác lên, đặt, an trí	place, lay out; set aside
+Z	益	108.5:10	yi4	ích	lợi ích, làm lợi cho	profit, benefit; advantage
+Z	姐	38.5:8	jie3	tả (tỉ)	chị gái	elder sister, young lady
+Z	誠	149.7:13	cheng2	thành	thành thực, thật	sincere, honest; true, real
+Z	繼	120.14:20	ji4	kế	nối tiếp, sau đó, rồi sau	continue, maintain, carry on
+Z	湖	85.9:12	hu2	hồ	hồ nước, hố	lake; Hubei, Hunan; bluish-green
+Z	欲	76.7:11	yu4	dục	ham muốn, mong muốn, cần	desire, want, long for; intend
+Z	靠	175.7:15	kao4	kháo	tựa, dựa, trông cậy vào, tin cậy	lean on, trust, depend on; near
+Z	刻	18.6:8	ke4	khắc	điêu khắc, thời gian ngắn, rất	carve, engrave; quarter hour
+Z	紀	120.3:9	ji4 ji3	kỷ	kỷ luật, kỷ niệm, thời gian dài	record, annal,historical account
+Z	退	162.6:10	tui4	thoái	lùi lại, tiến thoái lưỡng nan	step back, retreat, withdraw
+Z	既	71.5:9	ji4 xi4	ký	đã, đã ... thì, đã ... lại, hết, rồi, về sau	already; de facto; since; then
+Z	含	30.4:7	han2	hàm	bao hàm, hàm ẩn, hàm chứa	hold in mouth; cherish; contain
+Z	判	18.5:7	pan4	phán	phán đoán, phán quyết	judge; discriminate; conclude
+Z	釋	165.13:20	shi4 yi4	dịch	phiên dịch	interprete, elucidate; release
+Z	波	85.5:8	bo1 bei1 bi4	ba	sóng, ba đào, sóng mắt người đẹp	waves, breakers; undulations
+Z	承	64.4:8	cheng2 zheng3	thừa	nhận, thừa kế sản nghiệp, thừa nhận	inherit, receive; succeed
+Z	射	41.7:10	 she4 yi4 ye4	xạ	bắn, xạ thủ	shoot, eject, issue forth, emit
+Z	堆	32.8:11	dui1	đôi	1 đống, gom lại thành đống, chồng chất	heap, pile, crowd; pile up
+Z	莫	140.7:11	mo4 mu4	mạc	đừng nói, mạc vấn (đừng hỏi)	do not, is not, can not;negative
+Z	製	145.8:14	zhi4	chế	chế tạo, chế tác	make, manufacture; produce
+Z	鍵	167.9:17	jian4	kiện	cái khóa	door bolt, lock bolt; key
+Z	趕	156.7:14	gan3	cản	vội, gấp rút, đuổi theo	pursue, follow; expel,drive away
+Z	旁	70.6:10	pang2 bang4	bàng	trại 1 bên, bàng quang	side; by side, close by, near
+Z	筆	118.6:12	bi3	bút	viết	writing brush; write; stroke
+Z	扁	63.5:9	bian3 pian1 bian4	biển	dẹp, bẹt	flat; tablet, signboard
+Z	註	149.5:12	zhu4	chú	chú giải, đổ, trút, chăm chú, chú thích, đăng ký, đã ghi vào	explain; annotate; make entry
+Z	奏	37.6:9	zou4	tấu	tấu chương	memorialize emperor; report
+Z	樹	75.12:16	shu4	thụ	cây to, cổ thụ, đại thụ	tree; plant; set up, establish
+Z	律	60.6:9	l�4	luật	niêm luật, pháp luật	statute, principle, regulation
+Z	鐵	167.13:21	tie3 die2	thiết	thiết, cứng rắn	iron; strong, solid, firm
+Z	榮	75.10:14	rong2	vinh	vinh quang	glory, honor; flourish, prosper
+Z	昨	72.5:9	zuo2	tác	đã qua, tác niên (năm ngoái)	yesterday; in former times, past
+Z	彩	59.8:11	cai3	thể	đủ màu, thể vân	hue, color; variegated colors
+Z	歸	77.14:18	gui1 kui4	quy	trở về, quy ẩn, quy hồi	return; return to, revert to
+Z	虎	141.2:8	hu3 hu4	hổ	cọp	tiger; brave, fierce; surname
+Z	罪	122.8:13	zui4	tội	tội ác, tội nghiệt	crime, sin, vice; evil; hardship
+Z	皆	106.4:9	jie1	giai	đều, cùng, khắp	all, every, everybody
+Z	葉	140.9:13	xie2 ye4 ye4 she4	diệp	lá, tờ, thếp, ngành	leaf, petal; page of book;period
+Z	售	30.8:11	shou4	thụ	bán	sell
+Z	彈	57.12:15	dan4 tan2	đạn	đạn, hòn, viên, bom	pellet, bullet, shot, shell
+Z	衛	144.9:15	wei4	vệ	bảo vệ, giữ gìn, vệ sinh	guard, protect, defend
+Z	施	70.5:9	shi1 shi3 yi2 yi4	thi	thi hành, thực hiện	grant, bestow; give; act; name
+Z	銘	167.6:14	ming2	minh	bài văn khắc vào đồng, đá	inscribe, engrave; unforgettably
+Z	塊	32.10:13	kuai4	khối	cục, miếng, mảnh, tảng, đồng tiền	piece, lump; dollar
+Z	漢	85.11:14	han4 tan1	hán	hán tộc, hán ngữ	chinese people; chinese language
+Z	欣	76.4:8	xin1	hân	vui vẻ	happy, joyous, delighted
+Z	布	50.2:5	bu4	bố	vải	cotton cloth, textiles, linen
+Z	賞	154.8:15	shang3	thưởng	giải thưởng, thưởng thức	reward, grant, bestow;appreciate
+Z	載	159.6:13	zai4 zai3 dai4 zai1 zi1	tải	chuyên chở	load; carry; transport, convey
+Z	險	170.13:16	xian3 yan2 jian3	hiểm	nguy hiểm	narrow pass, strategic point, dangerous
+Z	播	64.12:15	bo4 bo3 bo1	bá	gieo ra, vung ra, làm lan rộng	sow, spread; broadcast; case away, reject
+Z	升	24.2:4	sheng1	thăng	nâng cao, lít, thùng	arise, go up; hoist; advance
+Z	鐘	167.12:20	zhong1	chung	chuông, đồng hồ	clock; bell
+Z	寄	40.8:11	ji4	ký	gửi, nhờ vả	send, transmit, mail; rely on
+Z	弄	55.4:7	nong4 long4 long4	lộng	chơi, nghịch, làm, kiếm tìm, giở, giở thói	do, play or fiddle with; alley
+Z	付	9.3:5	fu4	phó	giao cho, đưa cho, trả, chi	give, deliver, pay, hand over; entrust
+Z	構	75.10:14	gou4	cấu	làm ra, tạo thành	frame, building, structure
+Z	囉	30.19:22	luo1 lou2	la	lôi thôi, rắc rối, lưới, bày ra	exclamatory final particle, nag
+Z	磁	112.9:14	ci2	từ	từ trường, nam châm	magnetic; magnetism; procelain
+Z	螢	142.10:16	ying2	huỳnh	ánh sáng tù mù, rối hoa mắt	glow-worm, luminous insect
+Z	偉	9.9:11	wei3	vĩ	lớn, to	great, robust; extraordinary
+Z	薦	140.13:17	jian4	tiến	cỏ, rơm, dâng, tiến cử	offer, present; recommend
+Z	洋	85.6:9	yang2 xiang2 yang3	dương	biển lớn, nước ngoài, hiện đại, mới	ocean, sea; foreign; western
+Z	嘿	30.12:15	mo4 hei1	hắc	ấy, này, ô, ơ, ô hay, ơ này, ủa	be silent, be quiet
+Z	啟	66.7:11	qi3	khải	mở, bắt đầu, trình bày	open; begin
+Z	梅	75.7:11	mei2	mai	Cây mai, mơ	plums; prunes; surname
+Z	策	118.6:12	ce4	sách	thẻ gỗ, thẻ tre, kế hoạch	scheme, plan; whip; urge
+Z	嘻	30.12:15	xi1	hi	cười hihi, ôi! lời than	mirthful, happy; interjection
+Z	燈	86.12:16	deng1	đăng	đèn, bóng đèn	lantern, lamp
+Z	檢	75.13:17	jian3	kiệm	dè sẻn, tiết kiệm	check; examine
+Z	宣	40.6:9	xuan1	tuyên	nói ra, khơi giòng	declare, announce, proclaim
+Z	哦	30.7:10	e2 o2 o4	nga	ngâm nga	oh? really? is that so?
+Z	媽	38.10:13	ma1	ma	ma ma: má, mẹ	mother, mama
+Z	均	32.4:7	jun1 yun4	quân	đều	equal, even, fair; all, also
+Z	派	85.6:9	pai4 mai4 bai4 pa1	phái	phe, nhóm, bạn, cánh	school of thought, sect, branch
+Z	豬	152.9:15	zhu1	trư	heo, lợn	pig, hog
+Z	濟	85.14:17	ji4 ji3 qi2	tể	cứu giúp, qua sang,chỗ lội sang	help, aid, relieve; ferry, cross
+Z	架	75.5:9	jia4	giá	khung, giá, dựa, bắt, đỡ, dìu	rack, stand, prop; prop up
+Z	享	8.6:8	xiang3	hưởng	hưởng thụ	enjoy
+Z	呆	30.4:7	ai2 dai1	ngai	đần, ngờ nghệch	dull; dull-minded, simple, stupid
+Z	訓	149.3:10	xun4	huấn	dạy bảo, khuyên răn	teach, instruct; exegesis
+Z	藍	140.14:18	lan2 la5	lam	xanh lam, chàm, xanh da trời	blue; indigo plant; surname
+Z	劃	18.12:14	hua4 hua2	hoạch	phân chia, giới hạn, vẽ	divide, mark off, lay boundary
+Z	擔	64.13:16	dan1 dan4	đảm	gánh, chịu trách nhiệm	carry, bear, undertake
+Z	努	19.5:7	nu3	nỗ	gắng, cố	exert, strive, make effort; pout
+Z	郭	163.8:11	guo1 guo2	quách	cái thành ngoài, bộ phận ở ngoài	outer part (of a city); surname
+Z	歉	76.10:14	qian4	khiểm, hiềm	có lỗi, mùa màng thất bát	deficient, lacking, insufficient
+Z	紙	120.4:10	zhi3	chỉ	giấy	paper
+Z	貼	154.5:12	tie1	thiếp	dán, áp sát, theo dõi	paste to, stick on; attached to
+Z	暗	72.9:13	an4	ám	tối mờ, ngầm	dark; obscure; in secret, covert
+Z	呼	30.5:8	hu1 xu1	hô	thở ra, hô, kêu gọi	breathe sigh, exhale; call, shout
+Z	罷	122.10:15	ba4 ba5 bai3 pi2 pi4 bi3	bãi	ngừng, thôi	cease, finish, stop; give up
+Z	巧	48.2:5	qiao3	xảo	khéo, giỏi, vừa vặn	skillful, ingenious, clever
+Z	慧	61.11:15	hui4	tuệ	trí sáng, lanh lẹ, trí tuệ	bright, intelligent; intelligence
+Z	穿	116.4:9	chuan1	xuyên	xỏ, xâu, đục, khoét, đi qua	penetrate, pierce, drill; wear
+Z	詳	149.6:13	xiang2 yang2	tường	nói rõ, kỹ	detailed, complete, thorough
+Z	雷	173.5:13	lei2 lei4	lôi	sấm, vũ khí nổ	thunder
+Z	協	24.6:8	xie2	hiệp	cùng chung, giúp đỡ	be united; cooperate
+Z	督	109.8:13	du1	đốc	đôn đốc, chỉ huy, đốc thúc	supervise, oversee, direct
+Z	顧	181.12:21	gu4	cố	ngoảnh, nhìn, đến thăm	look back; look at; look after
+Z	臉	130.13:17	lian3	kiểm	mặt, mặt trước, thể diện, nét mặt	face; cheek; reputation
+Z	逢	162.7:11	feng2 pang2 peng2	phùng	gặp, vào	come upon, happen meet; flatter
+Z	島	46.7:10	dao3	đảo	hòn đảo	island
+Z	獎	94.11:15	jiang3	tưởng	khen thưởng, giải thưởng	prize, reward; give award to
+Z	游	85.9:12	you2 liu2	du	rong chơi, giao du	swim; float, drift; wander, roam
+H	从	9.2	cong2	tòng	theo sau	(2 nhân: Người sau đi theo người trước)
+H	休	9.4	xiu1	hưu	nghỉ ngơi	(nhân + mộc: Người ta ngồi dựa cây để nghỉ ngơi)
+H	囚	31.2	qiu2	tù	tù tội	(vi + nhân: Người tù bị nhốt trong 4 bức tường)
+H	夭	37.1	yao3	yểu	chết non	(Hình người có đầu lìa khỏi cổ là chết non)
+H	姦	38.6	jian1	gian	xảo trá, không ngay thật	(3 nữ: Quan niệm xưa cho là con gái gặp nhau bàn chuyện xấu)
+H	宴	40.7	yan4	yến	tiệc rượu	(miên + nhật + nữ: Dưới mái nhà của ngày người con gái về nhà chồng, thường đãi tiệc)
+H	富	40.9	fu4	phú	giàu	(miên + nhất + khẩu + điền: Dưới mái nhà, chỉ có 1 miệng ăn, 1 thửa ruộng thì phải giàu)
+H	悶	61.8	men4	muộn	buồn rầu	(tâm + môn: trái tim buồn rầu ngồi tựa cửa đợi chờ)
+H	晶	72.8	jing1	tinh	sáng	(3 nhật: Ba mặt trời thì nhất định phải sáng)
+H	森	75.8	sen1	sâm	rậm rạp	(3 mộc: đất có 3 cây thì quá rậm rạp)
+H	末	75.1	mo4	mạt	cuối cùng, ngọn	(mộc + nhất gạch ngang dài: để đánh dấu đầu ngọn cây)
+H	牢	93.3	lao2	lao	nhà ngục	(ngưu + miên: ở trong nhà ngục giống như con bò bị nhốt trong chuồng)
+H	盟	108.8	meng2	minh	thề ước	(nhật + nguyệt + mãnh: Nâng chén rượu cùng thề thốt dưới vầng nhật nguyệt)
+H	閒	169.4	xian2	nhàn	nhàn hạ	(môn + nguyệt: Còn gì nhàn bằng đêm đêm ngắm ánh trăng xuyên qua cửa)
+P	爸	88.4:8	ba4	ba	ba ba: bố, cha	father
+P	喝	30.9:12	he1	hát	uống, quát, hét	drink, shout
+P	茶	140.6:10	cha2	trà	trà	tea
+P	吸	30.4:7	xi1	hấp	hút, hít vào	inhale, absorb
+P	煙	86.9:13	yan1	yên	khói, thuốc lá	smoke, cigarette, tobacco
+P	姓	38.5:8	xing4	tính	họ	last name, clan
+P	舍	135.2:8	she4	xá	quán trọ, nhà ở	house, reside
+P	層	44.12:15	ceng2	tằng	tầng, lớp	storey, layer, floor
+P	廁	53.9:12	ce4	xí	chuồng, chỗ	toilet, lavatory
+P	傘	9.10:12	san3	tản	ô, dù	umbrella, parachute
+P	喂	30.9:12	wei4	úy	chào	hello!
+P	郵	163.8:12	you2	bưu	bưu điện	postal, mail, post office
+P	銀	167.6:14	yin2	ngân	bạc	silver, cash, money, wealth
+P	互	7.2:4	hu4	hổ	đắp đổi	mutually
+P	閱	169.7:15	yue4	duyệt	xem xét	examine, inspect, review, read
+P	覽	147.14:21	lan3	lãm	xem, chịu nhận	look at, inspect
+P	誌	149.7:14	zhi4	chí	ghi nhớ, bài viết	write down, record, magazine
+P	借	9.8:10	jie4	tá	vay mượn	borrow, lend
+L	只	30.2:5	zhi3	chỉ	chỉ	only, just, simply
+L	恩	61.6:10	en1	ân	ơn, cùng yêu nhau	kindness, mercy, charity
+L	吏	30.3:6	li4	lại	sửa trị, quan lại	government official, magistrate
+L	倚	9.8:10	yi3	ỷ	dựa vào	rely on, depend on, lean heavily
+L	靖	174.5:13	jing4	tĩnh	tĩnh lặng	pacify, calm, peaceful
+L	賠	154.8:15	pei2	bồi	đền trả, sút kém	indemnify, suffer loss
+L	償	9.15:17	chang2	thường	đền, bù	repay, recompense
+L	窮	116.10:15	qiong2	cùng	cùng cực, đến hết	poor, impoverished
+L	窘	116.7:12	jiong3	quẫn	cùng quẫn	embarrassed, hard-pressed
+L	胞	130.5:9	bao1	bào	bào thai	womb, placenta, fetal membrane
+L	惑	61.8:12	huo4	hoặc	ngờ lạ, mê	confuse, mislead, doubt
+L	童	117.7:12	tong2	đồng	trẻ thơ	child, boy, servant boy, virgin
+L	端	117.9:14	duan1	đoan	ngay thẳng, đầu mối	end, extreme, head, beginning
+L	堅	32.8:11	jian1	kiên	bền chặt, cố sức	hard, strong, firm
+L	忍	61.3:7	ren3	nhẫn	nhịn	endure, bear, suffer
+L	崇	46.8:11	chong2	sùng	tôn kính	esteem, honor, revere, venerate
+L	儒	9.14:16	ru2	nho	học trò, đạo nho	Confucian scholar
+L	雅	172.4:12	ya3	nhã	dịu dàng	elegant, graceful
+L	仰	9.4:6	yang3	ngưỡng	ngửa mặt lên, kính mến	look up to, admire
+L	慕	61.11:15	mu4	mộ	mến, hâm mộ	long for, desire, admire
+L	兆	10.4:6	zhao4	triệu	điềm, triệu (số)	ome, million, mega
+L	儀	9.13:15	yi2	nghi	dáng, lễ nghi	ceremony, rites gifts, admire
+L	儉	9.13:15	jian3	kiệm	tần tiện	temperate, frugal, economical
+L	淒	85.8:11	qi1	thê	lạnh lẽo, cùng khổ	bitter cold, miserable, dreary
+L	涼	85.8:11	liang2	lương	mỏng, lạnh	cool, cold, disheartened
+L	滔	85.10:13	tao1	thao	chảy cuồn cuộn	overflow, rushing water
+L	幼	52.2:5	you4	ấu	nhỏ, bé	infant, young child, immature
+L	劣	19.4:6	lie4	liệt	kém, yếu	bad, inferior, slightly
+L	貧	154.4:11	pin2	bần	nghèo	poor, impoverished, needy
+L	盜	108.7:12	dao4	đạo	cướp, trộm	rob, steal, thief, bandit
+L	賊	154.6:13	zei2	tặc	kẻ trộm, giặc	thief, traitor
+L	秋	115.4:9	qiu1	thu	mùa thu, năm	autumn, fall, year

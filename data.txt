@@ -1,0 +1,1588 @@
+#Syntax: 1st letter: B=Bµ thü, H=Hán, Z=1000 chæ thông døng, P=Practical Chinese Reader, L=L¾p Hán Vi®t, other=discard
+#------  1st field:  Unicode #,     2nd field: Bµ thü.s¯ nét còn lÕi:t±ng s¯ nét
+#-----   3rd field:  Pinyin         4th field:  Tên chæ
+#-----   5th field:  Nghîa          6th field:  Gþi ý
+B4E00|1.0:1|yi1|nh¤t|s¯ mµt|one
+B4E28|2.0:1|ge3|c±n|s±|bar
+B4E36|3.0:1|zhu3|chü|ch¤m|point
+B4E3F|4.0:1|pie3|phi®t|ph¦y|comma
+B4E59|5.0:1|yi3|¤t|cong|2nd stema
+B4E85|6.0:2|jue2|quyªt|s± móc|hook
+B4E8C|7.0:2|er4|nh¸|s¯ hai|two; twice
+B4EA0|8.0:2|tou2|ð¥u|ch¤m ð¥u|lid
+B4EBA|9.0:2|ren2|nhân|ngß¶i|man; person, people; mankind; someone else
+B513F|10.0:2|er2|nhân|ngß¶i|human
+B5165|11.0:2|ru4|nh§p|vào|enter, come in(to), join
+B516B|12.0:2|ba1|bát|s¯ tám|eight; all around, all sides
+B5182|13.0:2|jiong1|quynh|tr¯ng r²ng|limits
+B5196|14.0:2|mi4|m¸ch|che|cover
+B51AB|15.0:2|bing1|bång|giá|ice
+B51E0|16.0:2|ji1|kÖ|ghª|seat
+B51F5|17.0:2|qu1|khäm|há mi®ng|concave
+B5200|18.0:2|dao1|ðao|dao|knife; old coin; measure
+B529B|19.0:2|li4|lñc|sÑc|power, capability, influence
+B52F9|20.0:2|bao1|bao|túi|bag
+B5315|21.0:2|bi3|chüy|thìa|spoon
+B531A|22.0:2|fang1|phß½ng|hµp|container
+B5338|23.0:2|xi3|h­ (hay h®)|che c¤t|box
+B5341|24.0:2|shi2|th§p|s¯ mß¶i|ten, tenth; complete; perfect
+B535C|25.0:2|bu3|b¯c|bói|to divine
+B5369|26.0:2|jie2|tiªt|tin, m¡t tre|internode
+B5382|27.0:2|han4|hán|sß¶n núi|flank
+B53B6|28.0:2|si1|tß (hay khß)|gian, riêng|private
+B53C8|29.0:2|you4|hñu|lÕi|and, also, again, in addition
+B53E3|30.0:3|kou3|kh¦u|mi®ng|mouth; open end; entrance, gate
+B56D7|31.0:3|wei2|vi|vòng|perimeter
+B571F|32.0:3|tu3|th±|ð¤t|soil, earth; items made of earth
+B58EB|33.0:3|shi4|sî|trò|scholar, gentleman; soldier
+B5902|34.0:3|chu3|truy|ðªn sau|to follow
+B590A|35.0:3|sui1|suy (hay tuy)| ði ch§m|short step
+B5915|36.0:3|xi1|t¸ch|t¯i|night
+B5927|37.0:3|da4 dai4 tai4|ðÕi|to (to cø th¬)|big, great, vast, large, high
+B5973|38.0:3|nu:3|næ|ðàn bà, con gái|woman, girl; feminine; rad. 38
+B5B50|39.0:3|zi3 zi5|tØ|con|offspring, child; fruit, seed of
+B5B80|40.0:3|mian2|miên|mái nhà|roof
+B5BF8|41.0:3|cun4|th¯n|t¤c|inch
+B5C0F|42.0:3|xiao3|ti¬u|nhö|small, tiny, insignificant
+B5C22|43.0:3|wang1|uông|khom lßng|thin
+B5C38|44.0:3|shi1|thi|thây|corpse
+B5C6E|45.0:3|che4|tri®t|cö m¾i m÷c|sapling
+B5C71|46.0:3|shan1|s½n|núi|mountain, hill, peak
+B5DDB|47.0:3|chuan1|xuyên|sông|river
+B5DE5|48.0:3|gong1|công|công, thþ|labor, work; worker, laborer
+B5DF1|49.0:3|ji3|kÖ|mình|self, oneself; personal, private
+B5DFE|50.0:3|jin1|cân|khån|cloth
+B5E72|51.0:3|gan1|can|phÕm|to nudge
+B5E7A|52.0:3|yao1|yêu|ít|tiny
+B5E7F|53.0:3|an1|nghi­m (hay y¬m)|mái nhà|house top
+B5EF4|54.0:3|yin3|dçn|bß¾c dài|slow walk
+B5EFE|55.0:3|gong4|cüng|ch¤p tay|twenty
+B5F0B|56.0:3|yi4|d£c (hay dñc)|b¡n|to take
+B5F13|57.0:3|gong1|cung|cây cung|bow
+B5F50|58.0:3|ji4|ký (hay k®)|ð¥u con nhím|hedgehog top
+B5F61|59.0:3|shan1|sam|lông dài|hair
+B5F73|60.0:3|chi4|xích|bß¾c|short steps
+B5FC3|61.0:4|xin1|tâm|lòng, tim|heart; mind, intelligence; soul
+B6208|62.0:4|ge1|qua|cái mác|lance
+B6236|63.0:4|hu4|hµ|cØa ngõ|family
+B624B|64.0:4|shou3|thü|tay|hand
+B652F|65.0:4|zhi1|chi|cành|disperse, pay; support; branch
+B6534|66.0:4|pu1|ph¯c (hay phµc)|ðánh nh©|to tap
+B6587|67.0:4|wen2|vån|vån hóa, vån h÷c|literature, culture, writing
+B6597|68.0:4|dou3|ð¦u|cái ð¤u|container
+B65A4|69.0:4|jin1|cân|cân, cái rìu|ax
+B65B9|70.0:4|fang1 feng1 pang2 wang3|phß½ng|vuông|square; rectangle; region, local
+B65E0|71.0:4|wu2|vô|không|without
+B65E5|72.0:4|ri4 mi4|nh§t|m£t tr¶i|sun; day; daytime
+B66F0|73.0:4|yue1|viªt|r¢ng|to say
+B6708|74.0:4|yue4|nguy®t|m£t trång|moon; month; radical no. 74
+B6728|75.0:4|mu4|mµc|cây|tree; wood, lumber; wooden
+B6B20|76.0:4|qian4|khiªm|thiªu|to owe
+B6B62|77.0:4|zhi3|chï|d×ng|stop, halt, desist; detain
+B6B79|78.0:4|dai1|ðãi|x¤u|vicious
+B6BB3|79.0:4|shu1|thù|cây g§y|dart
+B6BCB|80.0:4|wu2|vô|ð×ng|do not
+B6BD4|81.0:4|bi3 bi4 pi2 pi3|tÖ|so sánh|compare, liken; comparison; than
+B6BDB|82.0:4|mao2 mao4|mao|lông|hair, fur, feathers; coarse
+B6C0F|83.0:4|shi4|th¸|h÷|clan
+B6C14|84.0:4|qi4|khí|h½i|air
+B6C34|85.0:4|shui3|thüy|nß¾c|water, liquid, lotion, juice
+B706B|86.0:4|huo3 huo1|höa|lØa|fire, flame; burn; anger, rage
+B722A|87.0:4|zhua3|träo|móng|claw
+B7236|88.0:4|fu4 fu3|phø|cha|father; radical no. 88
+B723B|89.0:4|yao2|hào|giao nhau|stroke
+B723F|90.0:4|qiang2|tß¶ng|t¤m ván|wall
+B7247|91.0:4|pian4 pian1 pan4|phiªn|thë|slice, splinter, strip; rad. 91
+B7259|92.0:4|ya2|nha|rång|tooth
+B725B|93.0:4|niu2|ngßu|trâu|cow, ox, bull; radical no. 93
+B72AC|94.0:4|quan3|khuy¬n|chó|canine
+B7384|95.0:5|xuan2|huy«n|ðen|mystic
+B7389|96.0:5|yu4|ng÷c|ng÷c|precious stone
+B74DC|97.0:5|gua1|qua|dßa|melon
+B74E6|98.0:5|wa3|ngõa|ngói|pottery
+B7518|99.0:5|gan1|cam|ng÷t|sweet
+B751F|100.0:5|sheng1|sinh|s¯ng, h÷c sinh|life, living, lifetime; birth
+B7528|101.0:5|yong4|døng|dùng|use, employ, apply, operate; use
+B7530|102.0:5|tian2|ði«n|ruµng|field, arable land, cultivated
+B758B|103.0:5|pi3|s½|ðü, cái ch½n|roll of cloth
+B7592|104.0:5|ne4|nÕch (hay t§t)|b¸nh t§t|sickness
+B7676|105.0:5|bo1|bát|r¶i ra|to deviate
+B767D|106.0:5|bai2 bo2|bÕch|tr¡ng|white; pure, unblemished; bright
+B76AE|107.0:5|pi2|bì|da|skin, hide, fur, feather; outer
+B76BF|108.0:5|min3|mãnh|chén dîa|bowl,ceramics
+B76EE|109.0:5|mu4|møc|m¡t|eye; look, see; division, topic
+B77DB|110.0:5|mao2|mâu|cái giáo|lance
+B77E2|111.0:5|shi3|thï|cây tên|arrow
+B77F3|112.0:5|shi2 dan4|thÕch|ðá|stone, rock, mineral; rad. 112
+B793A|113.0:5|shi4 qi1 zhi4 shi2|th¸ (hay kÏ)|bäo, dÕy|show, manifest; demonstrate
+B79B8|114.0:5|rou2|nhæu|d¤u chân thú|trace
+B79BE|115.0:5|he2|hòa|lúa|rice plant
+B7A74|116.0:5|xue4|huy®t|hang|cave
+B7ACB|117.0:5|li4 wei4|l§p|ðÑng|stand; let stand; establish, set
+B7AF9|118.0:6|zhu2|trúc|tre|bamboo; flute; radical no. 118
+B7C73|119.0:6|mi3|m­|gÕo|rice
+B7CF8|120.0:6|mi4|m¸ch|t½ nhö|connection
+B7F36|121.0:6|fou3|phçu hay (phæu)|bình sành|crock
+B7F51|122.0:6|wang3|võng|lß¾i|net
+B7F8A|123.0:6|yang2|dß½ng|dê|goat/sheep
+B7FBD|124.0:6|yu3|vû|cánh|feather
+B8001|125.0:6|lao3|lão|già|old, aged; experienced
+B800C|126.0:6|er2|nhi|mà|and; and then; and yet; but
+B8012|127.0:6|lei3|l²i|cái cày|plough
+B8033|128.0:6|er3|nhî|cái tai|ears
+B807F|129.0:6|yu4|du§t|cái bút|writing brush
+B8089|130.0:6|rou4 ru4|nhøc|th¸t|flesh; meat; radical no. 130
+B81E3|131.0:6|cang2|th¥n|tôi|statesman
+B81EA|132.0:6|zi4|tñ|t×|self, private, personal; from
+B81F3|133.0:6|zhi4 die2|chí|ðªn|reach, arrive; extremely, very
+B81FC|134.0:6|jiu4|cæu|cái c¯i|motar
+B820C|135.0:6|she2|thi®t|lßÞi|tongue
+B821B|136.0:6|chuan2|suy­n|ngang trái|chaotic
+B821F|137.0:6|zhou1|chu|thuy«n|boat
+B826E|138.0:6|gen4|c¤n|b«n, væng|tough
+B8272|139.0:6|se4 shai3|s¡c|màu|color, tint, hue, shade; form, body; beauty, desire for beauty
+B8278|140.0:6|cao3|thäo|cö|grass
+B864D|141.0:6|hu1|hô (hay h±)|hùm|stripes
+B866B|142.0:6|chong2|trùng|sâu trùng|insects
+B8840|143.0:6|xie3 xue4|huyªt|máu|blood; radical number 143
+B884C|144.0:6|xing2 hang2 xing4 hang4 heng2|hành (hàng)|ði, ti®m|go; walk; move, travel;circulate
+B8863|145.0:6|yi1|y|áo|clothing
+B897E|146.0:6|ya4|á|che|lid
+B898B|147.0:7|jian4 xian4|kiªn|th¤y|see, observe, behold; percieve
+B89D2|148.0:7|jiao3 jue2 gu3 lu4|giác|s×ng|horn; angle, corner; point; dime
+B8A00|149.0:7|yan2 yan4 yin2|ngôn|nói|words, speech; speak, say
+B8C37|150.0:7|gu3|c¯c|hang|valley
+B8C46|151.0:7|dou4|ð§u|hµt ð§u|beans/peas
+B8C55|152.0:7|shi3|thï|con heo|pig
+B8C78|153.0:7|zhi4|trî|loài bò sát|reptiles
+B8C9D|154.0:7|bei4|b¯i|con sò|shells
+B8D64|155.0:7|ce4|xích|ðö|red
+B8D70|156.0:7|zou3|t¦u|chÕy, ði|walk, go on foot; run; leave
+B8DB3|157.0:7|zu2 ju4|túc|chân, ðü|foot; attain, satisfy, enough
+B8EAB|158.0:7|shen1 yuan2 juan1|thân|thân mình|body; trunk, hull; rad. no. 158
+B8ECA|159.0:7|che1 ju1|xa|xe|cart, vehicle; carry in cart
+B8F9B|160.0:7|bi4|tân|cay|piquant
+B8FB0|161.0:7|chen2|th¥n|s¾m|time
+B8FB5|162.0:7|chuo4|xß¾c|ði mau|to pace
+B9091|163.0:7|yi4|¤p|mµt khu ð¤t|county
+B9149|164.0:7|you3|d§u|gi¶ d§u, no|10th ter. branch
+B91C6|165.0:7|bian4|bi®n|chia r¨, phân xØ|to gather
+B91CC|166.0:7|li3|lý|làng, d£m|unit of distance; village; lane
+B91D1|167.0:8|jin1 jin4|kim|vàng, kim loÕi|gold; metals in general; money
+B9577|168.0:8|chang2 zhang3 zhang4|trß¶ng|dài|long; length; excel in; leader
+B9580|169.0:8|men2|môn|cØa|gate, door, entrance, opening
+B961C|170.0:8|fu4|phø|gò, ð¯ng|small hill
+B96B6|171.0:8|li4|ðãi|k¸p, ðu±i b¡t|in time
+B96B9|172.0:8|zhui1|chuy|chim ðuôi ng¡n|bird
+B96E8|173.0:8|yu3 yu4|vû|mßa|rain; rainy; radical no. 173
+B9752|174.0:8|qing1 jing1|thanh|xanh, trë|blue, green, black; young
+B975E|175.0:8|fei1 fei3|phi|trái, không phäi|not, negative, non-; oppose
+B9762|176.0:9|mian4|di®n|m£t|face; surface; plane; side, dime
+B9769|177.0:9|ge2|cách|da|leather
+B97CB|178.0:9|wei2|vi|da m«m|tanned leather
+B97ED|179.0:9|jiu3|cØu|rau h©|leeks
+B97F3|180.0:9|yin1 yin4|âm|tiªng|sound, tone, pitch,pronunciation
+B9801|181.0:9|ye4|hi®t|ð¥u|page
+B98A8|182.0:9|feng1 feng3 feng4|phong|gió|wind; air; manners, atmosphere
+B98DB|183.0:9|fei1|phi|bay|fly; go quickly; dart; high
+B98DF|184.0:9|shi2|thñc|ån|to eat
+B9996|185.0:9|shou3|thü|ð¥u|head; first; leader, chief; poem
+B9999|186.0:9|xiang1|hß½ng|h½i th½m|fragrant, sweet smelling,incense
+B99AC|187.0:10|ma3|mã|ngña|horse; surname; radical no. 187
+B9AA8|188.0:10|gu3|c¯t|xß½ng|skeleton
+B9AD8|189.0:10|gao1 gao4|cao|cao|high, tall; lofty, elevated
+B9ADF|190.0:10|biao1|tiêu (hay bi¬u)|tóc dài s± xu¯ng|hair
+B9B25|191.0:10|dou4|ð¤u|tranh|to struggle
+B9B2F|192.0:10|chang4|sß·ng|rßþu nªp|unobstructed
+B9B32|193.0:10|ge2|cách (hay l¸ch)|n°i có ch½n giÕng ra|caldron
+B9B3C|194.0:10|gui3|quÖ|quÖ quái|ghost; spirit of dead; devil
+B9B5A|195.0:11|yu2|ngß|cá|fish; surname; radical no. 195
+B9CE5|196.0:11|niao3 diao3 dao3 que4|ði¬u|chim|bird; radical no. 196
+B9E75|197.0:11|lu3|l²|mu¯i tñ nhiên|saline soil
+B9E7F|198.0:11|lu4|lµc|hß½u, nai|deer
+B9EA5|199.0:11|mai4|mÕch|lúc mÕch|wheat
+B9EBB|200.0:11|ma2 ma1|ma|cây gai|hemp, jute, flax; sesame
+B9EC3|201.0:12|huang2|hoàng|vàng|yellow; surname
+B9ECD|202.0:12|shu3|thØ|lúa kê|millet
+B9ED2|203.0:12|hei1|h¡c|ðen|black
+B9EF9|204.0:12|zhi3|trî (hay chï)|may áo|embroidery
+B9EFD|205.0:13|min3|mãnh|loÕi cóc|to strive
+B9F0E|206.0:13|ding3|ðïnh|cái ðïnh|tripot
+B9F13|207.0:13|gu3|c±|cái tr¯ng|drum
+B9F20|208.0:13|shu3|thØ|con chuµt|mouse
+B9F3B|209.0:14|bi2|tÜ|cái mûi|nose
+B9F4A|210.0:14|qi2|t«|chïnh t«|uniform
+B9F52|211.0:15|chi3|xï|rång|tooth
+B9F8D|212.0:16|long2 long3 mang2|long|r°ng|dragon; symbolic of emperor
+B9F9C|213.0:16|gui1|quy|rùa|turtle
+B9FA0|214.0:17|huo4|dßþc|¯ng sáo có 3 l²|flute
+B4E40|4|fu2|phi®t|ph¦y|comma
+B4E41|4|yi2|phi®t|ph¦y|comma
+B4E5A|5|yin3|¤t|cong|2nd stema
+B4EBB|9|ren2|nh½n|ngß¶i|human
+B5202|18|dao1|ðao|dao|knife
+B5201|18.0:2|diao1|ðao|dao|knife
+B24212B|26| |tiªt|tin, m¡t tre|internode
+B5B51|39|jie2|tØ|con|male/female
+B5B52|39|jue2|tØ|con|male/female
+B5C23|43|meng2|uông|khom lßng|thin
+B5DDD|47.0:3|chuan1|xuyên|sông|river
+B5DDB
+B5F51|58|ji4|ký (hay k®)|ð¥u con nhím|hedgehog top
+B5F50
+B5FC4|61|xin1|tâm|lòng, tim|heart
+B6237|63|hu4|hµ|cØa ngõ|family
+B6238|63|hu4|hµ|cØa ngõ|family
+B624C|64|shou3 zi4 pang2|thü|tay|hands
+B6535|66|sui1|ph¯c (hay phµc)|ðánh nh©|to tap
+B6C35|85|shui3|thüy|nß¾c|water
+B706C|86|huo3 biao1|höa|lØa|fire
+B722B|87|lan4|träo|móng|claw
+B4E2C|90|qiang2|tß¶ng|t¤m ván|wall
+B725C|93|cheng1|ngßu|trâu, bò|buffalo
+B72AD|94|fan3|khuy¬n|chó|canine
+B25214C|96| |ng÷c|ng÷c|precious stone
+B262336|103| |s½|ðü, cái ch½n|roll of cloth
+B242221|109| |møc|m¡t|eye
+B793B|113|shi4|th¸|bäo, dÕy|to indicate
+B262228|122|wang3|võng|lß¾i|net
+B262229|122|wang3|võng|lß¾i|net
+B7F53|122|gang1|võng|lß¾i|net
+B7F52|122|wang3|võng|lß¾i|net
+B24232C|123| |dß½ng|dê|goat/sheep
+B8002|125| |lão|già|old
+B31E08E|130| |nhøc|th¸t|meat
+B81FC
+B8279|140|cao3|thäo|cö|grass
+B242153|140|cao3|thäo|cö|grass
+B8864|145|yi1|y|áo|clothing
+B8980|146|xi1|á|che|lid
+B8D71|156|zou3|t¦u|chÕy, ði|to walk
+B8F9B
+B8FB6|162|chuo4|xß¾c|ði mau|to pace
+B9578|168|chang2|trß¶ng|dài|long
+B961D|170|fu4|phø|gò, ð¯ng|small hill
+B262E45|170|fu4|phø|gò, ð¯ng|small hill
+B9751|174|qing1|thanh|xanh|green/blue
+B9AA8
+B9AD9|189|gao1|cao|cao|tall
+B9F3B
+#-----
+Z7684|106.3:8|de5 di2 di4|ðích|cüa|possessive, adjectival suffix
+Z662F|72.5:9|shi4|th¸|là, phäi, ðúng|indeed, yes, right; to be; demonstrative pronoun, this, that
+Z4E0D|1.3:4|bu4|b¤t|không|no, not; un-; negative prefix
+Z6211|62.3:7|wo3|ngã|Tôi, ta|I, me, my;  (Ngã môn: chúng tôi)
+Z4E00
+Z6709|74.2:6|you3 you4|hæu|có|have, own, possess; exist
+Z5927
+Z5728|32.3:6|zai4|tÕi|·, tÕi|be at, in, on; consist in, rest
+Z4EBA
+Z4E86|6.1:2|le5 liao3|li­u|xong, kªt thúc|to finish; particle of completed action; (Ngß¶i con trai (tØ) buông xuôi 2 tay, là cuµc ð¶i ðã kªt li­u)
+Z4E2D|2.3:4|zhong1 zhong4|trung|· giæa|central; center, middle; in the midst of; hit (target); attain
+Z5230|18.6:8|dao4|ðáo|ðªn n½i; kh¡p ðü|go to, arrive, been to
+Z8981|146.3:9|yao4 yao1 yao3|yªu|thiªt yªu|necessary, essential; necessity
+Z4EE5|9.3:5|yi3|dî|l¤y, làm, dùng, dî ðÑc báo oán|by means of; thereby, therefore; consider as; in order to
+Z53EF|30.2:5|ke3 ke4|khä|có th¬ làm ðßþc|may, can, -able; possibly
+Z9019|162.7:11|zhe4 zhei4 yan4|giá|ðây, cái này|this, the, here
+Z500B|9.8:10|ge4 ge3|cá|cái, quä|numerary adjunct, piece; single
+Z4F60|9.5:7|ni3|n­ (nhî)|Kêu ngôi thÑ hai|you, second person pronoun (Anh, ch¸, bÕn, ông, bà, mày, v.v... N­ môn: Các anh, các ch¸, ...)
+Z6703|73.9:13|hui4 kuai4 gui4|hµi|g£p gÞ, hµi h÷p|assemble, meet together; meeting
+Z597D|38.3:6|hao3 hao4|hiªu (häo)|t¯t, hay, ham thích|good, excellent, fine; well; (næ + tØ: Trai gái g£p nhau thì ham thích)
+Z70BA|86.5:9|wei4 wei2|vi|làm|do, handle, govern, act; be
+Z4E0A|1.2:3|shang4|thßþng|· trên|top; superior, highest; go up, send up
+Z4F86|9.6:8|lai2 lai4|lai|lÕi|come, coming; return, returning; (2 nhân + mµc 2 ngß¶i lÕi g¯c cây ð¬ h©n hò)
+Z5B78|39.13:16|xue2|h÷c|h÷c|learning, knowledge; school
+Z5C31|43.9:12|jiu4|tñu|thành tñu, vi®c ðã thành|just; come/go to, approach, near
+Z4EA4|8.4:6|jiao1|giao|giao du, giao thi®p, chï sñ qua lÕi|mix; intersect; exchange, communicate; deliver
+Z4E5F|5.2:3|ye3|dã|v§y, cûng|also; classical final particle of strong affirmation or identity
+Z7528
+Z80FD|130.6:10|neng2 nai4 tai2 tai4 nai2 xiong2|nång|tài nång, sÑc có th¬ làm n±i (nång ngôn b¤t nång hành)|be able, can, permitted, ability
+Z5982|38.3:6|ru2|nhß|gi¯ng h®t|if, supposing; as if; like, as; (næ + kh¦u: Quan ni®m xßa b¡t con gái m· mi®ng nói y nhß ch°ng)
+Z6642|72.6:10|shi2|th¶i|mùa, gi¶, c½ hµi|time, season; era, age, period
+Z6587
+Z8AAA|149.7:14|shuo1 shui4 yue4 tuo1|thuyªt|nói|speak, say, talk; scold, upbraid
+Z6C92|85.4:7|mei2 mo4|mµt|không có, m¤t, hªt|not, have not, none; drown, sink
+Z4ED6|9.3:5|ta1|tha|Ông ¤y, khác|other, another; he, she, it
+Z770B|109.4:9|kan4 kan1|khán|xem|look, see; examine, scrutinize
+Z90A3|163.4:7|na4 nei4 na1 na3 ne2 nei3 nuo2 nuo4|na|ðó, cái ðó|that, that one, those
+Z554F|30.8:11|wen4|v¤n|höi|ask (about), inquire after
+Z751F
+Z63D0|64.9:12|ti2 di1 di3 shi2|ð«|nâng ðÞ, c¤t nh¡c (ð« bÕt)|hold in hand; lift in hand
+Z4E0B|1.2:3|xia4|hÕ|dß¾i|under, underneath, below; down; inferior; bring down
+Z904E|162.9:13|guo4 guo5 guo1 huo4|quá|vi®c ðã qua, quá khÑ, l²i l¥m, vßþt qua|pass, pass through, go across
+Z8ACB|149.8:15|qing3  qing4 qing1 qing2|thïnh|m¶i|ask, request; invite; please
+Z5011|9.8:10|men5|môn|b÷n, chúng|adjunct pronoun indicate plural; (n­ môn: các anh; ngã môn: chúng tôi; tha môn: b÷n h¡n)
+Z5929|37.1:4|tian1|thiên|tr¶i|sky, heaven; god, celestial; (ðÕi + nh¤t: Tr¶i là ð¤ng vî ðÕi nh¤t)
+Z6240|63.4:8|suo3|s·|xÑ s·, công s·|place, location;numerary adjunct
+Z591A|36.3:6|duo1|ða|nhi«u|much, many; more than, over
+Z9EBC|200.3:14|mo5 mo3 ma5 me5|ma|(th§m) ma: cái gì?|interrogative final particle
+Z5C0F
+Z4E4B|4.3:4|zhi1|chi|cái...cüa (Kh±ng tØ chi ngôn=l¶i nói cüa Kh±ng TØ)|'s (marks preceding phrase as modifier of following phrase); it, him her, them; go to
+Z60F3|61.9:13|xiang3|tß·ng|nghî t¾i|think, speculate, plan, consider
+Z5F97|60.8:11|de2 de5 dei3|ð¡c|ðßþc (ð¡c nhân tâm), tñ ð¡c (dß½ng dß½ng tñ ð¡c)|obtain, get, gain, acquire
+Z5DE5
+Z51FA|17.3:5|chu1|xu¤t|ra ngoài, tài nång xu¤t chúng, xu¤t kh¦u thành chß½ng|go out, send out; stand; produce
+Z9084|162.13:17|huan2 hai2 xuan2|hoàn|tr· lÕi|still, yet, also, besides
+Z96FB|173.5:13|dian4|ði®n|ði®n|electricity, electric; lightning
+Z5C0D|41.11:14|dui4|ð¯i|ðúng, phäi, ð¯i lÕi|correct, right; facing, opposed
+Z90FD|163.9:11|du1 dou1|ðô|ðô (th¸), toàn th¬|metropolis, capital; all, the whole; elegant, refined
+Z6A5F|75.12:16|ji1|c½|c½ quan, c½ gi¾i|machine; moment, chance
+Z81EA
+Z800C
+Z5B50
+Z5F8C|60.6:9|hou4|h§u|sau|behind, rear, after; descendents
+Z8A0A|149.3:10|xun4|tín |thi®p báo tin|inquire; ask; examine; reproach
+Z5BB6|40.7:10|jia1|gia|nhà|house, home, residence; family; (miên + thï: Trong nhà, thß¶ng nuôi heo ð¬ sinh lþi)
+Z7AD9|117.5:10|zhan4 zhan1|trÕm|ðÑng, d×ng lÕi, trÕm xe|stand up; a stand, station
+Z5FC3
+Z53BB|28.3:5|qu4|khÑ|ði, ðã qua|go away, leave, depart
+Z77E5|111.3:8|zhi1 zhi4|tri|biªt, tri kÖ, tri thÑc, tri nhân tri di®n b¤t tri tâm|know, perceive, comprehend
+Z570B|31.8:11|guo2|qu¯c|nß¾c, qu¯c gia|nation, country, nation-state
+Z5F88|60.6:9|hen3|h¦n (ng§n)|l¡m, r¤t|very, quite, much
+Z6210|62.3:6|cheng2|thành|hoàn thành, thành tñu, mã ðáo công thành|completed, finished, fixed
+Z4FE1|9.7:9|xin4|tín|thß, tin|trust, believe; letter
+Z540C|30.3:6|tong2 tong4|ð°ng|cùng, hþp lÕi|same, similar; together with
+Z4F55|9.5:7|he2 he4|hà|gì? sao?|what, why, where, which, how
+Z7AE0|117.6:11|zhang1 zhang4|chß½ng|vån chß½ng, ði«u ghi (ß¾c pháp tam chß½ng)|composition; chapter, section
+Z9053|162.9:13|dao4 dao3|ðÕo|con ðß¶ng, ðÕo lý|path, road, street; method, way
+Z767C|105.7:12|fa1 fa4 bo1|phát|làm l¾n lên (phát tài), b¡n ra (bách phát bách trúng)|issue, dispatch, send out, emit
+Z5730|32.3:6|di4 de5|ð¸a|ð¤t|earth; soil, ground; region; place; adjunct used to form adverbial phrase
+Z6CD5|85.5:8|fa3|pháp|khuôn phép, nß¾c Pháp|law, rules, regulations, statute
+Z7121|86.8:12|wu2 mo2|vô|không có (nam vô tØu nhß kÏ vô phong)|negative, no, not; lack, have no
+Z7136|86.8:12|ran2|nhiên|ßng cho, nhß thª, thiên nhiên, m£c nhiên|yes, certainly; pledge, promise
+Z4F46|9.5:7|dan4|ðãn|nhæng, chÇng nhæng, nhßng mà|only; but, however, yet, still
+Z7576|102.8:13|dang1 dang4|ðß½ng|ðang, nh§n|bear, accept, undertake; just
+Z65BC|70.4:8|yu2 yu1 wu1|ß|tiªng dùng ð¬ giúp l¶i (Sinh ß Nam phß½ng)|in, at, on; interjection alas!
+Z55CE|30.10:13|ma5 ma2 ma3|mÕ|chæ cu¯i ð¬ höi|final interrogative particle (N­ häo mÕ?: Anh khoë không?)
+Z672C|75.1:5|ben3|bän|g¯c|root, origin, source; basis; (mµc + nh¤t gÕch ngang: ð¬ ðánh d¤u g¯c r­ cüa cây)
+Z5E74|51.3:6|nian2|niên|nåm, tu±i|year; new-years; person's age
+Z73FE|96.7:11|xian4|hi®n|hi®n ra, bây gi¶|appear, manifest, become visible
+Z524D|18.7:9|qian2|ti«n|trß¾c, ti«n b¯i, ti«n trình|in front, forward; preceding
+Z6700|73.8:12|zui4|t¯i|chï sñ cùng t§n (t¯i ða, t¯i thi¬u)|most, extremely, exceedingly
+Z771F|109.5:10|zhen1|chân|không d¯i trá, chân th§t, chân tình, chân dung|real, actual, true, genuine
+Z65B0|69.9:13|xin1|tân|m¾i|new, recent, fresh, modern
+Z548C|30.5:8|he2 huo4 huo2 he4|hòa|v×a phäi, và|harmony, peace; peaceful, calm
+Z56E0|31.3:6|yin1|nhân|lý do, nhân quä, nguyên nhân|cause, reason; by; because (of)
+Z679C|75.4:8|guo3 ke4 luo3 wo3|quä|trái cây|fruit; result; (mµc + ði«n: v¨ hình cái quä trên ng÷n cây)
+Z610F|61.9:13|yi4|ý|ý chí, ý nghî|thought, idea, opinion; think
+Z5B9A|40.5:8|ding4|ð¸nh|làm cho yên, ð¸nh qu¯c an bang|decide, settle, fix
+Z9EDE|203.5:17|dian3 zhan1 duo4|ði¬m|nét ch¤m, ði¬m danh, ði¬m tâm|dot, speck, spot; point, degree
+Z60C5|61.8:11|qing2|tình|tình yêu, nhân tình, tình nhân, l¶i tr¥n tình|feeling, sentiment, emotion
+Z5176|12.6:8|qi2 ji1|kÏ|cüa ... (vån kÏ thanh b¤t kiªn kÏ hình)|his, her, its, their; that
+Z984C|181.9:18|ti2 di4|ð«|ð« møc|forehead; title, headline; theme
+Z4E8B|6.7:8|shi4|sñ|vi®c, phøc vø (trung th¥n b¤t sñ nh¸ quân)|affair, matter, business; to serve; accident, incident
+Z79D1|115.4:9|ke1 ke4|khoa|môn|section, department, science
+Z65B9
+Z4E9B|7.5:8|xie1 suo4 sa1|ta|mµt ít (tá ngæ: nh¤t ta thüy = mµt ít nß¾c)|little, few; rather, somewhat
+Z6E05|85.8:11|qing1 qing4|thanh|trong sÕch, tinh khiªt, thanh nhã|clear, pure, clean; peaceful
+Z4E09|1.2:3|san1 san4|tam|s¯ ba|three
+Z6A23|75.11:15|yang4 xiang4|dÕng|hình dáng, ki¬u, mçu|shape, form, pattern, style
+Z6B64|77.2:6|ci3|thØ|¤y, bên ¤y, thª|this, these; in this case, then
+Z5427|30.4:7|ba5 ba1|ba|chæ nh¤n mÕnh cu¯i câu: right? ok?|emphatic final particle
+Z4F4D|9.5:7|wei4|v¸|ch² ng°i (yên v¸), xßng hô ngß¶i (quý v¸)|throne; position, post; rank, status; seat
+Z4F5C|9.5:7|zuo4 zuo1 zuo2|tác|làm|make; work; compose, write; act, perform
+Z7406|96.7:11|li3|lý|ði«u lý l¨|reason, logic; manage
+Z884C
+Z8005|125.4:8|zhe3 zhu1|giä|ngß¶i, tác giä|that which; he who; those who
+Z7D93|120.7:13|jing1 jing4|kinh|kinh sách, sØa, qua|classic works; pass through
+Z540D|30.3:6|ming2|danh|tên|name, rank, title, position
+Z4EC0|9.2:4|shi2 shen2|th§m|th§m (ma): cái gì|what?, file of ten soldiers
+Z8B1D|149.10:17|xie4|tÕ|cäm ½n, t× tÕ|thank; decline
+Z65E5
+Z6B63|77.1:5|zheng4 zheng1|chánh|chính, không xiên l®ch, chánh nhân quân tØ|right, proper, correct
+Z958B|169.4:12|kai1|khai|m· ra (khai môn, khai th¸, khai trß½ng h°ng phát)|open; initiate, begin, start
+Z8A71|149.6:13|hua4|thoÕi|l¶i nói|speech, talk, language; dialect
+Z8207|134.8:14|yu3 yu4 yu2|dæ|cùng v¾i|and; with; to; for; give, grant
+Z5BE6|40.11:14|shi2|thñc|th§t|real, true, solid, honest
+Z611B|61.9:13|ai4|ái|yêu|love, be fond of, like
+Z518D|13.4:6|zai4|tái|l§p lÕi|again, twice, re-
+Z83EF|140.8:12|hua2 hua1 hua4|hoa|rñc rÞ, ngß¶i Hoa|flowery; illustrious; Chinese
+Z4E8C
+Z57CE|32.6:9|cheng2|thành|thành quách, thành trì|castle; city, town; municipality
+Z52D5|19.9:11|dong4|ðµng|b¡t tay vào vi®c, ðµng thü, ðµng công|move, happen; movement, action
+Z6BD4
+Z9762
+Z9AD8
+Z53C8
+Z6216|62.4:8|huo4 yu4|ho£c|ho£c (or)|or, either, else; perhaps, maybe
+Z529B
+Z61C9|61.13:17|ying4 ying1|Ñng, ßng|thu§n theo (Ñng thiên m®nh), ßng thu§n|should, ought to, must
+Z5973
+Z7A2E|115.9:14|zhong3 zhong4 chong2|chüng|loÕi|seed; race; offspring; to plant
+Z6559|66.7:11|jiao4 jiao1|giáo|dÕy h÷c|teach, class
+Z8ECA
+Z5206|18.2:4|fen1 fen4|phân|chia|divide; small unit of time etc.
+Z50CF|9.12:14|xiang4|tßþng|hình tßþng|picture, image, figure; resemble
+Z7CFB|120.1:7|xi4 ji4|h®|h® th¯ng|system; line, link, connection
+Z9577
+Z624B
+Z6B21|76.2:6|ci4 zi1ci2|thÑ|kª, thÑ thiªp, s¯ l¥n|order, sequence; next
+Z5DF2|49.0:3|yi3|kÖ|bän thân mình, ngß¶i mình|already; finished; stop
+Z660E|72.4:8|ming2|minh|sáng|bright, light, brilliant; clear; (nh§t + nguy®t: M£t trång và m£t tr¶i g£p nhau thì nh¤t ð¸nh phäi sáng)
+Z6253|64.2:5|da3 da2|ðä|ðánh|strike, hit, beat; fight; attack
+Z592A|37.1:4|tai4|thái|l¾n (tr×u tßþng)|very, too, much; big; extreme; (ðÕi + chü: Chuy®n Lê Quý Ðôn · tru°ng)
+Z8DEF|157.6:13|lu4 luo4|lµ|ðß¶ng|road, path, street; journey
+Z8D77|156.3:10|qi3|kh·i|b¡t ð¥u, kh·i nghîa, cùng chung (nh¤t kh·i tiªn thoái)|rise, stand up; go up; begin
+Z5DF1
+Z76F8|109.4:9|xiang1 xiang4|tß½ng|cùng|mutual, reciprocal, each other
+Z4E3B|3.4:5|zhu3|chü|chü trì ðÕi cuµc, chü t¾, chü trß½ng|master, chief owner; host; lord
+Z95DC|169.11:19|guan1|quan|quan h®, c½ quan, liên quan|frontier pass; close; relation
+Z5341
+Z9593|169.4:12|jian1 jian4 jian3|gian|chính giæa (trung gian), nhân gian|interval, space; place, between
+Z9CF3|196.3:14|feng4|phøng, phßþng|chim phßþng (tr¯ng)|male phoenix; symbol of joy
+Z5916|36.2:5|wai4|ngoÕi|ngoài|out, outside, external; foreign
+Z5462|30.5:8|ni2 ne5|ni|thì sao? (câu höi)|interrogative or emphatic final
+Z89BA|147.13:20|jue2 jiao4|giác|ngµ ra (giác ngµ), phát giác|wake up from sleep; be conscious
+Z4F7F|9.6:8|shi3 shi4|sØ|sai khiªn|cause, send on a mission, order; envoy, messenger, ambassador
+Z8A72|149.6:13|gai1|cai|ðáng làm, nên làm ...|should, ought to, need to
+Z53CB|29.2:4|you3|hæu|bÕn|friend, companion; fraternity
+Z624D|64.0:3|cai2|tài|tài nång|talent, ability; just, only
+Z9032|162.8:12|jin4|tiªn|tiªn lên|advance, make progress, enter
+Z51F0|16.9:11|huang2|hoàng|chim Hoàng (mái)|female phoenix
+Z5979|38.3:6|ta1|tha|Cô ¤y, bà ¤y|she, her
+Z6C11|83.1:5|min2|dân|dân chúng, nhân dân|people, subjects, citizens
+Z8457|140.8:12|zhu4 zhuo2 chu2 zhao1 zhao2 zhe5|trÑ|trÑ danh, rõ ràng|manifest
+Z5404|30.3:6|ge4|các|m²i, nhæng, m²i ngß¶i m²i v¨|each, individually, every, all
+Z5168|11.4:6|quan2|toàn|tr÷n bµ, thành toàn|maintain, keep whole or intact
+Z5C07|41.8:11|jiang1 jiang4 qiang1|tß½ng, tß¾ng|ðem (tß½ng tâm tï tâm), tß¾ng soái|will, going to, future; general
+Z5C11|42.1:4|shao3 shao4|thi¬u|ít|few, less, inadeqate
+Z5169|11.6:8|liang3 liang4|lßÞng|hai, lßÞng h± giao tranh|two, both, pair, couple; ounce
+Z52A0|19.3:5|jia1|gia|thêm vào, cµng vào, gia tång|add to, increase, augment
+Z56DE|31.3:6|hui2|h°i|tr· v«, h°i báo|return, turn around; a time
+Z611F|61.9:13|gan3|cäm|cäm Ñng, cäm ðµng, cäm tình|feel, perceive, emotion
+Z5F0F|56.3:6|shi4|thÑc|nghi thÑc, công thÑc|style, system, formula, rule
+Z7B2C|118.5:11|di4|ð®|thÑ tñ (ð® nh¤t), nhà · (phü ð®)|sequence, number; grade, degree
+Z7403|96.7:11|qiu2|c¥u|v§t hình tròn, ð¸a c¥u|ball, sphere, globe; round
+Z6027|61.5:8|xing4|tánh, tính|tánh tình, danh tánh, phái tính|nature, character, sex
+Z8001
+Z7A0B|115.7:12|cheng2|trình|khuôn phép, ðß¶ng ði|journey, trip; schedule, agenda
+Z628A|64.4:7|ba3 ba4|ba|l¤y ... ra, ðem ... ra|hold, take; guard; regard as
+Z88AB|145.5:11|bei4 pi1 bi4 pi4|b¸|ch¸u, m¡c phäi|passive indicator "by"; bedding
+Z516C|12.2:4|gong1|công|công b¢ng, chung|fair, equitable; public; duke
+Z8AD6|149.8:15|lun4 lun2|lu§n|bình lu§n, thäo lu§n, Lu§n ngæ|debate; discuss; discourse
+Z53CA|29.2:4|ji2|c§p|v¾i t¾i, cùng v¾i|extend; reach; come up to; and
+Z9F8D
+Z6821|75.6:10|xiao4 jiao3 jiao4 xiao2|hi®u|trß¶ng, h÷c hi®u (trß¶ng h÷c), huy hi®u|school; military field officer
+Z5225|18.5:7|bie2|bi®t|chia tay, cách bi®t, khác bi®t|separate, other; do not
+Z9AD4|188.13:23|ti3 ti1|th¬|thân th¬, th¬ su¤t tâm tình hÕ thuµc|body; group, class, body, unit
+Z91CD|166.2:9|zhong4 chong2 tong2|tr÷ng|n£ng|heavy, weighty; double
+Z7D66|120.6:12|gei3 ji3 xia2|c¤p|cho, cung c¤p|give; by, for
+Z807D|128.16:22|ting1 ting4|thính|nghe|hear, listen; understand; obey
+Z6C34
+Z505A|9.9:11|zuo4|t¯|làm, t± chÑc, làm l­|work, make; act
+Z5E38|50.8:11|chang2|thß¶ng|lâu mãi, bình thß¶ng|common, normal, frequent,regular
+Z60A8|61.7:11|nin2|nâm|quý ngài|honorific for "you"
+Z898B
+Z88E1|145.7:12|li3|lý|bên trong, trong, mµt, lõi|inside, interior, within
+Z6771|75.4:8|dong1|ðông|hß¾ng ðông|east, eastern, eastward; (mµc + nh§t: sáng s¾m nhìn v« hß¾ng ðông, th¤y m£t tr¶i l¤p ló sau ng÷n cây)
+Z98A8
+Z89E3|148.6:13|jie3 jie4 xie4|giäi|c·i, tách ra, giäi thích|loosen, unfasten, untie; explain
+Z7063|85.22:25|wan1|loan|v¸nh eo bi¬n|bay, cove, inlet, bend of stream
+Z6708
+Z7B49|118.6:12|deng3|ðÆng|hÕng, loÕi, b§c|rank, grade; wait; equal; "etc."
+Z5566|30.8:11|la5 la1|lÕp|tiªng thß¶ng dùng · cu¯i câu ð¬ nh¤n mÕnh|final particle of assertion
+Z90E8|163.8:11|bu4 pou3|bµ|tóm, nhóm lÕi|part, division, section
+Z539F|27.8:10|yuan2 yuan4|nguyên|ð¥u tiên, kh·i thüy, bình nguyên|source, origin, beginning
+Z7F8E|123.3:9|mei3|mÛ|ð©p, xinh, duyên dáng|beautiful, pretty; pleasing
+Z5148|10.4:6|xian1|tiên|ð¥u tiên, trß¾c |first, former, previous
+Z97F3
+Z901A|162.7:11|tong1 tong4|thông|thông su¯t, am hi¬u, trôi chäy|pass through, common,communicate
+Z7BA1|118.8:14|guan3|quän|¯ng, gánh vác|pipe, tube, duct; woodwind music
+Z7DB2|120.8:14|wang3|võng|lß¾i, chång|net, web; network
+Z5340|23.9:11|qu1 ou1|khu|chia ra, phân ra, mi«n, vùng|area, district, region, ward
+Z671F|74.8:12|qi2 qi1 ji1|kÏ|hÕn, kÏ hÕn, mong, kÏ v÷ng, th¶i gian|period of time; date; time limit
+Z932F|167.8:16|cuo4 cu4 xi1|thác|sai l¥m, l¥m l²i|error, blunder, mistake, wrong
+Z5426|30.4:7|fou3 pi3|phü|không, chÆng, phü quyªt, phü nh§n|not, no, negative; final particle
+Z6A02|75.11:15|le4 yue4 yao4 luo4|lÕc, nhÕc|vui vë, hoan lÕc, lÕc cänh, âm nhÕc, nhÕc cø|happy, glad; enjoyable; music
+Z5165
+Z627E|64.4:7|zhao3|hoa, träo|b½i thuy«n, bù vào ch² thiªu, tìm kiªm|search, seek, look for; find
+Z66F8|73.6:10|shu1|thß|sách|book, letter, document; writings
+Z8B93|149.17:24|rang4|nhßþng, nhß¶ng|nhßþng bµ, nhß¶ng nh¸n|allow, permit, yield, concede
+Z56DB|31.2:5|si4|tÑ|s¯ b¯n|four
+Z554A|30.8:11|a5|a|ah!|exclamatory particle
+Z7531|102.0:5|you2 yao1|do|b·i, vì nguyên nhân .. (HV- do ß ..)|cause, reason; from
+Z9078|162.12:16|xuan3 suan4 xuan4|tuy¬n|kén ch÷n, lña ch÷n, tuy¬n cØ|choose, select; elect; election
+Z8F03|159.6:13|jiao4 jue2 xiao4|giao|so sánh (HV- tÖ giao)|compare; comparatively, more
+Z6578|66.11:15|shu4 shu3 cu4 shuo4|s¯, s±|s¯, ðªm, s¯ h÷c, s¯ ðông (HV- ðÕi ða s¯)|number; several; count; fate
+Z8868|145.3:8|biao3|bi¬u|di­n ðÕt, tö ra, bi¬u chß½ng, bi¬u di­n|show, express, manifest, display
+Z5167|11.2:4|nei4 na4|nµi|bên trong|inside, interior; domestic
+Z5834|32.9:12|chang2 chang3|trß¶ng|sân, khoänh ð¤t tr¯ng, hí trß¶ng, l§p trß¶ng|open space, field, market
+Z5B83|40.2:5|ta1|tha|nó|it; other
+Z5F9E|60.8:11|cong2 zong4 zong1 cong1|tòng|theo|from, by, since, whence, through
+Z5FEB|61.4:7|kuai4|khoái|nhanh, vui thích, khoái lÕc|rapid, quick, speedy, fast; soon
+Z6B61|76.18:22|huan1|hoan|vui vë, hoan hÖ|happy, pleased, glad; joy; enjoy
+Z81F3
+Z7ACB
+Z76EE
+Z793E|113.3:8|she4|xã|khu vñc, xã hµi, xã ðoàn|god of the soil and altars to him; group of families; company, society
+Z5408|30.3:6|he2 ge3|hþp (hi®p)|góp lÕi|combine, unite, join; gather
+Z671B|74.7:11|wang4|v÷ng|mong, ngóng, hy v÷ng, v÷ng nguy®t tß·ng quân|look at or forward; hope, expect
+Z600E|61.5:9|zen3|ch¦m|sao ? thª nào ?|what? why? how?
+Z8A8D|149.7:14|ren4|nh§n|nh§n ra, biªt|recognize, know, understand
+Z544A|30.4:7|gao4|cáo|báo cho biªt|tell, announce, inform; accuse; (kh¦u + ngßu: Con bò dæ ði t¾i ðâu cûng b¸ ngß¶i ta dùng mi®ng la ó)
+Z66F4|73.3:7|geng4 geng1|cánh, canh|càng, r¤t, l¡m, ð±i (cánh danh), nåm canh bán dÕ|more, still further, much more
+Z5E7E|52.9:12|ji3 ji1|kï (ki)|m¤y hØ, nhiêu?|how many? how much? (a)few, some
+Z8003|125.0:6|kao3|khäo|già nua, khäo xét|examine, test; investigate
+Z5EA6|53.6:9|du4 duo2|ðµ|ðo lß¶ng, ch×ng mñc, ðµ nóng lÕnh|degree, system; manner; consider
+Z96E3|172.11:19|nan2 nan4 nuo2|nan|khó (thiên hÕ vô nan sñ, chï phÕ hæu tâm nhân)|difficult, arduous, hard; unable
+Z7248|91.4:8|ban3|bän|bän in sách, tái bän, phó bän|printing blocks; edition
+Z982D|181.7:16|tou2 tou5|ð¥u|cái ð¥u, ngß¶i ðÑng ð¥u (ð¥u não)|head; top; chief, first; boss
+Z559C|30.9:12|xi3|hÖ|vui vë, tin vui, m×ng, hÖ tín|like, love, enjoy; joyful thing
+Z8A31|149.4:11|xu3 hu3|hÑa|nghe theo, ch¸u, b¢ng lòng, h÷ HÑa|allow, permit; promise; betroth
+Z5149|10.4:6|guang1|quang|ánh sáng, hªt sÕch|light, brilliant, shine; only
+Z4ECA|9.2:4|jin1|kim|bây gi¶, hi®n tÕi (vô c± b¤t thành kim)|now, today, modern era
+Z8CB7|154.5:12|mai3|mãi|mua|buy, purchase; bribe, persuade
+Z7B97|118.8:14|suan4|toán|ðªm, tính toán, trù tính, bàn toán|count, calculate, figure; plan
+Z5F1F|57.4:7|di4 ti4 ti4|ð®|ð® ð®: em|young brother; junior; i, me
+Z82E5|140.5:9|ruo4 re3 re2 re4|nhßþc|nhß, gi¯ng nhß, ví b¢ng|if, supposing, assuming; similar
+Z7D71|120.6:11|tong3|th¯ng|ð¥u m¯i, gom lÕi mµt m¯i (HV- th¯ng nh¤t)|govern, command, control; unite
+Z8EAB
+Z8A18|149.3:10|ji4|ký|ghi chép, nh¾, d¤u hi®u, ký giä|record; keep in mind, remember
+Z4EE3|9.3:5|dai4|ðÕi|thª h®, thay thª, th¶i ðÕi, ðÕi di®n|replace, replacement (of person or generation); era, generation
+Z865F|141.7:13|hao4 hao2|hào|s¯, d¤u hi®u|mark, sign; symbol; number
+Z8655|141.5:11|chu4 chu3|xÑ, xØ|n½i ch¯n, xÑ s·, xØ án, xØ tØ|place, locale; department
+Z5B8C|40.4:7|wan2|hoàn|xong, tr÷n v©n (hoàn toàn), ð¥y ðü, hªt|complete, finish, settle; whole
+Z63A5|64.8:11|jie1|tiªp|ghép, giáp li«n, tiªp ðãi, tiªp c§n|receive; continue; catch;connect
+Z8A08|149.2:9|ji4|kª|mßu chß¾c, lo trß¾c, kª hoÕch|plan, plot; strategem; scheme
+Z8A00
+Z5B57|39.3:6|zi4|tñ|chæ|letter, character, word; (tØ + miên: Ngß¶i con trai · dß¾i mái nhà thì ð÷c chæ)
+Z5E2B|50.7:10|shi1|sß|th¥y|teacher, master, specialist; multitude, troops
+Z4E26|1.7:8|bing4 bang4|t¸nh|g°m, chung, t¸nh hành (cùng ði)|equal to; side by side; also, what is more; both
+Z653F|66.4:9|zheng4 zheng1|chính, chánh|vi®c cüa qu¯c gia, khuôn phép làm vi®c|government, political affairs
+Z73A9|96.4:8|wan2 wan4|ngoÕn|ch½i, ðùa giÞn|play with, joke, enjoy
+Z5F35|57.8:11|zhang1 zhang4|trß½ng|dß½ng, phô trß½ng, chü trß½ng, h÷ Trß½ng|stretch, extend, expand; sheet
+Z7537|102.2:7|nan2|nam|ðàn ông, con trai|male, man; son; baron; surname
+Z8AB0|149.8:15|shui2 shei2|thùy|ai?|who? whom? whose? anyone?
+Z5C71
+Z6BCF|80.3:7|mei3 mei4|m²i|every, m²i ngày|every, each
+Z7D50|120.6:12|jie2 ji4 jie1|kªt|buµc lÕi v¾i nhau, kªt cuµc, kªt nghîa|knot, tie; join, connect
+Z4E14|1.4:5|qie3 ju1|thä|vã lÕi (l¶i nói m· ð¥u), c¦u thä|moreover, also (post-subject); about to, will soon (pre-verb)
+Z661F|72.5:9|xing1|tinh|ngôi sao, thÑ (Tinh kÏ nh¤t = thÑ Hai, Monday)|star, planet; any point of light
+Z975E
+Z5EFA|54.6:9|jian4|kiªn|dñng, gây dñng, kiªn ngh¸, kiªn thiªt|build, establish, erect, found
+Z6539|66.3:7|gai3|cäi|sØa ð±i, cäi cách|change, alter; improve, remodel
+Z9023|162.7:11|lian2 lian3 lian4 lan4|liên|n¯i li«n, liên lÕc, liên kªt, liên hoàn kª|join, connect; continuous; even
+Z653E|66.4:8|fang4 fang3|phóng|thä, buông ra, phóng sanh, tß tß·ng khai phóng|put, release, free, liberate
+Z54C8|30.6:9|ha1 ha3 ha4|cáp|u¯ng nß¾c, cáp cáp (tiªng cß¶i khanh khách)|sound of laughter
+Z6D3B|85.6:9|huo2 guo1|hoÕt|s¯ng, sinh ðµng, hoÕt bác|live, exist, survive; lively
+Z7814|112.6:9|yan2 yan4 xing2|nghiên|tìm ðªn n½i ðªn ch¯n, nghiên cÑu, suy xét|grind, rub; study, research
+Z76F4|109.3:8|zhi2|trñc|thÆng, ngay thÆng, du²i ra|straight, erect, vertical
+Z8A2D|149.4:11|she4|thiªt|ð£t ra, bày ra, thiªt l§p, tr¥n thiªt|build; establish; display ; particle of hypothesis, supposing
+Z9673|170.8:11|chen2 zhen4|tr¥n|bày tö (tr¥n tình), lâu, h÷ Tr¥n|exhibit, display; plead; surname
+Z5831|32.9:12|bao4|báo|báo chí, thông báo|report, tell, announce
+Z8F49|159.11:18|zhuan3 zhuan4|chuy¬n|xoay, chuy¬n c½, chuy¬n ðµng, chuy¬n hß¾ng|shift, move, turn
+Z9EE8|203.8:20|dang3  zhang3|ðäng|nhi«u, phe ðäng, ðoàn th¬|political party, gang, faction
+Z6307|64.6:9|zhi3|chï|ngón tay, trö bäo|finger, toe; point, indicate
+Z4E94|7.2:4|wu3|nåm|s¯ nåm|five; surname
+Z8B8A|149.16:23|bian4|biªn|thay ð±i, biªn ð±i, biªn ch¤t, biªn loÕn|change, transform, alter; rebel
+Z6C23|84.6:10|qi4 xi4|khí|khí|air, gas, steam, vapor; spirit
+Z897F|146.0:6|xi1|tây|hß¾ng tây, tây phß½ng cñc lÕc|west(ern); westward, occident
+Z8A66|149.6:13|shi4|thí|thØ, thí dø, thí nghi®m|test, try, experiment
+Z5E0C|50.4:7|xi1|hy|ít, möng, hy v÷ng|rare; hope, expect, strive for
+Z795E|113.5:10|shen2 shen1|th¥n|th¥n|spirit, god, supernatural being
+Z53D6|29.6:8|qu1|thü|l¤y, dùng|take, receive, obtain; select
+Z5316|21.2:4|hua4 hua1|hóa|biªn hóa, thay ð±i, Hóa h÷c, hóa thân|change, convert, reform; -ize
+Z7269|93.4:8|wu4|v§t|ð° v§t, ðµng v§t, thú v§t, v§t th¬, sñ v§t, cänh v§t|thing, substance, creature
+Z738B|96.0:4|wang2 wang4 yu4|vß½ng|vua, tß¾c Vß½ng, Vß½ng giä chi ðÕo, h÷ Vß½ng|king, ruler; royal; surname
+Z4EFB|9.4:6|ren4 ren2|nh§m, nhi®m|gánh vác, ch¸u ðñng, nhi®m vø, h÷ Nh§m|trust to, rely on, appoint; to bear, duty, office;  allow
+Z6797|75.4:8|lin2|lâm|r×ng|forest, grove; surname; (2 mµc: ð¤t có 2 cây thì ðã thành r×ng)
+Z55AE|30.9:12|dan1 shan4 chan2|ð½n|ð½n l¨|single, individual, only; lone
+Z4E16|1.4:5|shi4|thª|ð¶i, kiªp, thª gi¾i, thª giao, thª gian, tái thª tình duyên|generation; world; era
+Z53D7|29.6:8|shou4|thø, th÷|ch¸u, ch¸u ½n (thø ân, th÷. ân), thø ðµng|receive, accept, get; bear, stand
+Z8FD1|162.4:8|jin4 ji4|c§n|g¥n, c§n m£c giä h¡c (g¥n mñc thì ðen)|near, close; approach; intimate
+Z7FA9|123.7:13|yi4|nghîa|nhân nghîa, nghîa cØ, nghîa ð¸a, nghîa khí, kªt nghîa|right conduct, righteousness
+Z6B7B|78.2:6|si3|tØ|chªt, sanh ký tØ quy|die; dead; death
+Z4FBF|9.7:9|bian4 pian2|ti®n|ti®n lþi, thu§n ti®n, phß½ng ti®n|convenience, ease; expedient
+Z53CD|29.2:4|fan3 fan1|phän, phiên|ð¯i ngh¸ch lÕi, phän ð¯i, phän loÕn, phän ngh¸ch|reverse, opposite, contrary, anti-
+Z58EB
+Z6230|62.12:16|zhan4|chiªn|ðánh nhau|war, fighting, battle
+Z8CC7|154.6:13|zi1 zi4|tß|cüa cäi, tính tñ nhiên (tß ch¤t), tß bän|property; wealth; capital
+Z7A7A|116.3:8|kong1 kong4 kong3|không|tr¯ng không, hß không, không gian|empty, hollow, bare, deserted
+Z968A|170.9:12|dui4 sui4 zhui4|ðµi|toán (quân ..), ðµi ngû, ðµi trß·ng, xªp hàng theo ðµi ngû|team, group; army unit
+Z8DDF|157.6:13|gen1|cân|gót chân, ði theo, cân bang (body guard, ngß¶i theo üng hµ)|heel;to follow, accompany; with
+Z537B|26.7:9|que4|khß¾c|không nh§n (khß¾c t×)|still, but; decline; retreat
+Z5317|21.3:5|bei3 bei4|b¡c|hß¾ng b¡c|north; northern; northward
+Z5FC5|61.1:5|bi4|t¤t|¡t hÆn, quä nhiên, t¤t yªu|surely, most certainly; must
+Z696D|75.9:13|ye4|nghi®p|sñ nghi®p, công nghi®p, nghi®p báo|profession, business, trade
+Z529F|19.3:5|gong1|công|sñ khó nh÷c, công lao, công trÕng|achievement, merit, good result
+Z5BEB|40.12:15|xie3|tä|viªt, sao chép|write; draw, sketch; compose
+Z5F71|59.12:15|ying3|änh|hình bóng, nhiªp änh, ði®n änh|shadow; image, reflection; photo
+Z8072|128.11:17|sheng1|thanh|tiªng, danh dñ, phong thanh (tiªng gió, tiªng ð°n phong phan|sound, voice, noise; tone; music
+Z5E73|51.2:5|ping2|bình|b¢ng, hòa bình|flat, level, even; peaceful
+Z53F0|30.2:5|tai2 yi2 tai1|ðài|trÕm, ð°n|platform; unit; term of address
+Z81FA|133.8:14|tai2 yi2 tai1|ðài|cái ðài cao, nß¾c Ðài Loan|tower, lookout; stage, platform
+Z54E1|30.7:10|yuan2 yun4|viên|nhân viên, thành viên|member; personnel, staff member
+Z91D1
+Z8A0E|149.3:10|tao3|thäo|ðánh giªt (thäo phÕt), bàn bÕc (thäo lu§n)|ask for, beg; demand; dun; marry
+Z8272
+Z5247|18.7:9|ze2|t¡c|quy t¡c, phép t¡c, (cùng t¡c biªn, biªn t¡c thông)|rule, law, regulation; grades
+Z5BB9|40.7:10|rong2|dung|chÑa (dung nÕp), di®n mÕo (dung mÕo), khoan dung|looks, appearance; figure, form
+Z6A94|75.13:17|dang3 dang4|ðß½ng|cái phän, gánh hàng|shelf; frame, crosspiece
+Z7247
+Z5411|30.3:6|xiang4|hß¾ng|phß½ng hß¾ng, Quân hß¾ng Tiêu Tß½ng ngã hß¾ng T¥n|toward, direction, trend
+Z59B3|38.5:8|nai3 ni3|n­|You (dùng cho phái næ khi ðÑng trß¾c là bµ Næ)|you (f.)
+Z5E02|50.2:5|shi4|th¸|chþ, thành th¸, th¸ trß·ng|market, fair; city, town; trade
+Z5229|18.5:7|li4|lþi|lþi, ích lþi, lþi ích, lþi nhu§n, lþi tÑc|gains, advantage, profit, merit
+Z8208|134.9:16|xing1 xing4|hßng, hÑng|n±i lên, làm nên, hßng th¸nh, hßng nghi®p, vui (cao hÑng)|thrive, prosper, flourish
+Z767D
+Z5F37|57.8:11|qiang2 qiang3 jiang4|cß¶ng|mÕnh, cß¶ng dûng, cß¶ng hào ác bá, cß¶ng thân ki®n th¬|strong, powerful, energetic
+Z5B89|40.3:6|an1|an|yên ±n|peaceful, tranquil, quiet; (miên + næ: Ngß¶i con gái · dß¾i mái nhà thì ðßþc yên ±n)
+Z592E|37.2:5|yang1|ß½ng|chính giæa, trung ß½ng|center, conclude, run out; beg
+Z7279|93.6:10|te4|ð£c|ð£c bi®t, ð£c vø|special, unique, distinguished
+Z8B70|149.13:20|yi4|ngh¸|l¶i bàn bÕc, ngh¸ lu§n, ngh¸ án, ngh¸ hòa|consult, talk over, discuss
+Z8FA6|160.9:16|ban4|bi®n|giäng giäi, xét rõ, làm vi®c (bi®n sñ), bi®n bác, bi®n bÕch|manage, do, handle; deal with
+Z50F9|9.13:15|jia4 jie5|giá|Giá tr¸, ph¦m cách, giá cä|price, value
+Z7E3D|120.11:17|zong3 zong1|t±ng|chung lÕi, tø h÷p, ðÑng ð¥u, t±ng th¯ng, t±ng hþp, t±ng kªt|collect; overall, altogether
+Z50B3|9.11:13|chuan2 zhuan4|truy«n, truy®n|trao, chuy¬n, truy«n bá, truy«n chân, sách truy®n|summon; propagate, transmit
+Z601D|61.5:9|si1 si4 sai1|tß|nghî ðªn, nh¾, tß lñ, tß ngh¸|think, consider, ponder; final particle
+Z82B1|140.4:8|hua1|hoa|bông hoa|flower; blossoms
+Z5143|10.2:4|yuan2|nguyên|b¡t ð¥u|first; dollar; origin; head; (nhân + nh¸: Con ngß¶i b¡t ð¥u b¢ng 2 yªu t¯ âm dß½ng)
+Z53EB|30.2:5|jiao4|khiªu|kêu|cry, shout; hail, greet, call
+Z4FDD|9.7:9|bao3|bäo|giæ gìn, sån sóc, bäo ðäm, bäo v®, bäo t°n|protect, safeguard, defend, care
+Z4EFD|9.4:6|fen4 bin1|phân|ph¥n|portion, part; duty
+Z6C42|85.2:7|qiu2|c¥u|xin, yêu c¥u, mong möi, c¥u hôn, c¥u kh¦n|seek; demand, request; beseech
+Z7A76|116.2:7|jiu4 jiu1|cÑu|tra höi, nghi«n ngçm, nghiên cÑu, cÑu cánh|examine, investigate
+Z5475|30.5:8|he1|ha|m¡ng, ha xích (m¡ng ðu±i), ha ha (tiªng cß¶i ha ha)|scold; laughing sound; yawn
+Z4EF6|9.4:6|jian4|ki®n|sñ ki®n, vi®c|numerary adjunct for article; matter; (nhân + ngßu: Con ngß¶i và con bò cùng ði cày là 1 sñ ki®n bình thß¶ng)
+Z672A|75.1:5|wei4|v¸|chßa|not yet; (mµc + nh¤t gÕch ngang ng¡n · trên: ý nói là cây còn nhö, chßa thành g²)
+Z6C7A|85.4:7|jue2|quyªt|quyªt ð¸nh, quyªt tâm, nh¤t quyªt|decide, determine, judge
+Z7D44|120.5:11|zu3 qu1|t±|n¯i li«n, xâu lÕi, t± chÑc|class; section, department
+Z842C|140.9:13|wan4|vÕn|muôn, 10 ngàn, h÷ VÕn, vÕn an, vÕn chúng nh¤t tâm|ten thousand; innumerable
+Z7AF9
+Z7D1A|120.4:10|ji2|c¤p|ngôi b§c, ngôi thÑ, ð® nh¤t c¤p|level, rank, class; grade
+Z6301|64.6:9|chi2|trì|k«m, c¥m giæ, giúp ðÞ, duy trì, trì gi¾i (giæ gìn gi¾i lu§t)|sustain, support; hold, grasp
+Z7B11|118.4:10|xiao4|tiªu|cß¶i, Tam tiªu tình duyên :)|smile, laugh, giggle; snicker
+Z6295|64.4:7|tou2|ð¥u|ném vô, xông vào, nß½ng dña, ð¥u c½, ð¥u cáo|throw, cast, fling, pitch; jump
+Z54EA|30.7:10|na3 nei3 na5 ne2 nuo2|ná|nào, thª nào?|which? where? how?
+Z5BA4|40.6:9|shi4|th¤t|nhà, vþ, phòng|room, home, house, chamber
+Z66FE|73.8:12|ceng2 zeng1|tång, t¢ng|thêm, t×ng träi, h÷ Tång, t¢ng t± (ông c¯)|already; sign of past
+Z8D70
+Z5594|30.9:12|wo1 01|ác|tiªng gà gáy ó o :)|descriptive of crying or of crow
+Z6A19|75.11:15|biao1|tiêu|cây nêu, ng÷n cây, tiêu bi¬u, tiêu chu¦n, tiêu ð«|mark, symbol, label, sign; stand
+Z6D41|85.6:9|liu2|lßu|dòng nß¾c, chäy ði, trôi ði, lßu lÕc, lßu manh, lßu vong|flow, circulate, drift; class
+Z652F
+Z7368|94.13:16|du2|ðµc|riêng, mµt mình, ðµc nh¤t, ðµc mµc b¤t thành lâm|alone, single, solitary, only
+Z8C93|153.9:16|mao1|miêu|con mèo|cat
+Z5361|25.3:5|qia3 ka3|tÕp|ch² thu thuª hàng hóa, ch² tr÷ng yªu có quân trú ðóng|card, punch card; calorie
+Z9700|173.6:14|xu1 nuo4 ruan3 ru2|nhu|c¥n dùng, nhu c¥u, nhu yªu|need, require, must
+Z5144|10.3:5|xiong1|huynh|ngß¶i anh|elder brother; (nhân + kh¦u: Ngß¶i anh thß¶ng dùng mi®ng ð¬ khuyên nhü 2 em)
+Z9580
+Z5171|12.4:6|gong4 gong1|cµng|chung, cùng nhau, cµng ð°ng, cµng tác, công cµng|together with, all, total; share
+Z8A9E|149.7:14|yu3 yu4|ngæ|tiªng nói, l¶i nói|language, words; saying, express
+Z6D77|85.7:10|hai3|häi|bi¬n. b¬, häi cäng, häi quân|sea, ocean; maritime
+Z53E3
+Z963F|170.5:8|a1 a4 a5 e1 e3 a3|a|hùa theo, gò to|prefix to name; transliteration
+Z7DDA|120.9:15|xian4|tuyªn|dây, sþi chï, manh m¯i|thread, line, wire; clue
+Z99AC
+Z9EC3
+Z53C3|28.9:11|can1 san1 shen1 den1 cen1 san3|tham, sâm|xen vào, dñ vào, tham mßu, tham khäo, sâm Hoa KÏ|take part in, intervene
+Z822C|137.4:10|ban1 bo1 pan2 ban3|ban, bàn|d¶i ði, d÷n ði, gi¯ng, loÕi, nhß nhau|sort, manner, kind, category
+Z547D|30.5:8|ming4|mÕng, m®nh|tánh mÕng, m®nh l®nh|life; destiny, fate, luck; order
+Z8996|147.4:11|shi4|th¸|nhìn, th¸ lñc|look at, inspect, observe, see
+Z89C0|147.18:25|guan1 guan4|quan|xem, quan sát, tham quan|see, observe, view; appearance
+Z806F|128.11:17|lian2|liên|liên ð¾i, liên lÕc|connect, join; associate, ally
+Z8166|130.9:13|nao3 nao4|não|óc|brain
+Z670B|74.4:8|peng2|b¢ng|bÕn bè|friend, pal, acquaintance; (2 nguy®t: BÕn bè thß¶ng g£p nhau trong 2 ðêm trång sáng ð¬ nói chuy®n)
+Z683C|75.6:10|ge2 ge1|cách|tính cách|pattern, standard, form; style
+Z5152|10.6:8|er2 er5|nhi|trë con|son, child, oneself; final part
+Z516B
+Z4FEE|9.8:10|xiu1|tu|tu thân|study; repair; cultivate
+Z6599|68.6:10|liao4 liao2|li®u|ch¤t li®u|consider, conjecture; materials, ingredients
+Z9322|167.8:16|qian2 jian3|ti«n|ti«n|money, currency, coins
+Z5931|37.2:5|shi1|th¤t|m¤t ði, th¤t thoát, th¤t ý|lose; make mistake, neglect
+Z5403|30.3:6|chi1 ji1|thñc|ån|eat; drink; suffer, endure, bear
+Z4F4F|9.5:7|zhu4|trø (trú)|·|reside, live at, dwell, lodge; stop
+Z5373|26.5:7|ji2|tÑc|t¾i, g¥n, tÑc kh¡c, s¡c tÑc th¸ không|promptly, quickly, immediately
+Z53E6|30.2:5|ling4|lánh|riêng|another, separate, other
+Z9304|167.8:16|lu4|løc|kÖ løc, ghi lÕi|copy, write down, record
+Z5C08|41.8:11|zhuan1|chuyên|chuyên môn|monopolize, take sole possession
+Z8C61|152.5:12|xiang4|tßþng|con voi|elephant; ivory; figure, image
+Z63DB|64.9:12|huan4|hoán|ð±i|change, exchange; substitute
+Z57FA|32.8:11|ji1|c½|cån bän|foundation, base
+Z677F|75.4:8|ban3|bän|t¤m ván möng, bän in sách|plank, board; iron or tin plate
+Z62FF|64.6:10|na2|nã|c¥m|take, hold, grasp; bring; with
+Z9060|162.10:14|yuan3 yuan4|vi­n|xa|distant, remote, far; profound
+Z901F|162.7:11|su4|thúc|nhanh nh©n|quick, prompt, speedy
+Z5F62|59.4:7|xing2|hình |hình th¬, hình dÕng, hành hình|form, shape, appearance
+Z5B69|39.6:9|hai2|hài|trë con|baby, child; children
+Z5099|9.10:12|bei4|b¸|chu¦n b¸, gi¾i b¸|prepare, ready, perfect
+Z6B4C|76.10:14|ge1|ca|ca hát, bài ca|song, lyrics; sing, chant; praise
+Z5E6B|50.14:17|bang1|bang|giúp ðÞ, bang phái|help, assist; defend; shoe upper
+Z78BA|112.10:15|que4|xác|b«n, ðích xác, xác ð¸nh. xác thñc|sure, certain; real, true
+Z5019|9.8:10|hou4|h¥u|tß¾c H¥u, h©p, H÷ H¥u, lúc (thì h¥u)|wait; expect; visit; greet
+Z9664|170.7:10|chu2 zhu4 shu1|tr×|tr× bö, b¾t ði, tr× t¸ch, tr× gian di®t ác|eliminate, remove, except
+Z754C|102.4:9|jie4|gi¾i|biên gi¾i, ranh gi¾i, gi¾i hÕn|boundary, limit; domain; society
+Z88DD|145.7:13|zhuang1|trang|qu¥n áo, y trang, trang sÑc, trang hoàng|dress, clothes; decorate; fill
+Z985E|181.10:19|lei4 li4|loÕi|loài, gi¯ng, chüng loÕi, ðÕi khái|class, group, kind, category
+Z8B1B|149.10:17|jiang3|giäng|c¡t nghîa, giäng giäi, giäi thích, giäng ðß¶ng|explain; discuss; talk
+Z5668|30.13:16|qi4|khí|ð° dùng, tài nång, ðµ lßþng (khí lßþng)|receptacle, vessel; instrument
+Z5357|24.7:9|nan2 na1|nam|hß¾ng nam|south; southern part; southward
+Z6848|75.6:10|an4|án|cái bàn, cái mâm, l¶i bình ph¦m v« h÷c thu§t (Công án thi«n)|table, bench; legal case
+Z756B|102.7:12|hua4|h÷a|v¨|delineate, painting, picture, drawing; draw
+Z82F1|140.5:9|ying1 yang1|anh|tinh túy, nß¾c Anh|petal, flower, leaf; brave, hero
+Z8A34|149.5:12|su4|t¯|mách, gièm chê|accuse; sue; inform; narrate
+Z5E36|50.8:11|dai4|ðái|ðeo, mang,|belt, girdle, band, strap, zone
+Z5DEE|48.7:10|chai1|sai|sai bi®t, sai khiªn, sai nha, khác, dÞ|differ; nearly, almost
+Z4E4E|4.4:5|hu1 hu2 hu1|h°|v§y ôi, tán thán|interrogative or exclamatory final particle
+Z91CF|166.5:12|liang4 liang2|lßþng, lß¶ng|sÑc chÑa, ðo lß¶ng, ðµ lßþng, tính toán, cân nh¡c, mÑc ðµ|measure, quantity, capacity
+Z4E45|4.2:3|jiu3|cØu|lâu dài|long time (ago); time passage, grow late; (phi®t + nhân: Ngß¶i già s¯ng lâu thì lßng còng, tóc bÕc)
+Z6389|64.8:11|diao4|ði®u, ðiªu|day (ð¥u bö ði), ðánh m¤t, ði®u hoán (tráo ð±i)|turn, move; shake, wag;drop down
+Z4F3C|9.5:7|si4 shi4|tñ, tþ|gi¯ng nhß, tña nhß|resemble, similar to; as if, seem
+Z6574|66.11:16|zheng3|chïnh|nguyên th¬, chïnh t«, chïnh lý, sØa sang cho ngay ng¡n|orderly, neat, tidy; whole
+Z5F15|57.1:4|yin3|dçn|dçn d¡t, kéo dài, ðßa ra (làm gß½ng, làm b¢ng chÑng)|pull, draw out, attract; stretch
+Z73ED|96.6:10|ban1|ban|phát, bày giäi, ð½n v¸|class, group, grade; squad; job
+Z8FF7|162.6:10|mi2 mei4 mi4|mê|mê ho£c, l¥m, mê mçn, m¶ ám, mê tín, mê lµ (lÕc ðß¶ng)|bewitch, charm, infatuate
+Z5716|31.11:14|tu2|ð°|bän ð°, s½ ð°|diagram; chart, map, picture
+Z5236|18.6:8|zhi4|chª|k«m chª, phép t¡c, chª ðµ, chª phøc, th¬ chª|system; establish; overpower
+Z8CBB|154.5:12|fei4 bi4|phí|xài, hao t±n, phí t±n, phí tâm, h÷ Phí|expenses, expenditures, fee
+Z8CFD|154.10:17|sai4|sai, trÕi|thi, ðua, ð¤u, th¡ng, h½n|compete, contend; contest, race
+Z5947|37.5:8|qi2 ji1|kÏ|lÕ, hiªm có|strange, unusual, uncanny,occult
+Z8B58|149.12:19|shi4 shi2 zhi4|thÑc|hi¬u biªt|recognize, understand, know
+Z578B|32.6:9|xing2|hình|khuôn b¢ng ð¤t, khuôn phép, tÕo hình|pattern, model, type; law; mold
+Z8D85|156.5:12|chao1 chao3 chao4 tiao4|siêu|vßþt lên cao, siêu nhân, siêu c¤p, siêu th¸, siêu bÕt|jump over, leap over; surpass
+Z908A|162.15:19|bian1|biên|bên, biên gi¾i, biên cänh, biên phòng,|edge, margin, side, border
+Z8036|128.3:9|ye2 ye1 xie2|da|v§y ß! (dùng làm trþ t× chï sñ ng¶), Da Tô giáo (ðÕo Thiên Chúa)|used in transliteration
+Z54C1|30.6:9|pin3|ph¦m|khen chê, giá tr¸|article, product, commodity; (3 chæ kh¦u: Ba cái mi®ng xúm lÕi bình ph¦m mµt v¤n ð«)
+Z96D6|172.9:17|sui1|tuy|dçu, dù|although, even if
+Z59CB|38.5:8|shi3|thï, thüy|b¡t ð¥u, lúc ð¥u, hæu thï hæu chung, thï t± nhân loÕi|begin, start; then, only then
+Z904B|162.9:13|yun4|v§n|ch·, v§n chuy¬n, v§n m®nh, v§n døng, hÕnh v§n|luck, fortune; ship, transport
+Z674E|75.3:7|li3|lý|cây lý, h÷ Lý|plum; judge; surname
+Z52D9|19.9:11|wu4|vø|vi®c, công vø, vø lþi, phøc vø|affairs, business; must, should
+Z6B0A|75.18:22|quan2|quy«n|quy«n hành, quy«n lñc, quy«n biªn, quy«n lþi, quy«n nghi|power, right, authority
+Z9A57|187.13:23|yan4|nghi®m|nghi®m xem|test, examine, inspect; verify
+Z6545|66.5:9|gu4 gu3|c¯|cû, g¯c, c¾|ancient, old; reason, because
+Z516D|12.2:4|liu4 lu4|løc|s¯ sáu|number six
+Z8B80|149.15:22|du2 dou4|ðµc|ð÷c (sách, báo), ðµc giä (ngß¶i ð÷c sách báo)|read, study; pronounce
+Z602A|61.5:8|guai4|quái|lÕ lùng, quái g·, yêu quái, quái d¸|strange, unusual, peculiar
+Z98DB
+Z6EFF|85.11:14|man3 men4|mãn|ð¥y ðü, tñ mãn, ðªn kÏ hÕn, mÛ mãn, mãn nguy®n|fill; full, satisfied
+Z670D|74.4:8|fu2 fu4 bi4|phøc|y phøc, qu¥n áo, phøc tòng, phøc vø|clothes; wear, dress
+Z5922|36.11:14|meng4 meng2|mµng|gi¤c mµng, m½ tß·ng|dream; visionary; wishful
+Z6536|66.2:6|shou1|thu, thâu|b¡t, l¤y, tom góp, thu binh, thu thuª, thu døng, thu hoÕch|gather together, collect;harvest
+Z773C|109.6:11|yan3 wen3|nhãn|con m¡t, quä báo nhãn ti«n, nhãn quan|eye; eyelet, hole, opening
+Z9020|162.7:11|zao4 cao4 cao1|tÕo|chª tÕo, làm ra, xây ð¡p, tÕo hóa, tÕo phän|construct, build, begin; prepare
+Z5FF5|61.4:8|nian4|ni®m|nh¾, tß·ng nh¾, hoài ni®m, ni®m cñu, ni®m kinh|think of, recall, study
+Z7559|102.5:10|liu2 liu3  liu4|lßu|giæ lÕi|stop, halt; stay, detain, keep
+Z8AB2|149.8:15|ke4|khóa|l¾p, vi®c h÷c, th¶i khoá bi¬u, thßþng khóa (vô l¾p h÷c)|lesson; course; classwork
+Z8ECD|159.2:9|jun1|quân|quân lính, vi®c binh, quân trang, quân cø, quân b¸|army, military; soldiers, troops
+Z7834|112.5:10|po4|phá|làm hß, làm b¬ nát, phá án, phá hoÕi, phá di®t (hüy di®t)|break, ruin, destroy; rout
+Z7CBE|119.8:14|jing1 qing2 jing4|tinh|tinh túy|essence; semen; spirit
+Z534A|24.3:5|ban4|bán|phân nØa, bán cân bát lßþng (nØa cân 8 lÕng)|half
+Z7D04|120.3:9|yue1 yao1 yao4 di4|ß¾c|buµc, bó buµc, h©n ß¾c, ß¾c pháp, ß¾c ð¸nh|treaty, agreement, covenant
+Z9858|181.10:19|yuan4|nguy®n|c¥u, xin, mong möi, nguy®n v÷ng, ý nguy®n|desire, want; wish; ambition
+Z4EE4|9.3:5|ling4 ling2 ling3|l®nh, l¸nh|ra l®nh, m®nh l®nh, l®nh ái (tiªng tôn xßng con gái ngß¶i ta)|command, order; "commandant", magistrate; allow, cause
+Z5E95|53.5:8|di3 de5|ð¬|ðáy, häi ð¬ (ðáy bi¬n)|bottom, underneath, underside
+Z7B54|118.6:12|da2 da1|ðáp|trä l¶i, v¤n ðáp, ðáp Ñng|answer, reply; return; assent to
+Z6F14|85.11:14|yan3 yan4|di­n|phô di­n, di­n thuyªt, di­n giäng, di­n viên|perform, put on; exercise
+Z9054|162.9:13|da2 ta4 ti4|ðÕt|thông su¯t, hi¬u th¤t, ðªn n½i, thành ðÕt, hi¬n ðÕt, ðÕt lý|arrive at, reach; intelligent
+Z96C4|172.4:12|xiong2|hùng|tr¯ng, ðñc, mÕnh m¨, hùng bi®n, hùng tráng, hùng cß¶ng|male of species; hero; manly
+Z6DF1|85.8:11|shen1|thâm|sâu, kín ðáo, thâm nghiêm, thâm sâu|deep; depth; far; very, extreme
+Z7968|113.6:11|piao4 piao1|phiªu|vé, tem|slip of paper or bamboo; ticket
+Z65E9|72.2:6|zao3|täo|sáng s¾m, trß¾c|early; soon; morning
+Z9662|170.7:10|yuan4|vi®n|vi®n|courtyard, yard, court; school
+Z5920|36.8:11|gou4|c¤u|ðü, v¾i t¾i, ðÕt ðßþc|enough, adequate
+Z66F2|73.2:6|qu3 qu1|khúc|cong, không ngay thÆng|crooked, bent; wrong, false; (viªt + nh¸ d÷c: Nói ðªn 2 l¥n là không ngay thÆng)
+Z5047|9.9:11|jia3 jia4 xia2|giä|giä mÕo, giä tÕo, giä thiªt, chân giä (th§t, không th§t)|falsehood, deception; vacation
+Z8AC7|149.8:15|tan2|ðàm|trò chuy®n, ðàm lu§n, ðàm thoÕi|talk; conversation; surname
+Z8853|144.5:11|shu4|thu§t|cách, mÛ thu§t, h÷c thu§t|art, skill, special feat; method
+Z68D2|75.8:12|bang4|b±ng|cây g§y|stick, club, truncheon; hit
+Z8CE3|154.8:15|mai4|mÕi|bán, mãi mÕi (mua, bán)|sell; betray; show off
+Z9ED1|203.0:12|hei1 he4|h¡c|màu ðen, h¡c ám|black; dark; evil, sinister
+Z767E|106.1:6|bai3 bo2 mo4|bách|mµt tråm, nhi«u|one hundred; numerous, many
+Z52DD|19.10:12|sheng4 sheng1|th¡ng|ðßþc|victory; excel, be better than
+Z63A8|64.8:11|tui1|suy|xô ð¦y, suy ðoán, suy g¦m|push, expel; push forward
+Z5B58|39.3:6|cun2|t°n|giæ lÕi, bäo t°n, t°n trØ, t°n vong ...|exist, live, be; survive; remain
+Z706B
+Z6E96|85.10:13|zhun3|chu¦n|mñc thß¾c, tiêu chu¦n, chu¦n xác (chính xác), chu¦n b¸|rule, guideline, standard
+Z793A
+Z5F80|60.5:8|wang3 wang4|vãng|ði, qua, ðã qua, chªt, vãng lai, dî vãng|go, depart; past, formerly
+Z789F|112.9:14|die2 she2|ði®p|cái dîa|small dish, plate
+Z6613|72.4:8|yi4|d¸, d¸ch|d­, s½ lßþc, thay ð±i, giän d¸, d¸ch dung, dung d¸ (d­)|change; easy
+Z6CC1|85.5:8|kuang4|hu¯ng|tình hình, so sánh|condition, situation;furthermore
+Z665A|72.7:11|wan3|vãn|bu±i chi«u, muµn màng, vãn b¯i, vãn niên|night, evening; late
+Z96E2|172.11:19|li2 li4 li3  chi1 gu3|ly|phân tán, chia ly, ly tán, ly gián|leave, depart; go away; separate
+Z6CBB|85.5:8|zhi4 chi2 yi2|tr¸|sØa chæa, tr×ng tr¸, coi sóc, tr¸ an, tr¸ li®u, tr¸ gia|govern, regulate, administer
+Z5C0E|41.12:16|dao3 dao4|ðÕo|chï dÕy, dçn d¡t, chï ðÕo, hß¾ng ðÕo|direct, guide, lead, conduct
+Z4E03|1.1:2|qi1|th¤t|s¯ bäy|seven
+Z6BB5|79.5:9|duan4|ðoÕn, ðoàn|mµt khúc, mµt ðoÕn, h÷ Ðoàn|section, piece, division
+Z5718|31.11:14|tuan2|ðoàn|hình tròn, 1 s¯ ðông, tø t§p, ðoàn kªt, ðoàn viên|sphere, ball, circle; mass, lump
+Z8ABF|149.8:15|diao4 tiao4 tiao2 zhou1|ði®u, ði«u|nh¸p, d¶i ði, ði«u hòa, ði«u chïnh, ði«u chïnh|transfer, move, change; tune
+Z8B49|149.12:19|zheng4|chÑng|nh§n th§t, b¢ng chÑng, chÑng minh, chÑng nh§n|proof, evidence; testify, verify
+Z5217|18.4:6|lie4|li®t|bày ra, s¯ nhi«u, li®t kê, li®t qu¯c|line; arrange in order, classify
+Z50B7|9.11:13|shang1|thß½ng|ðau ð¾n, b¸ thß½ng, thß½ng tâm, thß½ng binh|wound, injury; fall ill from
+Z6C38|85.1:5|yong3|vînh|lâu dài, vînh vi­n, vînh bi®t, vînh cØu|long, perpetual, eternal,forever
+Z525B|18.8:10|gang1|cang, cß½ng|cÑng, cang cß¶ng, cß½ng li®t|hard, tough, rigid, strong
+Z6392|64.8:11|pai2 pai3 bei4|bài|bác bö, chê bai, bày tr×, bài bác, s¡p hàng|row, rank, line
+Z54E5|30.7:10|ge1|ca|ca ca: Anh|elder brother
+Z5FB7|60.12:15|de2|ðÑc|ðÑc hÕnh, ðÑc nång th¡ng s¯|ethics, morality, virtue
+Z4E5D|5.1:2|jiu3|cØu|s¯ chín|nine
+Z751A|99.4:9|shen2 shi2 shen4|th§m|very, r¤t, câu höi|great extent; considerably
+Z6BBA|79.7:11|sha1 sa4 shai4 she4|sát|giªt, sát nhân|kill, slaughter, murder; hurt; to pare off, reduce, clip
+Z7167|86.9:13|zhao4|chiêu, chiªu|soi sáng, chiªu r÷i, y theo, ð¯i chiªu|shine, illumine, reflect
+Z8EDF|159.4:11|ruan3|nhuy­n|v§t m«m, hành lý|soft, flexible, pliable; weak
+Z5305|20.3:5|bao1|bao|gói, h÷ Bao|wrap, pack, bundle; package
+Z6015|61.5:8|pa4|phÕ|sþ hãi, e r¢ng, khéo, có l¨, ngÕi|fear, be afraid of; apprehensive
+Z689D|75.7:11|tiao2|ði«u|ði«u l®|clause, condition;string, stripe
+Z591C|36.5:8|ye4|dÕ|ðêm|night, dark; in night; by night
+Z5546|30.8:11|shang1|thß½ng|ð¡n ðo, buôn|commerce, business, trade
+Z6982|75.9:13|gai4 gui4 jie2|khái|khái quát, ðÕi khái|generally, approximately
+Z6839|75.6:10|gen1|cån|g¯c, r­, cµi ngu°n|root, base(d on); foundation
+Z4F9B|9.6:8|gong1 gong4|cung|dâng, nÕp, cung c¤p, cung phøng|supply, provide for; offer in worship
+Z7D55|120.6:12|jue2|tuy®t|c¡t ðÑt, dÑt, cñc kÏ, tuy®t kÛ, tuy®t di®u, tuy®t tình|cut, sever, break off, terminate
+Z5343|24.1:3|qian1|thiên|ngàn|thousand; many, numerous; very
+Z5BA2|40.6:9|ke4|khách|khách|guest, traveller; customer
+Z5207|18.2:4|qie1 qie4 qi4|thiªt|c¥n thiªt|cut, mince, slice, carve
+Z96C6|172.4:12|ji2|t§p|nhóm, hþp lÕi, nhi«u bài th½, vån gom lÕ¸ tø t§p|assemble, collect together
+Z7A31|115.9:14|cheng1 cheng4 chen4|xßng|xßng hi®u, danh xßng|call; name, brand; address; say
+Z64DA|64.13:16|ju4|cÑ|cån cÑ, dña theo|occupy, take possession of; base
+Z843D|140.9:13|luo4 la4 lao4 luo1|lÕc|sa xu¯ng, lßu lÕc, lÕc nhÕn|fall, drop; net income, surplus
+Z8D8A|156.5:12|yue4 huo2|vi®t|vßþt qua, càng, nß¾c Vi®t|exceed, go beyond; the more ...
+Z7ADF|117.6:11|jing4|cánh|cu¯i cùng s¨|finally, after all, at last
+Z76E1|108.9:14|jin4 jin3|t§n|t§n cùng, hªt, kh± t§n cam lai|exhaust, use up; deplete
+Z5F85|60.6:9|dai4 dai1|trì|ch¶ ðþi, duy trì|treat, entertain, receive; wait
+Z805E|128.8:14|wen2 wen4|vån|nghe, vån kÏ thanh b¤t kiªn kÏ hình, kiªn vån uyên bác|hear; smell; make known; news
+Z5712|31.10:13|yuan2|viên|vß¶n, lÕc viên|garden; park, orchard
+Z5FD8|61.3:7|wang4 wang2|vong|quên, m¤t, vong ân, vong qu¯c,|forget; neglect; miss, omit
+Z503C|9.8:10|zhi2 zhi4|trñc|thÆng|price
+Z7522|100.6:11|chan3|sän|tài sän|give birth, bring forth, produce
+Z6D88|85.7:10|xiao1|tiêu|tiêu thø|vanish, die out; melt away
+Z96D9|172.10:18|shuang1|song|ðôi, c£p, song thân|set of two, pair, couple; both
+Z7D05|120.3:9|hong2 gong1 jiang4|h°ng|màu ðö, h°ng nhan|red, vermillion; blush, flush
+Z5EA7|53.7:10|zuo4|t÷a|ch² ng°i, an t÷a|seat; stand, base
+Z5C55|44.7:10|zhan3|tri­n|tri­n khai, phát tri­n|open, unfold; stretch, extend
+Z80B2|130.4:7|yu4 yo1|døc|dßÞng døc, døc anh|produce, give birth to; educate
+Z8DD1|157.5:12|pao3 pao2 bo2|bào|chÕy, nhäy, tr¯n thoát, ði|run, flee, leave in hurry
+Z9644|170.5:8|fu4 pou3 bu4 fu1|phø|nh§p vô, phø ð«|adhere to, append; rely on      near to
+Z561B|30.11:14|ma5 ma5|ma|ðay, gai, v×ng, tê cóng, ma túy, LÕt Ma|final exclamatory particle
+Z57F7|32.8:11|zhi2|ch¤p|khång khång, c¯ ch¤p, ch¤p hành|hold in hand; keep; carry out
+Z5531|30.8:11|chang4|xß¾ng|hát, kh·i xß¾ng, phu xß¾ng phø tùy|sing, chant, call; ditty, song
+Z6280|64.4:7|ji4|kÖ|ngh«, kÖ thu§t|skill, ability, talent, ingenuity
+Z67D0|75.5:9|mou3|m²|ta, ngß¶i nào ðó|certain thing or person
+Z786C|112.7:12|ying4 geng3|ngÕnh|cÑng r¡n, ß½ng ngÕnh|hard, firm, strong; obstinate
+Z65AF|69.8:12|si1|tß|ðó, ¤y này, xé ra, tß vån (chï dáng vë thß sinh)|this, thus, such; to lop off; emphatic particle
+Z96F2|173.4:12|yun2|vân|mây|clouds; yunnan province
+Z904A|162.9:13|you2|du|lãng du, du ngoÕn, du l¸ch|wander, roam, travel
+Z606F|61.6:10|xi1|tÑc|nghï ng½i, ngßng, hßu tÑc|rest, put stop to, end, cease
+Z52A9|19.5:7|zhu4|trþ|giúp, tß½ng trþ|help, aid, assist
+Z9808|181.3:12|xu1|tu|c¥n, t¤t tu (c¥n thiªt)|must, have to, necessary; moment; whiskers
+Z82E6|140.5:9|ku3 gu3|kh±|kh±, khó nh÷c|bitter; hardship, suffering
+Z4ECB|9.2:4|jie4|gi¾i|ngß¶i ðÑng giæa ngß¶i ðÑng giæa|forerunner, herald, harbinger; to lie between; sea shell; to wear armor; (Hình ngß¶i ðÑng giæa làm mai m¯i cho 2 kë xa lÕ)
+Z6548|66.6:10|xiao4|hi®u|hi®u quä, mô phöng|result, effect; effectiveness
+Z9996
+Z8CEA|154.8:15|zhi2  zhi4|ch¤t|tính ch¤t, ch¤t lßþng|matter, material, substance
+Z4F8B|9.6:8|li4|l®|thí dø|precedent, example; regulation
+Z5509|30.7:10|ai1 ai4|ai|chao ôi! (l¶i than th· v« sñ ðáng ghét)|alas
+Z8077|128.12:18|zhi2 zhi4 te4|chÑc|chÑc ph§n|duty, profession; office, post
+Z5FA9|60.9:12|fu4 fu4 fou4|phøc|phøc hþp, quang phøc, phøc hoàn|return; repeat; repeatedly
+Z8F38|159.9:16|shu1 shu4|du, thâu|thua, chuy¬n v§n, du nh§p, thâu doanh (thua ðßþc)|transport, carry, haul
+Z7BC0|118.7:13|jie2 jie1|tiªt|th¶i tiªt, tiªt ki®m|knot, node, joint; section
+Z898F|147.4:11|gui1 kui1 xu4 gui4|quy|quy t¡c, phÕm quy|rules, regulations, customs, law
+Z6CE8|85.5:8|zhu4 zhou4|chú|chú ý, chú tr÷ng|concentrate, focus, direct
+Z7562|102.6:11|bi4|t¤t|hoàn t¤t|end, finish, conclude; completed
+Z67E5|75.5:9|cha2 zha1|tra|tra xét, tra cÑu, ði«u tra|investigate, examine, seek into
+Z71B1|86.11:15|re4|nhi®t|nóng|hot; heat; fever; restless; zeal
+Z6CB9|85.5:8|you2 you4|du|d¥u, höa du (d¥u lØa), quét s½n, khôn khéo|oil, fat, grease, lard; paints
+Z9928|184.8:16|guan3|quán|quán tr÷, c½ quan|public building
+Z614B|61.10:14|tai4|thái|trÕng thái, th¬ thái|manner, bearing, attitude
+Z505C|9.9:11|ting2|ðình|ngßng lÕi|stop, suspend, delay; suitable
+Z798F|113.9:14|fu2 fu4|phúc|t¯t lành|happiness, good fortune,blessing
+Z6551|66.7:11|jiu4|cÑu|cÑu, c¤p cÑu, cÑu nhân|save, rescue, relieve; help, aid
+Z5012|9.8:10|dao3 dao4|ðäo|ngßþc lÕi|fall over; lie down; take turns
+Z89AA|147.9:16|qin1 qing4 xin1|thân|thân tình, thân tín|relatives, parents; intimate
+Z5BB3|40.7:10|hai4 he2|hÕi|hÕi, phá hoÕi|injure, harm; destroy, kill
+Z4E82|5.12:13|luan4|loÕn|lµn xµn, khg yên ±n, loÕn ðäng|confusion, state of chaos; create chaos, revolt
+Z53E4|30.2:5|gu3|c±|cû, xßa|old, classic, ancient; (kh¦u + th§p: Chuy®n k¬ qua mß¶i cái mi®ng thì ðã là chuy®n xßa)
+Z6B65|77.3:7|bu4|bµ|bß¾c, tän bµ, bình bµ thanh vân|step, pace; walk, stroll
+Z5BF6|40.17:20|bao3|bäo, bØu|quý tr÷ng, bäo b¯i, bäo v§t|treasure, jewel; precious, rare
+Z64CA|64.13:17|ji2 ji1|kích|t§p kích, du kích|strike, hit, beat; attack, fight
+Z8209|134.10:17|ju3|cØ|ðßa lên, ðßa ra, ð½n cØ, tuy¬n cØ|raise, lift up; recommend
+Z7D42|120.5:11|zhong1|chung|cu¯i cùng, tòng nh¤t vi chung|end; finally, in the end
+Z55EF|30.10:13|ng4 ng2 ng3|ân|này, h·, hØ, sao?|final particle
+Z5370|26.4:6|yin4|¤n|in, r£p khuôn, d¤u ¤n, ¤n bän|print, seal, stamp, chop, mark
+Z9650|170.6:9|xian4 wen3|hÕn|hÕn kÏ|boundary, limit, line
+Z4F9D|9.6:8|yi1 yi3|y|dña theo, y theo|rely on, be set in; consent, obey a wish
+Z65B7|69.14:18|duan4|ðoÕn|c¡t ðÑt, ðoÕn duyên, ðoÕn tuy®t|sever, cut off; interrupt
+Z8F15|159.7:14|qing1 qing4|khinh|nh©, khinh tr÷ng|light; easy, simple; gentle
+Z74B0|96.13:17|huan2 huan4|hoàn|vòng tròn, tu¥n hoàn, hoàn vû|jade ring or bracelet; ring
+Z7C21|118.12:18|jian3|giän|giän d¸, ð½n giän, giän th¬|simple, terse, succinct; letter
+Z8DA3|156.8:15|qu4 cu4 qu1 cou3 zou1|thú|hÑng thú, vui|what attracts one's attention
+Z5FD7|61.3:7|zhi4|chí|chí hß¾ng, hæu chí cánh thành|purpose, will, determination
+Z97FF|180.11:21|xiang3|hßÞng|âm hßÞng|make sound, make noise; sound
+Z96A8|170.13:16|sui2|tùy|tùy theo, tùy ý|follow, listen to, submit; to accompany; subsequently, then
+Z7DF4|120.9:15|lian4|luy®n|luy®n t§p, hu¤n luy®n|practice, drill, exercise, train
+Z7E8C|120.15:21|xu4|tøc|n¯i theo, tiªp tøc, tøc huy«n|continue, carry on; succeed
+Z9B5A
+Z7BC7|118.9:15|pian1|thiên|ph¥n, bài, trang, t¶ r¶i|chapter, section, essay, article
+Z53F8|30.2:5|si1|ti|chü|take charge of, control, manage; officer
+Z5C40|44.4:7|ju2|cøc|bµ ph§n, cøc di®n|bureau, office; circumstance
+Z9001|162.6:10|song4|t¯ng|t£ng, ðßa, t¯ng bi®t, t£ng t¯ng|see off, send off;dispatch, give
+Z6975|75.9:13|ji2|cñc|tµt ðµ, t§n cùng, cñc ðµ, Thái Cñc ðÕo|extreme, utmost, furthest, final
+Z89D2
+Z7701|109.4:9|sheng3 xian3 xing3|tïnh|tïnh lÜ, suy xét lÕi, phän tïnh|province; save, economize
+Z6E90|85.10:13|yuan2|nguyên|bình nguyên, thäo nguyên|spring; source, head; surname
+Z967D|170.9:12|yang2|dß½ng|thái dß½ng, âm dß½ng|"male" principle; light; sun
+Z5E79|51.10:13|gan4 han2|cán|làm, tài cán, cán sñ|trunk of tree or of human body
+Z7FD2|124.5:11|xi2|t§p|làm cho quen|practice; flapping wings
+Z7F85|122.14:19|luo2 luo1 luo5|la|lß¾i, giång lß¾i, tìm kiªm, bày ra, la bàn, la li®t|net for catching birds; gauze
+Z6B66|77.4:8|wu3|võ|võ lñc, võ ðoán, vån võ song toàn|military; martial, warlike
+Z514D|10.5:7|mian3|mi­n|khöi, mi­n d¸ch|spare; excuse from; evade
+Z7591|103.9:14|yi2 ni3 ning2|nghi|ng¶, chßa tin|doubt, question, suspect
+Z62C9|64.5:8|la1 la2 la3 la4|la|lôi kéo|pull, drag; seize, hold;lengthen
+Z514B|10.5:7|ke4|kh¡c|ðäm ðang, gánh vác, háo th¡ng|gram; overcome; transliteration
+Z4ECD|9.2:4|reng2|nhßng|dña vài, chiªu theo|yet, still, as ever; again; keep Šing, continuing
+Z6A13|75.11:15|lou2 lÜ2|lâu|l¥u ðài, H°ng Lâu mµng|building of two or more stories
+Z4F5B|9.5:7|fo2 fu2|ph§t|chï ð¤ng tu hành giác ngµ, Ph§t Thích Ca, ph§t h÷c|buddha (contraction of MC bhiêtdha )
+Z8DB3
+Z4F4E|9.5:7|di1|ðê|th¤p, cúi xu¯ng, cao ðê (cao th¤p), ðê ð¥u tß c¯ hß½ng|low; to lower, hang, bend, bow
+Z5EE3|53.12:15|guang3|quäng|rµng rãi, quäng bá, tiªng Quäng Ðông|broad, wide, extensive
+Z7169|86.9:13|fan2|phi«n|phi«n não, phi«n muµn|bother, vex, trouble;troublesome
+Z9CE5
+Z986F|181.14:23|xian3|hi¬n|hi®n ra, hi¬n thi®n, hi¬n thánh|manifest, display; evident,clear
+Z78BC|112.10:15|ma3|mã|mã hi®u, mã s¯|number, numerals; yard; symbol
+Z571F
+Z7387|95.6:11|lÜshuai4 lÜe4|su¤t|dçn, theo, coi thß¶ng|to lead; ratio; rate; limit
+Z8056|128.7:13|sheng4|thánh|thánh nhân, tài giöi, cao siêu, chï vua|holy, sacred; sage
+Z58DE|32.16:19|huai4|hoÕi|x¤u, phá hoÕi|bad, spoil(ed), ruin, destroy
+Z521D|18.5:7|chu1|s½|thu· ban ð¥u, ban s½, s½ sinh|beginning, initial, primary
+Z5177|12.6:8|ju4|cø|công cø, vån cø|tool, implement; draw up, write
+Z9810|181.4:13|yu4|dñ|ðoán, s¨ ðªn, dñ b¸, dñ báo|prepare, arrange; in advance
+Z5440|30.4:7|ya1 ya5|nha|trþ t× chï sñ b¤t ng¶. Hài nhi nha: con Õ!|particle used express surprise
+Z773E|109.6:11|zhong4|chúng|s¯ ðông, ðÕi chúng|masses, people, multitude, crowd
+Z8CAC|154.4:11|ze2 zhai4|trách|khi¬n trách, trách móc, r¥y la|one's responsibility, one's duty
+Z722D|87.4:8|zheng1 zheng4|tranh|tranh ð¤u, tranh hùng|dispute, fight, contend, strive
+Z5175|12.5:7|bing1|binh|binh sî|soldier, troops
+Z667A|72.8:12|zhi4 zhi1|trí|trí mßu|wisdom, knowledge, intelligence
+Z8AA4|149.7:14|wu4|ngµ|hi¬u l¥m, ngµ nh§n|err, make mistake; interfere
+Z5883|32.11:14|jing4|cänh|tình trÕng, cänh gi¾i, hoàn cänh|boundery, frontier; area, region
+Z9752
+Z9806|181.3:12|shun4|thu§n|tuân theo, thu§n hòa, hiªu thu§n|obey, submit to, go along with
+Z91CE|166.4:11|ye3|dã|hoang dã|open country, field; wilderness
+Z695A|75.9:13|chu3|s·|khóm cây nhö, bøi gai, bóng choáng, kh± s·, nß¾c S·|name of feudal state; clear
+Z8CB4|154.5:12|gui4|quý|ð¡t, sang|expensive, costly, valuable
+Z8CA0|154.2:9|fu4|phø|cô phø, phø ân|load, burden; carry, bear
+Z58D3|32.14:17|ya1 ya4|áp|áp chª|press; oppress; crush; pressure
+Z53F2|30.2:5|shi3|sØ|l¸ch sØ|history, chronicle, annals
+Z9069|162.11:15|shi4 di2 ti4 zhe2|thích|thích hþp|match, comfortable; just
+Z4FC2|9.7:9|xi4|h®|quan h®, h® løy|bind, tie up; involve, relation
+Z6E2C|85.9:12|ce4|tr¡c|tr¡c nghi®m|measure, estimate, conjecture
+Z61F7|61.16:19|huai2|hoài|hoài c±|bosom, breast; carry in bosom
+Z8FCE|162.4:8|ying2 ying4|nghênh|ðón|receive, welcome, greet
+Z914D|164.3:10|pei4|ph¯i|ph¯i ngçu, phân ph¯i|match, pair; equal; blend
+Z9B54|194.11:21|mo2|ma|ma, quÖ, sÑc lôi cu¯n|demon, evil spirits; magic power
+Z6162|61.11:14|man4|mÕn|ch§m|slow(ly), leisurely, sluggish
+Z54C7|30.6:9|wa1 wa5|oa|ói ra, th± ra, khóc oa oa|vomit; cry of an infant
+Z61C2|61.13:16|dong3|d±ng|biªt, hi¬u|understand, comprehend
+Z55DA|30.10:13|wu1|ô|tiªng than|sound of crying, sobbing
+Z4EA6|8.4:6|yi4|di®c|cûng, cûng là|also, too; likewise
+Z5473|30.5:8|wei4|v¸|mùi, v¸|taste, smell, odor; delicacy
+Z8A55|149.5:12|ping2|bình|bình lu§n, phê bình|appraise, criticize, evaluate
+Z821E|136.8:14|wu3|vû|vû trß¶ng, vû công|dance, posture, prance; brandish
+Z7D30|120.5:11|xi4|tª|nhö, m¸n|fine, tiny; slender, thin
+Z91AB|164.11:18|yi1|y|chæa b®nh, th¥y thu¯c|cure, heal; doctor, medical
+Z5E1D|50.6:9|di4|ðª|hoàng ðª|supreme ruler, emperor; god
+Z5C6C|44.18:21|shu3 zhu3|thuµc|thuµc v«|class, category, type; belong to
+Z53E5|30.2:5|ju4 gou1|cú|câu, cú pháp|sentence
+Z6200|61.19:23|lian4|luyªn|luyªn ái|love; long for, yearn for; love
+Z6557|66.7:11|bai4|bÕi|thua|be defeated, decline, fail
+Z5B9C|40.5:8|yi2|nghi|nên|suitable, right, fitting, proper
+Z694A|75.9:13|yang2|dß½ng|h÷ Dß½ng|willow, poplar, aspen; surname
+Z7532|102.0:5|jia3|giáp|ðÑng ð¥u|armor, shell; fingernails; first
+Z8FFD|162.6:10|zhui1 dui1 tui1|truy|rßþt theo|pursue, chase after; expel
+Z704C|85.18:21|guan4 huan4|quán|tß¾i, dçn nß¾c, rót vào, ùa vào|pour; water; irrigate, flood
+Z6625|72.5:9|chun1 chun3|xuân|mùa xuân|spring; wanton;(nh§t + tam + nhân: Ngày xuân, 3 ngß¶i cùng ði dÕo)
+Z5DE6|48.2:5|zuo3|tä|trái, h÷ Tä|left; east; unorthodox, improper
+Z6562|66.8:12|gan3|cäm|bÕo dÕn, dám làm|dare, venture; be bold, be brave
+Z9748|173.16:24|ling2 ling4|linh|linh h°n|spirit, soul; spiritual world
+Z72C2|94.4:7|kuang2 jue2|cu°ng|ðiên r°, cu°ng, mãnh li®t, dæ dµi|insane, mad; violent; wild
+Z969B|170.11:14|ji4|tª|qu¯c tª|border, boundary, juncture
+Z7FA4|123.7:13|qun2|qu¥n|hþp qu¥n|group, crowd, multitude, mob
+Z65CF|70.7:11|zu2 zou4 cou4|tµc|gia tµc|family clan, ethnic group, tribe
+Z6728
+Z9A0E|187.8:18|qi2 ji4|kÜ|cßÞi, kÜ binh|ride horseback; mount; cavalry
+Z91CC
+Z9805|181.3:12|xiang4|hÕn|møc, thÑ|neck, nape of neck; sum; funds
+Z6232|62.13:17|xi4 xi1|hí|ch÷c gh©o, xu¤t hát, hí trß¶ng|theatrical play, show
+Z9047|162.9:13|yu4|ngµ|g£p nh¢m, tao ngµ|meet, come across, encounter
+Z72D7|94.5:8|gou3|c¦u|chó|dog, canis familiaris
+Z4F73|9.6:8|jia5|giai|ngß¶i ð©p, giai l®|good, auspicious; beautiful; delightful
+Z535A|24.10:12|bo2|bác|uyên bác|gamble, play games; wide, broad
+Z53F3|30.2:5|you4|hæu|bên phäi|right; west; right-wing
+Z75DB|104.7:12|tong4|th¯ng|th¯ng kh±, th¯ng khoái|pain, ache; sorry, sad; bitter
+Z71DF|86.13:17|ying2 cuo1|dinh, doanh|doanh trÕi, kinh doanh|encampment, barracks; manage
+Z59B9|38.5:8|mei4|muµi|em gái|younger sister
+Z5EB7|53.8:11|kang1|khang|khöe mÕnh, an khang|peaceful, quiet; happy, healthy
+Z5584|30.9:12|shan4|thi®n|hi«n, thi®n ác, lành, khéo|good, virtuous, charitable, kind
+Z5FB5|60.12:15|zheng1 zhi3|trßng|trßng c¥u dân ý, ð£c trßng|summon, recruit; musical note
+Z6B77|77.12:16|li4|l¸ch|träi qua|take place, past, history
+Z5B98|40.5:8|guan1|quan|quan|official, public servant
+Z723E|89.10:14|er3|nhî|mày, ngß½i; v§y, tiªng dÑt câu|you; that, those; final particle
+Z6309|64.6:9|an4|an|an bày, dña theo (.. kª hoÕch, v.v)|put hand on,press down with hand
+Z7DE8|120.9:15|bian1 bian4 bian3|Biên|ðan, b®n, tªt lÕi, s¡p ð£t, biên t§p|knit, weave; arrange; compile
+Z75C5|104.5:10|bing4|b¸nh, b®nh|b¸nh hoÕn|illness, sickness, disease
+Z8B77|149.14:21|hu4|hµ|bao che, bäo hµ|protect, guard, defend, shelter
+Z88DC|145.7:12|bu3|b±|b± dßÞng, vá, thêm, b± ích|mend, patch, fix, repair, restore
+Z64C7|64.13:16|ze2 zhai2|trÕch|ch÷n lña, phân bi®t, trÕch cát (ch÷n ngày t¯t)|select, choose, pick out
+Z6293|64.4:7|zhua1 zhao1|träo|gi½ tay ra chøp b¡t, nha träo|scratch; clutch, seize, grab
+Z77F3
+Z6B72|77.9:13|sui4|tuª|tu±i, nåm|year; age; harvest
+Z96BB|172.2:10|zhi1|chích|chiªc, nh¤t chích = 1 cái, 1 con|single, one of pair, lone
+Z9818|181.5:14|ling3|lãnh|nh§n, tâm lãnh, lãnh thß·ng|neck; collar; lead, guide
+Z5C0B|41.9:12|xun2 xin2|t¥m|tìm kiªm, vÕn lý t¥m phu|seek, search, look for; ancient
+Z6EAB|85.10:13|wen1|ôn|¤m, ôn nhu, ôn hòa t× ái|lukewarm, warm; tepid, mild
+Z990A|184.6:15|yang3 yang4|dßÞng|nuôi dßÞng, dßÞng døc, dßÞng phø|raise, rear, bring up; support
+Z6B62
+Z5B88|40.3:6|shou3 shou4|thü|giæ lÕi, thü tiªt, công thü|defend, protect, guard, conserve
+Z541B|30.4:7|jun1|quân|vua, chï ngß¶i ðàn ông|sovereign, monarch, ruler, chief
+Z8840
+Z7530
+Z96E8
+Z5C45|44.5:8|ju1 ji1|cß|·, an cß lÕc nghi®p|live, dwell, reside, sit
+Z8B02|149.9:16|wei4|v¸|nói, g÷i là, v¸ ngæ|say, tell; call, name; be called
+Z7570|102.7:11|yi4|d¸|khác bi®t, ð°ng âm d¸ nghîa, quái d¸|different, unusual, strange
+Z512A|9.15:17|you1|ßu|h½n|superior, excellent; actor
+Z8DF3|157.6:13|tiao4 tiao2 tao2 diao4|khiêu|nhäy, vßþt|jump, leap, vault, bounce; dance
+Z62DC|64.5:9|bai4|bái|lÕy|do obeisance, bow, kowtow
+Z721B|86.17:21|lan4|lÕn|nát b¤y, th¯i, ræa, rách nát, vøn, nh×, lµn xµn|rotten, spoiled, decayed
+Z5C01|41.6:9|feng1|phong|phong tß¾c|letter, envelope; feudal
+Z60E1|61.8:12|e4 wu4 wu1|ác|ác ðµc, x¤u|evil, wicked, bad, foul
+Z826F|138.1:7|liang2 liang3|lß½ng|t¯t, lß½ng thi®n, lß½ng tâm|good, virtuous, respectable
+Z6A21|75.11:15|mo2 mu2|mô|mô phÕm, mô phöng|model, standard, pattern; copy
+Z72C0|94.4:8|zhuang4|trÕng|trÕng thái, tình trÕng|form; appearance; shape;official
+Z6D6A|85.7:10|lang4 lang2|lãng|ðþt sóng, häi lãng (sóng bi¬n)|wave; wasteful, reckless
+Z804A|128.5:11|liao2 liu2|liêu|tÕm, mµt chút, dña vào, chuy®n phiªm|somewhat, slightly, at least
+Z589E|32.12:15|zeng1|tång|thêm vô, tång trß·ng|increase, add to, augment
+Z6838|75.6:10|he2 hu2|hÕch|hµt, hÕch, xem xét kÛ, hÕt nhân|seed, kernel, core, nut; atom
+Z6FC0|85.13:16|ji1 jiao4 jiao1|kích|kích ðµng, khích tß¾ng|arouse, excite, incite; quickly
+Z7DAD|120.8:14|wei2 yi2|duy|duy nh¤t, duy tân, tiªp n¯i, giæ gìn, bäo toàn|maintain, preserve, safeguard
+Z9678|170.8:11|lu4 liu4|løc|ð¤t li«n, løc quân, ðÕi løc|land, continental; army
+Z5433|30.4:7|wu2|ngô|h÷ Ngô, nß¾c Ngô|one of warring states; surname
+Z725B
+Z5FD9|61.3:6|mang2|mang|b§n|busy, pressed for time; hustling
+Z8A5E|149.5:12|ci2|t×|t×, t× ngæ|words; phrase, expression
+Z5287|18.13:15|ju4|cÑ|cån cÑ, dña theo, cÑ ði¬m|theatrical plays, opera, drama
+Z5BBF|40.8:11|su4 xiu3 xiu4|túc|ð² lÕi|stop, rest, lodge, stay overnight; constellation
+Z6025|61.5:9|ji2|c¤p|g¤p, kh¦n c¤p|quick, quickly; urgent, pressing
+Z5565|30.8:11|sha4|xá|gì nào? cái gì?|what?
+Z62B1|64.5:8|bao4|bão|ôm, ôm ¤p, hoài bão|embrace, hold in arms, enfold
+Z975C|174.8:16|jing4|t¸nh|yên ä, yên t¸nh|quiet, still, motionless; gentle
+Z653B|66.3:7|gong1|công|công phá, công thü|attack, assault; criticize
+Z4E9E|7.6:8|ya4 ya1|á|hÕng hai, châu á|asia; second
+Z6C5F|85.3:6|jiang1|giang|sông l¾n|large river; yangzi; surname
+Z81F4|133.3:10|zhi4 zhui4|chí|t¾i|send, deliver, present; cause
+Z9663|170.7:10|zhen4|tr§n|m£t tr§n, mµt quãng th¶i gian|column, row or file of troops
+Z56B4|30.17:20|yan2|nghiêm|nghiêm ngh¸, nghiêm trang, có oai nghi khiªn ngß¶i sþ|strict, rigorous, rigid; stern
+Z5B97|40.5:8|zong1|tôn, tông|dòng h÷, giáo phái, tôn phái, t± tông|lineage, ancestry; ancestor, clan
+Z8B66|149.13:20|jing3|cänh|cänh sát, cänh cáo|guard, watch; alert, alarm
+Z58D8|32.15:18|lei3 lei4 lei2 lÜ4|lûy|thành ð¡p b¢ng ð¤t, thành lûy|rampart, military wall
+Z592B|37.1:4|fu1 fu2|phu|ðàn ông, ch°ng|man, male adult, husband; those
+Z5BC6|40.8:11|mi4|m§t|bí m§t, m§t l®nh|dense, thick, close; intimate
+Z7761|109.8:14|shui4|thøy|ngü|sleep, doze
+Z5348|24.2:4|wu3|ng÷|bu±i trßa, gi¶ Ng÷, hÕ ng÷ (bu±i chi«u)|noon; seventh terrestrial branch
+Z5E97|53.5:8|dian4|ðiªm|cØa ti®m|shop, store; inn, hotel; (V¨ hình ông chü ðÑng sau bàn dß¾i mái nhà, gi½ tay m¶i vào)
+Z52E2|19.11:13|shi4|thª|quy«n thª, thª lñc|power, force; tendency
+Z60B2|61.8:12|bei1|bi|bu°n bã, bi ph¦n, t× bi, bi quan|sorrow, grief; sorry, sad
+Z862D|140.17:21|lan2|lan|Hoa Lan, cö th½m|orchid; elegant, graceful
+Z5E55|50.11:14|mu4|mµ|màn|curtain, screen, tent
+Z7DE3|120.9:15|yuan2 yuan4|duyên|duyên nþ|hem, margin; reason, cause; karma, fate
+Z9031|162.8:12|zhou1|châu, chu|1 tu¥n, chu ðáo, chu toàn|week; turn, cycle; anniversary
+Z5EE0|53.12:15|chang3|xß·ng|c½ xß·ng, hãng xß·ng|factory, plant, workshop, mill
+Z7C3D|118.13:19|qian1|thiêm|ð«u, toànbµ, ký tên, thåm, thë, d¤u hi®u, tåm, mÑc|sign, endorse; slip of paper
+Z5750|32.4:7|zuo4|t÷a|ng°i|sit; seat; ride, travel by
+Z9999
+Z723D|89.7:11|shuang3  shuang1|säng|hào säng, säng khoái|happy, cheerful; refreshing
+Z63A7|64.8:11|kong4 qiang1|kh¯ng|kh¯ng chª, vu kh¯ng|accuse, charge; control
+Z5FAE|60.10:13|wei1 wei2|vi|nhö li li, kính hi¬n vi|small, prefix micro-, trifling
+Z767B|105.7:12|deng1 de2|ðång|ði lên cao, ðång ðài|rise, mount, board, climb
+Z7FFB|124.12:18|fan1|phiên|l§t ð±, phiên d¸ch|flip over, upset, capsize
+Z666E|72.8:12|pu3|ph±|ph± biªn, ph± thông|universal, general, widespread
+Z883B|142.19:25|man2|man|dã man, bÕo ngßþc, m÷i rþ, r¤t|barbarians; barbarous, savage
+Z51B7|15.5:7|leng3|lãnh|lÕnh, lãnh cung, nhân tình noãn lãn (tình ð¶i ¤m lÕnh)|cold, cool; lonely
+Z5A01|38.6:9|wei1|uy|oai, dáng tôn nghiêm|pomp, power; powerful; dominate
+Z6BD2|80.4:9|du2 dai4|ðµc|ðµc, ác ðµc, ðµc dßþc|poison, venom; poisonous
+Z4FCA|9.7:9|jun4|tu¤n|ð©p, tu¤n tú|talented, capable; handsome
+Z7D61|120.6:12|luo4 lao4|lÕc|lung lÕc|enmesh, wrap around; web, net
+Z8F2F|159.9:16|ji2|viên|biên t§p viên|gather up, collect; edit,compile
+Z6BCD|80.1:5|mu3 mu2 wu3 wu2|mçu|m©, mçu h®, mçu tØ|mother; female elders; female
+Z5275|18.10:12|chuang4 chuang1|sáng|sáng tÕo|establish, create; knife cut
+Z5802|32.8:11|tang2|ðß¶ng|phòng l¾n nh¤t trong nhà, nhà khách|hall; government office
+Z8D99|156.7:14|zhao4 tiao3 diao4|tri®u|h÷ Tri®u|surname; ancient state
+Z5957|37.7:10|tao4|sáo|bao ngoài, chøp l°ng|case, cover, wrapper, envelope
+Z820A|134.12:18|jiu4|cñu|cû, cñu giao (ngß¶i quen cû)|old, ancient; former, past
+Z96DC|172.10:18|za2|tÕp|lçn lµn|mixed, blended; mix, mingle
+Z5468|30.5:8|zhou1|châu, chu|chu ðáo, chu toàn, h÷ Châu, h÷ Chu|zhou dynasty; circumference
+Z8FF0|162.5:9|shu4|thu§t|nói rõ, tr¥n thu§t|narrate, state, express
+Z6050|61.6:10|kong3|khüng|sþ, hoäng h¯t, khüng hoäng, khüng b¯|fear; fearful, apprehensive
+Z5E78|51.5:8|xing4 han2|hÕnh|may, hÕnh phúc|luck(ily), favor, fortunately
+Z4EAE|8.7:9|liang4|lßþng|sáng, thanh cao|bright, brilliant, radiant, light
+Z9E97|198.8:19|li4 li2|l®|xinh ð©p, di­m l®, mÛ l®|beautiful, magnificent, elegant
+Z5DF4|49.1:4|ba1|ba|mong, ngóng, ba-sî (xe buýt)|greatly desire, anxiously hope
+Z79AE|113.13:18|li3|l­|l­ nghîa, l­ nghi|social custom; manners; courtesy
+Z9152|164.3:10|jiu3|tØu|rßþu|wine, spirits, liquor, alcoholic
+Z4EC1|9.2:4|ren2|nhân|ðÕo lý làm ngß¶i|humaneness, benevolence, kindness
+Z9910|184.7:16|can1 sun4|xan|bæa ån|eat, dine; meal; food
+Z724C|91.8:12|pai2|bài|cái bi¬n, nhãn hi®u, c² bài, bài|signboard, placard
+Z7A81|116.4:9|tu2 tu1|ðµt|b¤t chþt, ðµt phát, ðµt nhiên|suddenly, abruptly, unexpectedly
+Z8173|130.9:13|jiao3 jue2|cß¾c|chân, thiªt cß¾c quy«n :)|foot; base, leg, foundation
+Z528D|18.13:15|jian4|kiªm|gß½m, kiªm, v§t s¡c bén|sword, dagger, saber
+Z62DB|64.5:8|zhao1 qiao2 shao2|chiêu|chiêu mµ, chiêu dø|beckon, summon; recruit, levy
+Z5409|30.3:6|ji2|cát|t¯t lành|lucky, propitious, good; (kh¦u + sî: L¶i thoát ra t× mi®ng ngß¶i có h÷c thß¶ng là l¶i t¯t lành)
+Z7236
+Z4ED4|9.3:5|zi3 zai3|tØ, t¬|gánh vác, kÛ lßÞng (tØ tª), chï con trai nhö (Cantonese)|small thing, child; young animal
+Z5178|12.6:8|dian3|ði¬n|sñ cû, phép t¡c|law, canon; documentation; class
+Z641E|64.10:13|gao3|cäo|bän cäo|to clear, clarify
+Z623F|63.4:8|fang2 pang2|phòng|bu°ng, phòng ¯c, gian phòng|house, building; room
+Z7D20|120.4:10|su4|t¯|màu v¯n có, chay, màu tr¡ng|white (silk); plain; vegetarian; formerly; normally
+Z9632|170.4:7|fang2|phòng|ð« phòng|defend; prevent; embankment
+Z6388|64.8:11|shou4|thø|trao cho, giäng dÕy|give to, transmit; confer
+Z5145|10.3:5|chong1|sung|g÷p vô, b± sung, sung quân, sung sÑc|fill, be full, supply
+Z8349|140.6:10|cao3 zao4|thäo|cö|grass, straw, thatch, herbs
+Z66B4|72.11:15|bao4 pu4 bo2|bÕo|bÕo lñc, tàn bÕo|violent, brutal, tyrannical
+Z616E|61.11:15|lÜ|lñ|lo l¡ng, tß lñ|be concerned, worry about
+Z7D39|120.5:11|shao4 chao1|thi®u|n¯i li«n|continue, carry on; hand down; to join
+Z80CC|130.5:9|bei4 bei1|b¯i|phía lßng, phän bµi, bµi nghîa|back; back side; behind; betray
+Z5289|18.13:15|liu2|lßu|giªt, giãi bày, h÷ Lßu|surname; kill, destroy
+Z59D4|38.5:8|wei3 wei1|üy|üy thác, üy nhi®m, üy ban|appoint, send, commission
+Z5E9C|53.5:8|fu3|phü|phü quan, tri phü|prefecture; prefect; government
+Z666F|72.8:12|jing3 ying3|cänh|cänh trí, dàn cänh|scenery, view; conditions
+Z61B6|61.13:16|yi4|Ñc|100 tri®u (cû là 10 vÕn)|remember, reflect upon; memory
+Z5C24|43.1:4|you2|vßu|ð£c bi®t, xu¤t s¡c, nh¤t là|especially, particularly
+Z8AF8|149.9:15|zhu1 chu2|chß|chßng, m÷i, chß v¸|several, various;
+Z7F3A|121.4:10|que1|khuyªt|thiªu, höng, v¡ng, ch² tr¯ng|be short of, lack; gap, deficit
+Z63F4|64.9:12|yuan2|vi®n|bám víu, vi®n ra, dçn ra, vi®n trþ|aid, assist; lead; cite
+Z6F2B|85.11:14|man4 man2|mÕn, man|tràn ra, tñ do, tän mÕn|overflow of water; spreading
+Z7434|96.8:12|qin2|c¥m|ðàn|chinese lute or guitar
+Z7F75|122.10:15|ma4|mÕ|chØi, m¡ng, trách|accuse, blame, curse, scold
+Z7D14|120.4:10|chun2 quan2 tun2 zhun1 zhun3 zi1|thu¥n|tinh khiªt, không pha tÕp, ðiêu luy®n|pure, clean, simple
+Z5C1A|42.5:8|shang4 chang2|thßþng|tôn sùng, chú tr÷ng, còn|still, yet; even; fairly, rather
+Z85DD|140.15:19|yi4|ngh®|kÛ nång, kÛ thu§t, ngh«, ngh® thu§t|art; talent, ability; craft
+Z60DC|61.8:11|xi1|tích|tiªc, luyªn tiªc|pity, regret, rue, begrudge
+Z7F6E|122.8:13|zhi4|trí|gác lên, ð£t, an trí|place, lay out; set aside
+Z76CA|108.5:10|yi4|ích|lþi ích, làm lþi cho|profit, benefit; advantage
+Z59D0|38.5:8|jie3|tä (tï)|ch¸ gái|elder sister, young lady
+Z8AA0|149.7:13|cheng2|thành|thành thñc, th§t|sincere, honest; true, real
+Z7E7C|120.14:20|ji4|kª|n¯i tiªp, sau ðó, r°i sau|continue, maintain, carry on
+Z6E56|85.9:12|hu2|h°|h° nß¾c, h¯|lake; Hubei, Hunan; bluish-green
+Z6B32|76.7:11|yu4|døc|ham mu¯n, mong mu¯n, c¥n|desire, want, long for; intend
+Z9EBB
+Z9760|175.7:15|kao4|kháo|tña, dña, trông c§y vào, tin c§y|lean on, trust, depend on; near
+Z8089
+Z523B|18.6:8|ke4|kh¡c|ðiêu kh¡c, th¶i gian ng¡n, r¤t|carve, engrave; quarter hour
+Z7D00|120.3:9|ji4 ji3|kÖ|kÖ lu§t, kÖ ni®m, th¶i gian dài|record, annal,historical account
+Z9000|162.6:10|tui4|thoái|lùi lÕi, tiªn thoái lßÞng nan|step back, retreat, withdraw
+Z65E2|71.5:9|ji4 xi4|ký|ðã, ðã ... thì, ðã ... lÕi, hªt, r°i, v« sau|already; de facto; since; then
+Z542B|30.4:7|han2|hàm|bao hàm, hàm ¦n, hàm chÑa|hold in mouth; cherish; contain
+Z5224|18.5:7|pan4|phán|phán ðoán, phán quyªt|judge; discriminate; conclude
+Z91CB|165.13:20|shi4 yi4|d¸ch|phiên d¸ch|interprete, elucidate; release
+Z76AE
+Z6CE2|85.5:8|bo1 bei1 bi4|ba|sóng, ba ðào, sóng m¡t ngß¶i ð©p|waves, breakers; undulations
+Z627F|64.4:8|cheng2 zheng3|th×a|nh§n, th×a kª sän nghi®p, th×a nh§n|inherit, receive; succeed
+Z5C04|41.7:10| she4 yi4 ye4|xÕ|b¡n, xÕ thü|shoot, eject, issue forth, emit
+Z5806|32.8:11|dui1|ðôi|1 ð¯ng, gom lÕi thành ð¯ng, ch°ng ch¤t|heap, pile, crowd; pile up
+Z83AB|140.7:11|mo4 mu4|mÕc|ð×ng nói, mÕc v¤n (ð×ng höi)|do not, is not, can not;negative
+Z88FD|145.8:14|zhi4|chª|chª tÕo, chª tác|make, manufacture; produce
+Z9375|167.9:17|jian4|ki®n|cái khóa|door bolt, lock bolt; key
+Z8D95|156.7:14|gan3|cän|vµi, g¤p rút, ðu±i theo|pursue, follow; expel,drive away
+Z65C1|70.6:10|pang2 bang4|bàng|trÕi 1 bên, bàng quang|side; by side, close by, near
+Z7B46|118.6:12|bi3|bút|viªt|writing brush; write; stroke
+Z6241|63.5:9|bian3 pian1 bian4|bi¬n|d©p, b©t|flat; tablet, signboard
+Z8A3B|149.5:12|zhu4|chú|chú giäi, ð±, trút, chåm chú, chú thích, ðång ký, ðã ghi vào|explain; annotate; make entry
+Z594F|37.6:9|zou4|t¤u|t¤u chß½ng|memorialize emperor; report
+Z6A39|75.12:16|shu4|thø|cây to, c± thø, ðÕi thø|tree; plant; set up, establish
+Z5F8B|60.6:9|lÜ4|lu§t|niêm lu§t, pháp lu§t|statute, principle, regulation
+Z9435|167.13:21|tie3 die2|thiªt|thiªt, cÑng r¡n|iron; strong, solid, firm
+Z69AE|75.10:14|rong2|vinh|vinh quang|glory, honor; flourish, prosper
+Z6628|72.5:9|zuo2|tác|ðã qua, tác niên (nåm ngoái)|yesterday; in former times, past
+Z6BDB
+Z5F69|59.8:11|cai3|th¬|ðü màu, th¬ vân|hue, color; variegated colors
+Z6B78|77.14:18|gui1 kui4|quy|tr· v«, quy ¦n, quy h°i|return; return to, revert to
+Z864E|141.2:8|hu3 hu4|h±|c÷p|tiger; brave, fierce; surname
+Z7F6A|122.8:13|zui4|tµi|tµi ác, tµi nghi®t|crime, sin, vice; evil; hardship
+Z7686|106.4:9|jie1|giai|ð«u, cùng, kh¡p|all, every, everybody
+Z8449|140.9:13|xie2 ye4 ye4 she4|di®p|lá, t¶, thªp, ngành|leaf, petal; page of book;period
+Z552E|30.8:11|shou4|thø|bán|sell
+Z5F48|57.12:15|dan4 tan2|ðÕn|ðÕn, hòn, viên, bom|pellet, bullet, shot, shell
+Z885B|144.9:15|wei4|v®|bäo v®, giæ gìn, v® sinh|guard, protect, defend
+Z65BD|70.5:9|shi1 shi3 yi2 yi4|thi|thi hành, thñc hi®n|grant, bestow; give; act; name
+Z9298|167.6:14|ming2|minh|bài vån kh¡c vào ð°ng, ðá|inscribe, engrave; unforgettably
+Z5200
+Z584A|32.10:13|kuai4|kh¯i|cøc, miªng, mänh, täng, ð°ng ti«n|piece, lump; dollar
+Z6F22|85.11:14|han4 tan1|hán|hán tµc, hán ngæ|chinese people; chinese language
+Z6B23|76.4:8|xin1|hân|vui vë|happy, joyous, delighted
+Z5E03|50.2:5|bu4|b¯|väi|cotton cloth, textiles, linen
+Z8CDE|154.8:15|shang3|thß·ng|giäi thß·ng, thß·ng thÑc|reward, grant, bestow;appreciate
+Z8F09|159.6:13|zai4 zai3 dai4 zai1 zi1|täi|chuyên ch·|load; carry; transport, convey
+Z96AA|170.13:16|xian3 yan2 jian3|hi¬m|nguy hi¬m|narrow pass, strategic point, dangerous
+Z64AD|64.12:15|bo4 bo3 bo1|bá|gieo ra, vung ra, làm lan rµng|sow, spread; broadcast; case away, reject
+Z5347|24.2:4|sheng1|thång|nâng cao, lít, thùng|arise, go up; hoist; advance
+Z9418|167.12:20|zhong1|chung|chuông, ð°ng h°|clock; bell
+Z5BC4|40.8:11|ji4|ký|gØi, nh¶ vä|send, transmit, mail; rely on
+Z5F04|55.4:7|nong4 long4 long4|lµng|ch½i, ngh¸ch, làm, kiªm tìm, gi·, gi· thói|do, play or fiddle with; alley
+Z4ED8|9.3:5|fu4|phó|giao cho, ðßa cho, trä, chi|give, deliver, pay, hand over; entrust
+Z69CB|75.10:14|gou4|c¤u|làm ra, tÕo thành|frame, building, structure
+Z56C9|30.19:22|luo1 lou2|la|lôi thôi, r¡c r¯i, lß¾i, bày ra|exclamatory final particle, nag
+Z78C1|112.9:14|ci2|t×|t× trß¶ng, nam châm|magnetic; magnetism; procelain
+Z87A2|142.10:16|ying2|huÏnh|ánh sáng tù mù, r¯i hoa m¡t|glow-worm, luminous insect
+Z5049|9.9:11|wei3|vî|l¾n, to|great, robust; extraordinary
+Z85A6|140.13:17|jian4|tiªn|cö, r½m, dâng, tiªn cØ|offer, present; recommend
+Z6D0B|85.6:9|yang2 xiang2 yang3|dß½ng|bi¬n l¾n, nß¾c ngoài, hi®n ðÕi, m¾i|ocean, sea; foreign; western
+Z563F|30.12:15|mo4 hei1|h¡c|¤y, này, ô, ½, ô hay, ½ này, üa|be silent, be quiet
+Z555F|66.7:11|qi3|khäi|m·, b¡t ð¥u, trình bày|open; begin
+Z6885|75.7:11|mei2|mai|Cây mai, m½|plums; prunes; surname
+Z7B56|118.6:12|ce4|sách|thë g², thë tre, kª hoÕch|scheme, plan; whip; urge
+Z563B|30.12:15|xi1|hi|cß¶i hihi, ôi! l¶i than|mirthful, happy; interjection
+Z71C8|86.12:16|deng1|ðång|ðèn, bóng ðèn|lantern, lamp
+Z9B3C
+Z6AA2|75.13:17|jian3|ki®m|dè sën, tiªt ki®m|check; examine
+Z5BA3|40.6:9|xuan1|tuyên|nói ra, kh½i giòng|declare, announce, proclaim
+Z54E6|30.7:10|e2 o2 o4|nga|ngâm nga|oh? really? is that so?
+Z5ABD|38.10:13|ma1|ma|ma ma: má, m©|mother, mama
+Z5747|32.4:7|jun1 yun4|quân|ð«u|equal, even, fair; all, also
+Z6D3E|85.6:9|pai4 mai4 bai4 pa1|phái|phe, nhóm, bÕn, cánh|school of thought, sect, branch
+Z8C6C|152.9:15|zhu1|trß|heo, lþn|pig, hog
+Z6FDF|85.14:17|ji4 ji3 qi2|t¬|cÑu giúp, qua sang,ch² lµi sang|help, aid, relieve; ferry, cross
+Z67B6|75.5:9|jia4|giá|khung, giá, dña, b¡t, ðÞ, dìu|rack, stand, prop; prop up
+Z4EAB|8.6:8|xiang3|hß·ng|hß·ng thø|enjoy
+Z5446|30.4:7|ai2 dai1|ngai|ð¥n, ng¶ ngh®ch|dull; dull-minded, simple, stupid
+Z8A13|149.3:10|xun4|hu¤n|dÕy bäo, khuyên rån|teach, instruct; exegesis
+Z85CD|140.14:18|lan2 la5|lam|xanh lam, chàm, xanh da tr¶i|blue; indigo plant; surname
+Z5283|18.12:14|hua4 hua2|hoÕch|phân chia, gi¾i hÕn, v¨|divide, mark off, lay boundary
+Z64D4|64.13:16|dan1 dan4|ðäm|gánh, ch¸u trách nhi®m|carry, bear, undertake
+Z52AA|19.5:7|nu3|n²|g¡ng, c¯|exert, strive, make effort; pout
+Z90ED|163.8:11|guo1 guo2|quách|cái thành ngoài, bµ ph§n · ngoài|outer part (of a city); surname
+Z6B49|76.10:14|qian4|khi¬m, hi«m|có l²i, mùa màng th¤t bát|deficient, lacking, insufficient
+Z7D19|120.4:10|zhi3|chï|gi¤y|paper
+Z8CBC|154.5:12|tie1|thiªp|dán, áp sát, theo dõi|paste to, stick on; attached to
+Z6697|72.9:13|an4|ám|t¯i m¶, ng¥m|dark; obscure; in secret, covert
+Z547C|30.5:8|hu1 xu1|hô|th· ra, hô, kêu g÷i|breathe sigh, exhale; call, shout
+Z7F77|122.10:15|ba4 ba5 bai3 pi2 pi4 bi3|bãi|ng×ng, thôi|cease, finish, stop; give up
+Z5DE7|48.2:5|qiao3|xäo|khéo, giöi, v×a v£n|skillful, ingenious, clever
+Z6167|61.11:15|hui4|tu®|trí sáng, lanh l©, trí tu®|bright, intelligent; intelligence
+Z7A7F|116.4:9|chuan1|xuyên|xö, xâu, ðøc, khoét, ði qua|penetrate, pierce, drill; wear
+Z8A73|149.6:13|xiang2 yang2|tß¶ng|nói rõ, kÛ|detailed, complete, thorough
+Z96F7|173.5:13|lei2 lei4|lôi|s¤m, vû khí n±|thunder
+Z5354|24.6:8|xie2|hi®p|cùng chung, giúp ðÞ|be united; cooperate
+Z7763|109.8:13|du1|ð¯c|ðôn ð¯c, chï huy, ð¯c thúc|supervise, oversee, direct
+Z9867|181.12:21|gu4|c¯|ngoänh, nhìn, ðªn thåm|look back; look at; look after
+Z81C9|130.13:17|lian3|ki¬m|m£t, m£t trß¾c, th¬ di®n, nét m£t|face; cheek; reputation
+Z9022|162.7:11|feng2 pang2 peng2|phùng|g£p, vào|come upon, happen meet; flatter
+Z5CF6|46.7:10|dao3|ðäo|hòn ðäo|island
+Z734E|94.11:15|jiang3|tß·ng|khen thß·ng, giäi thß·ng|prize, reward; give award to
+Z6E38|85.9:12|you2 liu2|du|rong ch½i, giao du|swim; float, drift; wander, roam
+#-----
+H4E45
+H4E86
+H4ECE|9.2|cong2|tòng|theo sau|(2 nhân: Ngß¶i sau ði theo ngß¶i trß¾c)
+H4F86
+H4ECB
+H4EF6
+H4F11|9.4|xiu1|hßu|nghï ng½i|(nhân + mµc: Ngß¶i ta ng°i dña cây ð¬ nghï ng½i)
+H5143
+H5144
+H53E4
+H5409
+H54C1
+H544A
+H56DA|31.2|qiu2|tù|tù tµi|(vi + nhân: Ngß¶i tù b¸ nh¯t trong 4 bÑc tß¶ng)
+H592A
+H592D|37.1|yao3|y¬u|chªt non|(Hình ngß¶i có ð¥u lìa khöi c± là chªt non)
+H5929
+H597D
+H59E6|38.6|jian1|gian|xäo trá, không ngay th§t|(3 næ: Quan ni®m xßa cho là con gái g£p nhau bàn chuy®n x¤u)
+H5982
+H5B57
+H5B89
+H5BB6
+H5BB4|40.7|yan4|yªn|ti®c rßþu|(miên + nh§t + næ: Dß¾i mái nhà cüa ngày ngß¶i con gái v« nhà ch°ng, thß¶ng ðãi ti®c)
+H5BCC|40.9|fu4|phú|giàu|(miên + nh¤t + kh¦u + ði«n: Dß¾i mái nhà, chï có 1 mi®ng ån, 1 thØa ruµng thì phäi giàu)
+H60B6|61.8|men4|muµn|bu°n r¥u|(tâm + môn: trái tim bu°n r¥u ng°i tña cØa ðþi ch¶)
+H6676|72.8|jing1|tinh|sáng|(3 nh§t: Ba m£t tr¶i thì nh¤t ð¸nh phäi sáng)
+H660E
+H6625
+H66F2
+H670B
+H6797
+H68EE|75.8|sen1|sâm|r§m rÕp|(3 mµc: ð¤t có 3 cây thì quá r§m rÕp)
+H672A
+H672B|75.1|mo4|mÕt|cu¯i cùng, ng÷n|(mµc + nh¤t gÕch ngang dài: ð¬ ðánh d¤u ð¥u ng÷n cây)
+H672C
+H679C
+H6771
+H7262|93.3|lao2|lao|nhà ngøc|(ngßu + miên: · trong nhà ngøc gi¯ng nhß con bò b¸ nh¯t trong chu°ng)
+H76DF|108.8|meng2|minh|th« ß¾c|(nh§t + nguy®t + mãnh: Nâng chén rßþu cùng th« th¯t dß¾i v¥ng nh§t nguy®t)
+H9592|169.4|xian2|nhàn|nhàn hÕ|(môn + nguy®t: Còn gì nhàn b¢ng ðêm ðêm ng¡m ánh trång xuyên qua cØa)
+H5E97
+#-----
+P4F60
+P597D
+P55CE
+P6211
+P5F88
+P5462
+P4E5F
+P5FD9
+P4E0D
+P54E5
+P4ED6
+P5F1F
+P5011
+P90FD
+P9019
+P662F
+P7238|88.4:8|ba4|ba|ba ba: b¯, cha|father
+P5ABD
+P670B
+P53CB
+P7684
+P8ECA
+P90A3
+P5979
+P66F8
+P5927
+P592B
+P54EA
+P570B
+P4EBA
+P8AB0
+P8001
+P5E2B
+P6F22
+P8A9E
+P4EC0
+P9EBC
+P5730
+P5716
+P770B
+P8ACB
+P559D|30.9:12|he1|hát|u¯ng, quát, hét|drink, shout
+P8336|140.6:10|cha2|trà|trà|tea
+P60A8
+P9032
+P6B61
+P8FCE
+P8B1D
+P5BA2
+P6C23
+P5438|30.4:7|xi1|h¤p|hút, hít vào|inhale, absorb
+P7159|86.9:13|yan1|yên|khói, thu¯c lá|smoke, cigarette, tobacco
+P8CB4
+P59D3|38.5:8|xing4|tính|h÷|last name, clan
+P554F
+P7559
+P5B78
+P751F
+P53EB
+P5916
+P9662
+P91AB
+P7FD2
+P5728
+P5750
+P5152
+P5BBF
+P820D|135.2:8|she4|xá|quán tr÷, nhà ·|house, reside
+P4F4F
+P591A
+P5C11
+P865F
+P5C64|44.12:15|ceng2|t¢ng|t¥ng, l¾p|storey, layer, floor
+P5EC1|53.9:12|ce4|xí|chu°ng, ch²|toilet, lavatory
+P6240
+P4E00
+P4E8C
+P4E09
+P56DB
+P4E94
+P516D
+P4E03
+P516B
+P4E5D
+P5341
+P9084
+P756B
+P5831
+P8A5E
+P5178
+P73FE
+P96FB
+P8A71
+P96E8
+P5098|9.10:12|san3|tän|ô, dù|umbrella, parachute
+P7528
+P4E0B
+P518D
+P898B
+P5973
+P5148
+P8A8D
+P8B58
+P82F1
+P6CD5
+P53BB
+P540D
+P5B57
+P5582|30.9:12|wei4|úy|chào|hello!
+P554A
+P5546
+P5E97
+P8CB7
+P7B46
+P7D19
+P4F86
+P4ECB
+P7D39
+P7537
+P5C0D
+P4E86
+P548C
+P8AAA
+P90F5|163.8:12|you2|bßu|bßu ði®n|postal, mail, post office
+P7968
+P6388
+P4F5C
+P5DE5
+P60F3
+P5BB6
+P6709
+P6C92
+P59B9
+P59D0
+P9280|167.6:14|yin2|ngân|bÕc|silver, cash, money, wealth
+P884C
+P611B
+P5B69
+P5B50
+P7D66
+P5BEB
+P4FE1
+P544A
+P8A34
+P8077
+P54E1
+P7A0B
+P7D93
+P7406
+P516C
+P53F8
+P4E2D
+P6587
+P7CFB
+P500B
+P5E7E
+P6559
+P53E3
+P6562
+P7576
+P4E92|7.2:4|hu4|h±|ð¡p ð±i|mutually
+P76F8
+P65B0
+P95B1|169.7:15|yue4|duy®t|xem xét|examine, inspect, review, read
+P89BD|147.14:21|lan3|lãm|xem, ch¸u nh§n|look at, inspect
+P5BA4
+P96DC
+P8A8C|149.7:14|zhi4|chí|ghi nh¾, bài viªt|write down, record, magazine
+P672C
+P9928
+P73ED
+P5BE6
+P9A57
+P501F|9.8:10|jie4|tá|vay mßþn|borrow, lend
+#-----
+L6708
+L5DDB
+L4E0A
+L4E2D
+L65E9
+L4EBA
+L53EA|30.2:5|zhi3|chï|chï|only, just, simply
+L53F0
+L4E5F
+L4ED6
+L6709
+L540C
+L8001
+L8003
+L9577
+L6069|61.6:10|en1|ân|½n, cùng yêu nhau|kindness, mercy, charity
+L5E38
+L55AE
+L7406
+L91CD
+L6307
+L90E8
+L9053
+L610F
+L66F8
+L5357
+L570B
+L5B78
+L5409
+L540F|30.3:6|li4|lÕi|sØa tr¸, quan lÕi|government official, magistrate
+L5408
+L5947
+L5E78
+L501A|9.8:10|yi3|Ö|dña vào|rely on, depend on, lean heavily
+L4E4E
+L963F
+L5F9E
+L4E0D
+L4EC1
+L5E73
+L751F
+L9756|174.5:13|jing4|tînh|tînh l£ng|pacify, calm, peaceful
+L6545
+L5144
+L5F1F
+L4ECB
+L7D39
+L798F
+L5E74
+L9752
+L5747
+L7576
+L6642
+L8CE0|154.8:15|pei2|b°i|ð«n trä, sút kém|indemnify, suffer loss
+L511F|9.15:17|chang2|thß¶ng|ð«n, bù|repay, recompense
+L7AAE|116.10:15|qiong2|cùng|cùng cñc, ðªn hªt|poor, impoverished
+L7A98|116.7:12|jiong3|quçn|cùng quçn|embarrassed, hard-pressed
+L80DE|130.5:9|bao1|bào|bào thai|womb, placenta, fetal membrane
+L6B77
+L53F2
+L7591
+L60D1|61.8:12|huo4|ho£c|ng¶ lÕ, mê|confuse, mislead, doubt
+L5152
+L7AE5|117.7:12|tong2|ð°ng|trë th½|child, boy, servant boy, virgin
+L7AEF|117.9:14|duan1|ðoan|ngay thÆng, ð¥u m¯i|end, extreme, head, beginning
+L5805|32.8:11|jian1|kiên|b«n ch£t, c¯ sÑc|hard, strong, firm
+L5FCD|61.3:7|ren3|nhçn|nh¸n|endure, bear, suffer
+L5D07|46.8:11|chong2|sùng|tôn kính|esteem, honor, revere, venerate
+L62DC
+L7CBE
+L795E
+L5112|9.14:16|ru2|nho|h÷c trò, ðÕo nho|Confucian scholar
+L96C5|172.4:12|ya3|nhã|d¸u dàng|elegant, graceful
+L4EF0|9.4:6|yang3|ngßÞng|ngØa m£t lên, kính mªn|look up to, admire
+L6155|61.11:15|mu4|mµ|mªn, hâm mµ|long for, desire, admire
+L5922
+L5146|10.4:6|zhao4|tri®u|ði«m, tri®u (s¯)|ome, million, mega
+L5A01
+L5100|9.13:15|yi2|nghi|dáng, l­ nghi|ceremony, rites gifts, admire
+L5109|9.13:15|jian3|ki®m|t¥n ti®n|temperate, frugal, economical
+L7BC0
+L6DD2|85.8:11|qi1|thê|lÕnh l¨o, cùng kh±|bitter cold, miserable, dreary
+L6DBC|85.8:11|liang2|lß½ng|möng, lÕnh|cool, cold, disheartened
+L69AE
+L83EF
+L6ED4|85.10:13|tao1|thao|chäy cu°n cuµn|overflow, rushing water
+L5E7C|52.2:5|you4|¤u|nhö, bé|infant, young child, immature
+L4F55
+L70BA
+L512A
+L52DD
+L52A3|19.4:6|lie4|li®t|kém, yªu|bad, inferior, slightly
+L6557
+L767E
+L6230
+L8CA7|154.4:11|pin2|b¥n|nghèo|poor, impoverished, needy
+L76DC|108.7:12|dao4|ðÕo|cß¾p, trµm|rob, steal, thief, bandit
+L8CCA|154.6:13|zei2|t£c|kë trµm, gi£c|thief, traitor
+L79CB|115.4:9|qiu1|thu|mùa thu, nåm|autumn, fall, year
